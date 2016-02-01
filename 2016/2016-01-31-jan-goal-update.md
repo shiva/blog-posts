@@ -27,7 +27,7 @@ It has not been a great start. It, however, has been a busy one.
 
    At the moment, the goal is to get parity with apps like instapaper or evernote. The eventual goal, is to make notedown provide automatic tagging and aggregation of links. For the next month, I will focus on getting this solution deployed with a simple gui that is cross-platform.
 
-   If you are interested in the idea, you can reach me on [twitter][3], or [![Gitter](https://badges.gitter.im/shiva/notedown.svg)](https://gitter.im/shiva/notedown?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) or hack at it on [github][4].
+   If you are interested in the idea, you can reach me on [twitter][3], or [Gitter][5] or hack at it on [github][4].
 
  - Blog once a week: Failing miserably.
    As this post illustrates, I have procrastinated all month long. I guess two posts a month is still better than none. 
@@ -37,6 +37,7 @@ It has not been a great start. It, however, has been a busy one.
 [2]: https://auth0.com/
 [3]: http://twitter.com/shiva
 [4]: https://github.com/shiva/notedown
+[5]: https://gitter.im/shiva/notedown?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 
 
 
