@@ -5,7 +5,6 @@ categories: \[\]
 tags: \[\]
 published: true
 meta:
-tags: ''
 \_utw\_tags\_0: s:53:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Reviews";}}";
 \_edit\_last: '1'
 dsq\_thread\_id: '3038438'

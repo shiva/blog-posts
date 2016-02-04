@@ -2,7 +2,6 @@
 layout: post
 title: Actually I got a Creative Zen Micro instead
 categories: \[\]
-tags: \[\]
 published: true
 meta:
 tags: '"zen micro" "mp3 players"'

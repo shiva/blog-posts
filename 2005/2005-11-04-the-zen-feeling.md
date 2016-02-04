@@ -2,7 +2,6 @@
 layout: post
 title: The zen feeling!
 categories: \[\]
-tags: \[\]
 published: true
 meta:
 tags: creative mp3-player gadgets headphones sennheiser

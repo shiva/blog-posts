@@ -5,7 +5,6 @@ categories: \[\]
 tags: \[\]
 published: true
 meta:
-tags: ''
 \_utw\_tags\_0: s:154:"a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:5:"Books";}i:1;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:2;O:8:"stdClass":1:{s:3:"tag";s:7:"Reviews";}}";
 author:
 login: admin

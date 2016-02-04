@@ -2,8 +2,6 @@
 layout: post
 title: SNMP tutorials
 categories: \[\]
-tags:
-- coding
 published: true
 meta:
 tags: SNMP books tutorials networking

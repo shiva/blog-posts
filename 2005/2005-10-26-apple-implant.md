@@ -2,7 +2,6 @@
 layout: post
 title: Apple iMplant
 categories: \[\]
-tags: \[\]
 published: true
 meta:
 tags: apple weird-tech news gadgets

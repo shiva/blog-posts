@@ -5,7 +5,6 @@ categories: \[\]
 tags: \[\]
 published: true
 meta:
-tags: ''
 \_utw\_tags\_0: no tags
 dsq\_thread\_id: '3252126'
 author:

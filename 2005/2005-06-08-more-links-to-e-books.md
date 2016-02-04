@@ -5,7 +5,6 @@ categories: \[\]
 tags: \[\]
 published: true
 meta:
-tags: ''
 \_utw\_tags\_0: s:149:"a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:5:"Books";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Reviews";}i:2;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
 \_oembed\_c657f0dd043fa4489532a43314b187ca: '{{unknown}}'
 \_oembed\_0befcf33b221d262f3987147e44ddbb3: '{{unknown}}'

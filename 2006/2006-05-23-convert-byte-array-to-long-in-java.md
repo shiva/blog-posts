@@ -6,7 +6,6 @@ tags:
 - coding
 published: true
 meta:
-tags: ''
 \_utw\_tags\_0: s:148:"a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"coding";}i:1;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:2;O:8:"stdClass":1:{s:3:"tag";s:4:"Java";}}";
 \_aktt\_hash\_meta: ''
 aktt\_notify\_twitter: 'no'

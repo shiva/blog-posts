@@ -7,7 +7,6 @@ tags:
 published: true
 meta:
 \_utw\_tags\_0: s:226:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:2;O:8:"stdClass":1:{s:3:"tag";s:20:"software-development";}i:3;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-tags: ''
 \_aktt\_hash\_meta: ''
 aktt\_notify\_twitter: 'no'
 author:

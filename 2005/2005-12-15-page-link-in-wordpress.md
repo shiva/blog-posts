@@ -2,8 +2,6 @@
 layout: post
 title: Page link in wordpress
 categories: \[\]
-tags:
-- Tips & Tricks
 published: true
 meta:
 tags: wordpress falbum k2

@@ -2,11 +2,8 @@
 layout: post
 title: A review of "Crash (2005) (Widescreen Edition)"
 categories: \[\]
-tags: \[\]
 published: true
-meta:
 tags: movies reviews
-\_utw\_tags\_0: s:108:"a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:14:"movies\_reviews";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"Reviews";}}";
 author:
 login: admin
 email: shiv@shiv.me
