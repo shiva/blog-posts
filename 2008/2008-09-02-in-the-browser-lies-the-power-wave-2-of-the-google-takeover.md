@@ -9,20 +9,6 @@ tags:
 - google chrome
 - review
 - web 2.0
-published: true
-meta:
-\_edit\_last: '1'
-\_aioseop\_title: In the browser lies the power - Wave 2 of the Google takeover
-\_aioseop\_description: Review of the proposal of Google Chrome - the browser project
-by Google
-\_aioseop\_keywords: google, browser, google chrome, commentary, review
-dsq\_thread\_id: '4047584'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
 ---
 
 Finally it's out in the open. The ultimate weapon in Google's powerchest to combat desktop applications, render the need for a specific platform meaningless - the browser. I guess this has been in the making for the last decade, and here it is. A browser by a company that downloads pretty much most of the internet every day.

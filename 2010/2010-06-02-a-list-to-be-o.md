@@ -1,40 +1,10 @@
 ---
 layout: post
 title: A list to be on
-categories: \[\]
 tags:
 - Hackers
 - Lists
 - Programmers
-published: true
-meta:
-aktt\_notify\_twitter: 'yes'
-\_edit\_last: '1'
-aktt\_tweeted: '1'
-\_oembed\_e7de1bfcb7c3ea70c9dd159957599875: '{{unknown}}'
-\_wp\_old\_slug: back-to-me
-\_oembed\_6e2d825b18125975b10c91d644353f75: '{{unknown}}'
-\_oembed\_e6666d9e765b3684fec43cc69c550d7d: '{{unknown}}'
-\_oembed\_3e0ccb2168d622553de4f3f96e1b5173: '{{unknown}}'
-\_oembed\_5e78fc49af1a0201f72522535737a6cf: '{{unknown}}'
-\_oembed\_199ed29b5530e7eca5cad97abb823640: '{{unknown}}'
-\_oembed\_ba2d98b72dee316a7e716ed6f8b60695: '{{unknown}}'
-\_oembed\_8d7d2c0b43395bac29865e10d61c73d4: '{{unknown}}'
-\_oembed\_c865970da3c49c79f99caf7790cf9b5b: '{{unknown}}'
-\_oembed\_6c455d541d8c6e5b05a1769684be29a7: [List
-of programmers - Wikipedia, the free encyclopedia][0]
-\_oembed\_c438c0f731ffb2d2d243bf60875d771d: '{{unknown}}'
-\_oembed\_479a4429c2650fe60001b66bfc65d89d: '{{unknown}}'
-\_oembed\_1cfb74e8ffb1c6948450cf69b9789e56: '{{unknown}}'
-\_oembed\_6914f29407d3266feaf11a187e657c57: '{{unknown}}'
-\_oembed\_06b8d9f001992b0238f788ee64c65d98: '{{unknown}}'
-\_oembed\_6f0b730c993addd2ddeac56bed9b057f: '{{unknown}}'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
 ---
 
 I've been busy. That doesn't explain my silence on this blog, its but an excuse. A lot of things have been happening, both in my personal and professional life, and I'm not at liberty to talk about them. Those are for another day.
