@@ -1,22 +1,7 @@
 ---
 layout: post
 title: Loving my Canon 40D
-categories: \[\]
-tags:
-- canon 40d
-- DSLR
-- zooomr
-published: true
-meta:
-tags: ''
-\_edit\_last: '1'
-dsq\_thread\_id: '2979609'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+tags: canon 40d, DSLR, zooomr
 ---
 
 I recently got myself a Canon 40D. After a 3 year wait, I can finally afford to buy myself a DSLR, and have been going crazy with it for the last couple of weeks.

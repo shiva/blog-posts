@@ -1,18 +1,7 @@
 ---
 layout: post
 title: Website clean up
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:445:"a:9:{i:0;O:8:"stdClass":1:{s:3:"tag";s:5:"ideas";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Novell";}i:2;O:8:"stdClass":1:{s:3:"tag";s:3:"ODF";}i:3;O:8:"stdClass":1:{s:3:"tag";s:7:"OpenXML";}i:4;O:8:"stdClass":1:{s:3:"tag";s:13:"Short-updates";}i:5;O:8:"stdClass":1:{s:3:"tag";s:5:"Tools";}i:6;O:8:"stdClass":1:{s:3:"tag";s:9:"wordpress";}i:7;O:8:"stdClass":1:{s:3:"tag";s:22:"wordpress-extended-RPC";}i:8;O:8:"stdClass":1:{s:3:"tag";s:7:"WPexAPI";}}";
-tags: ''
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+tags: ideas, tools, wordpress, WPexAPI, wordpress extended RPC, Novell, ODF, OpenXML
 ---
 
 I've been hosting this site for over 2 years now. Nothing much has come of it, except satisfying my own ever-growing obsession with all things that are related to "The Web".
@@ -44,7 +33,6 @@ As usual, the [nay][11]-sayers, who now seem to be persistent upon the idea that
 
 Ok. No more talk. Pressing Publish!!
 
-\[tags\]ideas, tools, wordpress, WPexAPI, wordpress extended RPC, Novell, ODF, OpenXML\[/tags\]
 
 
 [0]: http://www.sscnet.ucla.edu/southasia/History/Mughals/mahmud_mughals.html

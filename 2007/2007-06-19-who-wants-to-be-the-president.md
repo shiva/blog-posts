@@ -1,20 +1,6 @@
 ---
 layout: post
 title: Who wants to be the president?!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_: s:62:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-tags: ''
-\_utw\_tags\_0: s:62:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-dsq\_thread\_id: '3123445'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
 ---
 
 It is comical to see how the country, in other words, the ones who rule them ridicule one of the most important posts in India. How can the political parties choose to gain mileage by being so very fragmented in choosing the next president. How can they even propose to elect people who probably have very little to show for themselves as imminent achievers in their respective fields?! For God's sake, you are going to elect a president!

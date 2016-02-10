@@ -1,22 +1,7 @@
 ---
 layout: post
 title: Trouble with Sony Ericsson W800i - Phone not detected.
-categories: \[\]
-tags:
-- Tips & Tricks
-published: true
-meta:
-tags: ''
-\_utw\_tags\_0: s:347:"a:6:{i:0;O:8:"stdClass":1:{s:3:"tag";s:28:"mobile-phone-pc-connectivity";}i:1;O:8:"stdClass":1:{s:3:"tag";s:8:"SE-W800i";}i:2;O:8:"stdClass":1:{s:3:"tag";s:19:"Sony-Ericsson-W800i";}i:3;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}i:4;O:8:"stdClass":1:{s:3:"tag";s:18:"Tips-&-Tricks";}i:5;O:8:"stdClass":1:{s:3:"tag";s:13:"Tips-n-Tricks";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-dsq\_thread\_id: '3252134'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+tags: SE W800i, Sony Ericsson W800i, mobile phone pc connectivity, tips n tricks
 ---
 
 Trying to get the Sony Ericsson W800i has been by far the most traumatic experience of my life. I tried everything possible, but still was unable to get it recognised on my home PC!
@@ -40,7 +25,6 @@ EXPORT ALL THE KEYS MENTIONED BELOW BEFORE DELETING THEM! ALWAYS BEST TO HAVE A 
 
 Link to the orginal post can be found [here][0].
 
-\[tags\]SE W800i, Sony Ericsson W800i, mobile phone pc connectivity, tips n tricks\[/tags\]
 
 
 [0]: http://www.expansys.com/ft.aspx?i=125173&thread=827

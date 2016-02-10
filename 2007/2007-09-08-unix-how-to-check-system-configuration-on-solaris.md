@@ -1,25 +1,7 @@
 ---
 layout: post
 title: 'Unix: how to check system configuration on solaris'
-categories: \[\]
-tags:
-- coding
-- solaris
-- unix
-published: true
-meta:
-tags: ''
-\_utw\_tags\_0: s:58:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}}";
-\_edit\_last: '1'
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-dsq\_thread\_id: '3066054'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+tags: coding, solaris, unix
 ---
 
 I had to compare machine hardware today, and found information on that [here][0].

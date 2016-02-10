@@ -1,32 +1,6 @@
 ---
 layout: post
 title: Banking woes
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-tags: ''
-\_oembed\_da28e9a867dabb33287fdd29d10621ca: '{{unknown}}'
-\_oembed\_455725a741028b185902dd6da2e28a61: '{{unknown}}'
-\_oembed\_738e3bb4c377d9297d313beb28438894: '{{unknown}}'
-\_oembed\_e610cb82745fde1c10478a5b9b18494c: '{{unknown}}'
-\_oembed\_af04f750bce26505bf1b91aef5146823: '{{unknown}}'
-\_oembed\_f50aef2b62a5c2ee6adb7ecce84849b6: '{{unknown}}'
-\_oembed\_2e2a165d11aec742bd4702df57dfe050: '{{unknown}}'
-\_oembed\_9cca13952e6cab9a20efb3ddce3c55b3: '{{unknown}}'
-\_oembed\_37b704a32b203fdcbd926bf11cb61232: '{{unknown}}'
-\_oembed\_3fe41c88122ab883969e37eced8a9142: '{{unknown}}'
-\_oembed\_fa19db8d47764b0dc067a6f857a11b68: '{{unknown}}'
-\_oembed\_02695c41ff40242afd422320c166b80a: '{{unknown}}'
-\_oembed\_27d4308d1eb697c57afcfbf59256cd2d: '{{unknown}}'
-\_oembed\_09ad90ff062b2ae1aa51d8aff9498e77: '{{unknown}}'
-\_oembed\_6d7eb171798f33b3a15a27818855e684: '{{unknown}}'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
 ---
 
 First off, this is a rant. You have been warned.

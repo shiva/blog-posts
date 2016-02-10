@@ -1,22 +1,7 @@
 ---
 layout: post
 title: Zooomr offering free 4GB accounts!
-categories: \[\]
-tags:
-- Tools
-published: true
-meta:
-\_utw\_tags\_0: s:51:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:5:"Tools";}}";
-tags: ''
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-dsq\_thread\_id: '3252153'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+tags: Tools
 ---
 
 [Zooomr][0], for those of you, who don't know it, is a photo-sharing site, that is developed and maintained by a single developer, [Kristopher][1] [Tate][2]. Thomas Hawk, the CEO, is a wonderful photographer, and writes a great blog, which you should check out.
@@ -24,7 +9,6 @@ last\_name: Velmurugan
 If Flickr started web2.0 photo-sharing, zooomr is slowly moving the game forward. The latest version of zooomr, offers a bunch of new features, that are nothing short of amazing. Now, they are offering [free pro-accounts for bloggers ][3]who use zooomr. (Marketing tip \#1: Befriend the blogger). Ohh, btw, you can choose to use zooomr, on any blog service that allows you to add html to your post. I guess, that includes every single blog service out there!
 
 [![24052007302](/images/2456411_834674474f.jpg)][4]
-
 
 [0]: http://zooomr.com
 [1]: http://beta.zooomr.com/photos/kristopher/

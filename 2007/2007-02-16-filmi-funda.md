@@ -1,18 +1,7 @@
 ---
 layout: post
 title: Filmi funda
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-tags: ''
-\_utw\_tags\_0: s:153:"a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:5:"Humor";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"movies";}i:2;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+tags: movies, humor
 ---
 
 Some news from the Kolloywood.  
@@ -43,7 +32,6 @@ Thondan : Unga latest padam "Dharmapuri" ya indha vaaram "POGO TV" la pooduraang
 
 (All the above has been said on a lighter side... I in fact happen to enjoy watching the films of all of the above mentioned actors.. if you are hurt or have any harsh feelings.. please forward all of that to my sister (who sent me these jokes ) ... no .. better still unkaiyala un kannaye kuthiko! :)
 
-\[tags\]movies, humor\[/tags\]
 
 
 [0]: http://en.wikipedia.org/wiki/Kamal_Haasan

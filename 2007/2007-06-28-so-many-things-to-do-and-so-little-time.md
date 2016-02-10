@@ -1,18 +1,6 @@
 ---
 layout: post
 title: So many things to do and so little time
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-tags: ''
-\_utw\_tags\_0: s:57:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
 ---
 
 It has just dawned on me that I have more work to do, that when I was employed. So many things to catch up on: emails, [orkut][0] messages, [linked-in][1] invites (ohh. [Kristopher Tate][2] is a contact now! Thanks Kris! :) ). 

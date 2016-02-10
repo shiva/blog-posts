@@ -1,20 +1,6 @@
 ---
 layout: post
 title: Got my hand back, finally!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-tags: ''
-\_utw\_tags\_0: s:207:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"elbow-injury";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"News";}i:2;O:8:"stdClass":1:{s:3:"tag";s:8:"personal";}i:3;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-\_utw\_tags\_: s:207:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"elbow-injury";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"News";}i:2;O:8:"stdClass":1:{s:3:"tag";s:8:"personal";}i:3;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-dsq\_thread\_id: '3252136'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
 ---
 
 After a whole month, of wearing a cast, I got my hand back today. This is the first time, in 30 days that I am using both my hands to type and it feels good to be back (atleast partially).

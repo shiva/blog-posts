@@ -1,21 +1,7 @@
 ---
 layout: post
 title: Common Access Portal
-categories: \[\]
-tags:
-- coding
-published: true
-meta:
-\_utw\_tags\_0: s:303:"a:6:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Design";}i:1;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:2;O:8:"stdClass":1:{s:3:"tag";s:5:"ideas";}i:3;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}i:4;O:8:"stdClass":1:{s:3:"tag";s:5:"Tools";}i:5;O:8:"stdClass":1:{s:3:"tag";s:17:"wordpress-plugins";}}";
-tags: ''
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+tags: tools, design, wordpress plugins, development, ideas
 ---
 
 With advent of web 2.0, and some habits cultivated over the last decade, I have a certain list of tasks that I do everyday. I current visit a bunch of websites more than once a day, and an integrated interface would do me so much good.
@@ -35,4 +21,3 @@ So there are some deep implicating requirements for my latest craze - get more d
 
 I christen it Common Access Portal (Let's put a CAP on things we use!)
 
-\[tags\]tools, design, wordpress plugins, development, ideas\[/tags\]

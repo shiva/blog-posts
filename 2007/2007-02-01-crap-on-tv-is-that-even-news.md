@@ -1,19 +1,7 @@
 ---
 layout: post
 title: Crap on TV - Is that even news?!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-tags: ''
-\_utw\_tags\_0: s:213:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"ankit-wadia";}i:1;O:8:"stdClass":1:{s:3:"tag";s:10:"crap-on-tv";}i:2;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:3;O:8:"stdClass":1:{s:3:"tag";s:8:"security";}}";
-dsq\_thread\_id: '3248662'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+tags: crap on tv, ankit wadia, security
 ---
 
 Yesterday, I was watching an interview with [Mr Ankit Wadia][0] (His website describes him as "The Computer Security guru. The Ethical Hacker. The Author. The Intelligence Consultant. The Entrepreneur.")
@@ -31,9 +19,8 @@ I am no security guru or even an ethical hacker or author of a book, but I can t
 5. Giving away CVV numbers freely on the net
 6. Publishing phone numbers and address on social networking sites like orkut/gazzag/yahoo profile etc.
 
-I wish that apart from getting on air to promote stuff that you do, you can also give some real examples of lack of common security practices, so that people really do get benefitted a little (so that they feel a little bit more justified in acknowleding you as India's only security guru - a wee bit self-proclaiming, wouldn't you say so?!)
+I wish that apart from getting on air to promote stuff that you do, you can also give some real examples of lack of common security practices, so that people really do benefit (so that they feel a little bit more justified in acknowleding you as India's only security guru - a wee bit self-proclaiming, wouldn't you say so?!)
 
-\[tags\]crap on tv, ankit wadia, security\[/tags\]
 
 
 [0]: http://www.hackingmobilephones.com/

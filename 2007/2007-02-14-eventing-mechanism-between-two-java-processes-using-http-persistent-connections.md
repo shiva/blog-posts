@@ -1,21 +1,8 @@
 ---
 layout: post
 title: Eventing mechanism between two java processes using HTTP persistent connections
-categories: \[\]
 tags:
 - coding
-published: true
-meta:
-tags: ''
-\_utw\_tags\_0: s:251:"a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Design";}i:1;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:2;O:8:"stdClass":1:{s:3:"tag";s:4:"Java";}i:3;O:8:"stdClass":1:{s:3:"tag";s:13:"Tips-n-Tricks";}i:4;O:8:"stdClass":1:{s:3:"tag";s:9:"Tutorials";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
 ---
 
 I have been twidling with HTTP Persistent connections in the last few weeks. Let me start at the beginning

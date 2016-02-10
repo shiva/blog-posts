@@ -1,18 +1,6 @@
 ---
 layout: post
 title: Computing webified a bit too much
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-tags: ''
-\_utw\_tags\_0: s:57:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
 ---
 
 Over the last couple of years, the onslaught of web 2.0 apps has almost made the desktop irrelevant. With a service offering for almost every kind of application that a normal user would use, the age of installing applications is near its fag-end.

@@ -1,19 +1,6 @@
 ---
 layout: post
 title: Grady Booch talks about Cisco IOS, Britney Spears and Halo!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:57:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-tags: ''
-dsq\_thread\_id: '3038579'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
 ---
 
 Here is a wonderful way to spend about an hour of your time, particularly if you are in anyway associated with software development. Listen to Grady Booch talks about "The promise, the limits, the beauty of software". Apart from that he also talks about pimped out laptops, being half dead, and fun stuff like,

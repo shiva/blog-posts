@@ -1,18 +1,6 @@
 ---
 layout: post
 title: Happily unemployed (for a while)
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:62:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-tags: ''
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
 ---
 
 I recently quit my job at Novell. After more than half a decade of working 5 days a week and several hours a day, I get to spend my time doing only things I want to do. No more tasks that I have to complete, no more deadlines, no more betas to release (atleast for a few more weeks). I get some time to myself before take a deep dive into the job of chucking out code day-in and day-out.

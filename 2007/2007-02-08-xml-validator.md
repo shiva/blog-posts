@@ -1,21 +1,7 @@
 ---
 layout: post
 title: XML Validator
-categories: \[\]
-tags:
-- Tools
-published: true
-meta:
-tags: ''
-\_utw\_tags\_0: s:208:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:1;O:8:"stdClass":1:{s:3:"tag";s:3:"XML";}i:2;O:8:"stdClass":1:{s:3:"tag";s:9:"XML-Tools";}i:3;O:8:"stdClass":1:{s:3:"tag";s:13:"XML-Validator";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+tags: XML, XML Tools, XML Validator
 ---
 
 It is quite surprising that there are hardly any open-source to validate XML out there. I had the need to validate a auto-generated XML output against a valid xsd, to see if the code that I wrote to generate XML was producing not only syntactically correct XML, but also XML that was data-valid. **XML Validator**, provides an UI that allows you to check the validity of any XML, in with reference to its xsd. It is free for Personal and Commercial use without any warranties. So don't come to me if it makes your dog barks all night, or if your computer commits suicide.
@@ -53,7 +39,6 @@ It is quite surprising that there are hardly any open-source to validate XML out
 
 This is a result of 30 mins of fiddling around with SharpDevelop, so it is not very complete nor does it have a lot of features. I would like to take it there. Your comments and suggestions for new features are welcome. 
 
-\[tags\]XML, XML Tools, XML Validator\[/tags\]
 
 
 [0]: http://shvelmur.com/downloads/projects/XMLValidator.zip

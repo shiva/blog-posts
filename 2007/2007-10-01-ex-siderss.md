@@ -1,25 +1,7 @@
 ---
 layout: post
 title: EX-SideRSS
-categories: \[\]
-tags:
-- coding
-- Development
-- EXSideRSS
-- SideRSS
-- wordpress plugins
-published: true
-meta:
-tags: ''
-\_edit\_last: '1'
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+tags: coding, Development, EXSideRSS, SideRSS, wordpress plugins
 ---
 
 After several months of keeping away from updating or changing my website, I broke the fast today. I found a wonderful plugin, [sideRSS][0], which allows display of RSS feeds within a blog's sidebar. As usual, I needed a specific functionality that was not supported the way I wanted it. I hacked it a little bit, renamed the plugin, and posted a custom version for download on my website.

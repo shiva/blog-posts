@@ -1,21 +1,8 @@
 ---
 layout: post
 title: 'Ideas: Plugins for Windows Live writer'
-categories: \[\]
 tags:
 - coding
-published: true
-meta:
-tags: ''
-\_utw\_tags\_0: s:263:"a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:5:"ideas";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"plugins";}i:2;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:3;O:8:"stdClass":1:{s:3:"tag";s:19:"windows-live-writer";}i:4;O:8:"stdClass":1:{s:3:"tag";s:9:"wordpress";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
 ---
 
 Been using Windows Live Writer as my blog writing tool. Here are some plugins that I would definetly make my life much easier. If you are insterested in writing a plugin or would like to add to these requirements, do get in touch.

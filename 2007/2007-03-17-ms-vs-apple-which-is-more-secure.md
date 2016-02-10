@@ -1,18 +1,7 @@
 ---
 layout: post
 title: 'MS Vs Apple: Which is more secure?'
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:383:"a:8:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"freebsd";}i:1;O:8:"stdClass":1:{s:3:"tag";s:5:"linux";}i:2;O:8:"stdClass":1:{s:3:"tag";s:8:"opensuse";}i:3;O:8:"stdClass":1:{s:3:"tag";s:8:"security";}i:4;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}i:5;O:8:"stdClass":1:{s:3:"tag";s:6:"ubuntu";}i:6;O:8:"stdClass":1:{s:3:"tag";s:5:"vista";}i:7;O:8:"stdClass":1:{s:3:"tag";s:7:"windows";}}";
-tags: ''
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+tags: security, windows, vista, opensuse, linux, ubuntu, freebsd
 ---
 
 Marius Oiaga of [Softpedia][0] News argues that [Windows Vista is more secure than MAC OSX][1], on the grounds that there are more security patches for MACOSX in a 1 month period. Now, how naive is that?!! Developers at Microsoft are probably just catching their breaths after years of trying to get Windows Vista out of the "window" (excuse the pun).
@@ -20,9 +9,6 @@ Marius Oiaga of [Softpedia][0] News argues that [Windows Vista is more secure th
 Now, why is Mac OSX more secure that Windows. Well, you never need to run as administrator (root, in unix speak) to get all applications to work efficiently. Since it is based on BSD unix (FreeBSD), Mac OSX' architecture is definetely much more secure. Also, take into account, the fact, that there are only 6% of users on Mac OSX, and hence proves to be a very unlikely target for security breaches.
 
 I guess the answer to your security woes, go use an absolutely obscure OS. No one will ever trouble you or you can switch to almost any linux platform (Think [FreeBSD][2], [OpenSuse][3] or [Ubuntu][4])
-
-\[tags\]security, windows, vista, opensuse, linux, ubuntu, freebsd\[/tags\]
-
 
 [0]: http://www.softpedia.com/
 [1]: http://news.softpedia.com/news/Windows-Vista-More-Secure-than-Mac-OS-X-49487.shtml

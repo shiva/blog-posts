@@ -1,18 +1,6 @@
 ---
 layout: post
 title: 'Web 2.0 : The Next generation Web'
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:160:"a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:1;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}i:2;O:8:"stdClass":1:{s:3:"tag";s:7:"web-2.0";}}";
-tags: ''
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
 ---
 
 The following is something I wrote 14th Dec 2005, on my trial account with one of the earliest Web 2.0 spplication services, called [backpackit.com][0]

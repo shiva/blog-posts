@@ -1,21 +1,7 @@
 ---
 layout: post
 title: hmm.. facebook apps and bandwidth
-categories: \[\]
-tags:
-- facebook
-- web 2.0
-published: true
-meta:
-tags: ''
-\_utw\_tags\_0: s:57:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-dsq\_thread\_id: '3038681'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+tags: facebook, web 2.0
 ---
 
 [![](/images/2716607_583d962613.jpg)][0]

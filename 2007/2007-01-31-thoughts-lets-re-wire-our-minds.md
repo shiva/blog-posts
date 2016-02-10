@@ -1,18 +1,6 @@
 ---
 layout: post
-title: 'Thoughts: Let's re-wire our minds'
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-tags: ''
-\_utw\_tags\_0: s:62:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "Let's re-wire our minds"
 ---
 
 My site is probably one of the least visited blogs in the world! Trust me on that one! ;) by linking to the following set of youtube videos, I know I don't do much in making it reach more people, as it rightly deserves.
