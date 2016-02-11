@@ -1,7 +1,7 @@
 ---
 title: Ultimate Boot CD - Overview
+date: '2004-10-07'
 description: Ultimate Boot CD - Overview
-date: '2004-10-7'
 ---
 
 [![](/images/button.gif)][0]

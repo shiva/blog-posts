@@ -5,8 +5,8 @@ tags:
   - iPad
   - Tools
   - utilities
+date: '2011-04-23'
 description: Blogsy - a ray of hope
-date: '2011-4-23'
 ---
 
 This is a test post from [blogsy][0], an iPad blogging tool.

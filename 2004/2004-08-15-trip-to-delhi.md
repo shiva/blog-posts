@@ -1,7 +1,7 @@
 ---
 title: Trip to Delhi
+date: '2004-08-15'
 description: Trip to Delhi
-date: '2004-8-15'
 ---
 
 Back from Delhi, after a much needed vacation. Set to really go full-throttle in the coming days at work! Now it's been almost a fornight since I uttered that word.

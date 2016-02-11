@@ -1,7 +1,7 @@
 ---
 title: Pocket GCC @ mifki.ru
-description: Pocket GCC @ mifki.ru
 date: '2004-11-30'
+description: Pocket GCC @ mifki.ru
 ---
 
 Been offline for quite a few days now!!  

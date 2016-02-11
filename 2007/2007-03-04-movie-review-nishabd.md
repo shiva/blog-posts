@@ -1,7 +1,7 @@
 ---
 title: 'Movie Review: Nishabd'
+date: '2007-03-04'
 description: 'Movie Review: Nishabd'
-date: '2007-3-4'
 ---
 
 [Nishabd][0] is a re-make of the very famous russian movie, Lolitta. I know, that the flavour of the day is re-mixing movies, but I must confess.. what a re-make? Amazing movie! I was simply blown away by the pathos of the story, the power of Amitabh's eyes and the great performances of every single character.

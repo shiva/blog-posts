@@ -1,7 +1,7 @@
 ---
 title: "copyrights!! that's the in-thing these days !! Wired 12.11: How I Learned to Love Larry"
-description: "copyrights!! that's the in-thing these days !! Wired 12.11: How I Learned to Love Larry"
 date: '2004-10-28'
+description: "copyrights!! that's the in-thing these days !! Wired 12.11: How I Learned to Love Larry"
 ---
 
 [Wired 12.11: How I Learned to Love Larry][0]

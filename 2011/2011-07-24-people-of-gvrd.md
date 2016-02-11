@@ -4,8 +4,8 @@ tags:
   - People of GVRD
   - Photography
   - projects
+date: '2011-07-24'
 description: People of GVRD - a photographic experiment
-date: '2011-7-24'
 ---
 
 A couple of weeks ago I started a new project - to shoot random strangers in the streets of GVRD (Greater Vancouver Regional Districts - for those of you that are not from here). I wanted to see if I had the guts to walk up to random strangers, and ask their permission to shoot a picture of them. I was also curious to know how they would react to it, and what my success rate would be.

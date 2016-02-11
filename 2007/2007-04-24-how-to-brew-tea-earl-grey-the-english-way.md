@@ -1,7 +1,7 @@
 ---
 title: How to brew tea (Earl Grey) - The English Way
+date: '2007-04-24'
 description: How to brew tea (Earl Grey) - The English Way
-date: '2007-4-24'
 ---
 
 I've been on a reading binge lately. With quite a few hours of flying time, and long waits at airport lounges, I got the chance to catch up on my reading. Went through two books this time around, the placid, but mildly interesting ["The Namesake" by Jhumpa Lahiri][0] (skip the book and [watch the movie][1].. way better) and the exhilariting final masterpiece, ["The Salmon of Doubt",][2] ([wikipedia entry here][3]) by the new age, space comic, [Douglas][4] [Adams][5].

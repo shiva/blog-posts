@@ -4,8 +4,8 @@ tags:
   - iphone
   - ipod touch
   - wordpress plugins
+date: '2008-01-15'
 description: Ipod touch/Iphone support
-date: '2008-1-15'
 ---
 
 This website, now supports a special interface for viewing usingÂ  ipod touch/iphone. I'm using the [iWPhone plugin][0] at [contentrobot.com][1]

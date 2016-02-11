@@ -1,7 +1,7 @@
 ---
 title: 'Give me thy name and I will give you a reply!'
+date: '2004-09-27'
 description: 'Give me thy name and I will give you a reply!'
-date: '2004-9-27'
 ---
 
 hey to all those (1 or 2) people reading my blog! ;)

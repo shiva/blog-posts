@@ -6,8 +6,8 @@ tags:
   - old spice
   - parody
   - video
+date: '2011-03-21'
 description: Cthulhu is your god
-date: '2011-3-21'
 ---
 
 'Nuf said!

@@ -2,8 +2,8 @@
 title: "Convert byte\\[\\] to long in Java"
 tags:
   - coding
+date: '2006-05-23'
 description: "Convert byte\\[\\] to long in Java"
-date: '2006-5-23'
 ---
 
 One more little thing that is painfully difficult to do in Java. (I love Java though ;) )  

@@ -1,7 +1,7 @@
 ---
 title: "Nature's wrath #2"
-description: "Nature's wrath #2"
 date: '2005-10-27'
+description: "Nature's wrath #2"
 ---
 
 Wowie!!! Yippeee!!! Yikes!!!  

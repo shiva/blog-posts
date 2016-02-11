@@ -1,7 +1,7 @@
 ---
 title: 'Google offers a terabyte of storage space!'
+date: '2004-08-15'
 description: 'Google offers a terabyte of storage space!'
-date: '2004-8-15'
 ---
 
 [Check this out!][0]  

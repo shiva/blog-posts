@@ -6,8 +6,8 @@ tags:
   - plugin
   - upgrade
   - wordpress
+date: '2008-05-06'
 description: 'Hey wordpress guys, have you heard of diff?!'
-date: '2008-5-6'
 ---
 
 I hate having to upgrade software. I truly do. I release a version every 3 months, and it try to make the upgrade as painless as possible. For an application like wordpress, that has been around for such a long, I would expect that they would do something to make it a little easier to upgrade.

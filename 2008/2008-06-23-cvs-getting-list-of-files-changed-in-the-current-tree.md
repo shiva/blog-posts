@@ -7,8 +7,8 @@ tags:
   - Development
   - 'Tips & Tricks'
   - unix
+date: '2008-06-23'
 description: cvs - Getting list of files changed in the current tree
-date: '2008-6-23'
 ---
 
 The simple way to retreive the list of changed files would be to update the tree, which would then list the files updated.

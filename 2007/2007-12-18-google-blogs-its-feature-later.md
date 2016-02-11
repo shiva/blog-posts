@@ -8,8 +8,8 @@ tags:
   - Tech
   - Twitter
   - zooomr
-description: 'Google blogs its feature later than I do!'
 date: '2007-12-18'
+description: 'Google blogs its feature later than I do!'
 ---
 
 I discovered today, that twitter+zooomr+a small utility called Cropper, now allows us to put new information about some of the products we use often, out into the blogosphere (I hate that word now), faster than ever before.

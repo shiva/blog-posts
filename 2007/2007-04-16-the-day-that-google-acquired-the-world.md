@@ -1,7 +1,7 @@
 ---
 title: The day that google acquired the world
+date: '2007-04-16'
 description: The day that google acquired the world
-date: '2007-4-16'
 ---
 
 Philipp Lenssen, has an interesting (scary) thought about the day that [google acquired the world (aka internet :) ).][0] The date that he has chosen, 12 May 2017, sent a shiver up my spine. I, definitely, don't want to see the world taken over by the most efficient search engine on my birthday!! :) That would be some scary stuff to wake up too.

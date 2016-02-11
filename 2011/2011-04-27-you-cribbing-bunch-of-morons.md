@@ -5,8 +5,8 @@ tags:
   - iphone
   - location tracking
   - morons
+date: '2011-04-27'
 description: You cribbing bunch of morons
-date: '2011-4-27'
 ---
 
 And now you've done it!! Bah! I thought it was so cool that I could plot of heat map of my location for a full year. With [all][0] [the][1] [cribbing][2] around the internets about how the iphone is not secure because it stores data (ie a cache of your location data), Apple has decided to squash this wonderful "easter egg". 

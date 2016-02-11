@@ -8,8 +8,8 @@ tags:
   - Reviews
   - the dark knight
   - Tommy Lee Jones
+date: '2008-07-21'
 description: 'Movie Review: The Dark Knight (spoiler alert)'
-date: '2008-7-21'
 ---
 
 In a moment of mild insanity (actually more like boredom), I decided to watch the last show last night. I was plesantly surprised to find that the movie was playing in 2 theatres @ [Silvercity, Coquitlam][0]. With all the [hype][1], and the huge [revenue generation][2] in the first week, the movie does deliver most of what it promises.

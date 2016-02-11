@@ -1,7 +1,7 @@
 ---
 title: new blog for my wife and me
-description: new blog for my wife and me
 date: '2004-10-17'
+description: new blog for my wife and me
 ---
 
 Created a common blog site for my wife and me to blog on..  

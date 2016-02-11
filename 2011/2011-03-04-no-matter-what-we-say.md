@@ -8,8 +8,8 @@ tags:
   - iPad launch
   - parody
   - video
+date: '2011-03-04'
 description: No matter what we say
-date: '2011-3-4'
 ---
 
 If you weren't in a hole the past few days, you would have heard about the iPad 2 launch. Here's Conan's take on it.

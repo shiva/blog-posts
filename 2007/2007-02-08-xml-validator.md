@@ -1,8 +1,8 @@
 ---
 title: XML Validator
 tags: 'XML, XML Tools, XML Validator'
+date: '2007-02-08'
 description: XML Validator
-date: '2007-2-8'
 ---
 
 It is quite surprising that there are hardly any open-source to validate XML out there. I had the need to validate a auto-generated XML output against a valid xsd, to see if the code that I wrote to generate XML was producing not only syntactically correct XML, but also XML that was data-valid. **XML Validator**, provides an UI that allows you to check the validity of any XML, in with reference to its xsd. It is free for Personal and Commercial use without any warranties. So don't come to me if it makes your dog barks all night, or if your computer commits suicide.

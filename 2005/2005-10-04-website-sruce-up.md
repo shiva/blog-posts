@@ -1,7 +1,7 @@
 ---
 title: Website Sruce UP
+date: '2005-10-04'
 description: Website Sruce UP
-date: '2005-10-4'
 ---
 
 I need some ideas for my website and blog. I still have not been able to integrate and modify my blog well enough. Wordpress is great, but it sorely lacks some core CMS functionality, like for instance the ability to add pages to my site. I know you can add static pages, but I need to be able to create another changeable content page like what [php-nuke][0] provides for instance.

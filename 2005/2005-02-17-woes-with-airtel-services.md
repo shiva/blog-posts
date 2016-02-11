@@ -1,7 +1,7 @@
 ---
 title: Woes with airtel services
+date: '2005-02-17'
 description: Woes with airtel services
-date: '2005-2-17'
 ---
 
 What a lousy feeling it is, when you hold shares of a company, whose customer you have been for more than 2 years and have paid everyone of the bills in time, and when you have an issue, you are brushed under the carpet!That's what happened to me today. 

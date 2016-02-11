@@ -6,8 +6,8 @@ tags:
   - iBad
   - iPad
   - petition
+date: '2010-02-04'
 description: iPad is iBad petition
-date: '2010-2-4'
 ---
 
 [http://www.defectivebydesign.org/ipad][0]

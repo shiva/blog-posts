@@ -1,7 +1,7 @@
 ---
 title: Adobe and Macromedia to merge
+date: '2005-04-19'
 description: Adobe and Macromedia to merge
-date: '2005-4-19'
 ---
 
 Yup, been a very long time since I blogged!! but I am back again!  

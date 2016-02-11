@@ -2,8 +2,8 @@
 title: Learn HTML and Javascript
 tags:
   - 'Tips & Tricks'
-description: Learn HTML and Javascript
 date: '2005-11-25'
+description: Learn HTML and Javascript
 ---
 
 [HTMLSource: HTML Tutorials][0] 

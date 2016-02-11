@@ -1,7 +1,7 @@
 ---
 title: Left me gaping at the void
+date: '2009-07-29'
 description: Left me gaping at the void
-date: '2009-7-29'
 ---
 
 Seen in the wild

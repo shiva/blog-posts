@@ -4,8 +4,8 @@ tags:
   - note-to-self
   - notes
   - wine
+date: '2012-02-08'
 description: 'Here, have some wine'
-date: '2012-2-8'
 ---
 
 Note to Self: Get wine. Lot's of it! ;)

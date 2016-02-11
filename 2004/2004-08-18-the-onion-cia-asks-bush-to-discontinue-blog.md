@@ -1,7 +1,7 @@
 ---
 title: 'The Onion : CIA Asks Bush To Discontinue Blog'
+date: '2004-08-18'
 description: 'The Onion : CIA Asks Bush To Discontinue Blog'
-date: '2004-8-18'
 ---
 
 [The Onion : CIA Asks Bush To Discontinue Blog][0]

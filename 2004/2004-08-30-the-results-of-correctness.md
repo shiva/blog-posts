@@ -1,7 +1,7 @@
 ---
 title: The results of Correctness
+date: '2004-08-30'
 description: The results of Correctness
-date: '2004-8-30'
 ---
 
 [Matthew Yglesias: June 20, 2004 - June 26, 2004 Archives][0]: "The Dialectic of Inaccuracy"

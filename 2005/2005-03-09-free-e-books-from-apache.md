@@ -1,7 +1,7 @@
 ---
 title: 'Free e-books from Apache!'
+date: '2005-03-09'
 description: 'Free e-books from Apache!'
-date: '2005-3-9'
 ---
 
 Free ebooks are available for download from [Apress][0].

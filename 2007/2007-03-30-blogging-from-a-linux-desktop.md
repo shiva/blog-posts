@@ -1,7 +1,7 @@
 ---
 title: Blogging from a linux desktop
+date: '2007-03-30'
 description: Blogging from a linux desktop
-date: '2007-3-30'
 ---
 
 Yipeee!! Just one word - Fantabulous.

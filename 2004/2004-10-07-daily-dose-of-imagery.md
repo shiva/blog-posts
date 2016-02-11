@@ -1,7 +1,7 @@
 ---
 title: "\\[daily dose of imagery\\]"
+date: '2004-10-07'
 description: "\\[daily dose of imagery\\]"
-date: '2004-10-7'
 ---
 
 [\[daily dose of imagery\]][0]

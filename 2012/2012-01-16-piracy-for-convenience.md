@@ -6,8 +6,8 @@ tags:
   - Music
   - piracy
   - scarcity
+date: '2012-01-16'
 description: Piracy for convenience
-date: '2012-1-16'
 ---
 
 In the wild days of 1996, when I got my hands on a computer (it cost about a year's worth of my Dad's salary, and nothing that I am would have been possible but for that sacrifice he made), I was enamored by the ease of content consumption on a computer.

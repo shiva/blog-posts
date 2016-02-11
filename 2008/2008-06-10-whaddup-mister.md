@@ -4,8 +4,8 @@ tags:
   - bunty
   - cats
   - photo
+date: '2008-06-10'
 description: 'Whaddup Mister?!'
-date: '2008-6-10'
 ---
 
 [![Whaddup mister?!](/images/2567730043_da7faab448.jpg)][0]

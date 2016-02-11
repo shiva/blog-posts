@@ -2,8 +2,8 @@
 title: Tuning Garbage Collection
 tags:
   - coding
+date: '2006-08-22'
 description: Tuning Garbage Collection
-date: '2006-8-22'
 ---
 
 The much talked about and often cursed part of Java development is Garbage Collection.

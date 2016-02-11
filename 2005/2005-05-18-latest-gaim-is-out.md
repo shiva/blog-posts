@@ -1,7 +1,7 @@
 ---
 title: 'Latest GAIM is out!'
+date: '2005-05-18'
 description: 'Latest GAIM is out!'
-date: '2005-5-18'
 ---
 
 The latest update to gaim is out! These guys are churning in version after version .. nice and kewl...  

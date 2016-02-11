@@ -2,8 +2,8 @@
 title: The art of software development
 tags:
   - coding
-description: The art of software development
 date: '2006-12-29'
+description: The art of software development
 ---
 
 Though many disagree, and think of software development as a mundane, non-creative task, as Kevin Carlson@DDJ puts it aptly, it is a work of art!

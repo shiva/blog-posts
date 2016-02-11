@@ -1,7 +1,7 @@
 ---
 title: 'Am I a Nerd or what?!'
+date: '2005-06-09'
 description: 'Am I a Nerd or what?!'
-date: '2005-6-9'
 ---
 
 Check out nerdtests.com and find out if you are a nerd indeed!

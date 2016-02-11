@@ -1,7 +1,7 @@
 ---
 title: Blast from the past
+date: '2007-02-26'
 description: Blast from the past
-date: '2007-2-26'
 ---
 
 Pictures of Hiroshima post the 1945 bombing

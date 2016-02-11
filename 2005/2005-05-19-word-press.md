@@ -1,7 +1,7 @@
 ---
 title: 'word press!'
+date: '2005-05-19'
 description: 'word press!'
-date: '2005-5-19'
 ---
 
 Wordpress is a nice small CMS written entirely using php and mysql!  

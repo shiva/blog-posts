@@ -1,7 +1,7 @@
 ---
 title: "Evolution's third replicator: Genes, memes, and now what?"
+date: '2009-08-04'
 description: "Evolution's third replicator: Genes, memes, and now what?"
-date: '2009-8-4'
 ---
 
 > The first replicator was the [gene][0] - the basis of biological [evolution][1]. The second was memes - the basis of cultural evolution. I believe that what we are now seeing, in a vast technological explosion, is the birth of a third evolutionary process. We are Earth's Pandoran species, yet we are blissfully oblivious to what we have let out of the box.

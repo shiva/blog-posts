@@ -1,7 +1,7 @@
 ---
 title: Macports from behind a proxy
+date: '2012-08-27'
 description: Macports from behind a proxy
-date: '2012-8-27'
 ---
 
 I've been using my MBP as the main computer at work for a couple of weeks now. It is not officially "supported", and I'm left to my own devices to figure out any issues that arise.

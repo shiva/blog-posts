@@ -1,7 +1,7 @@
 ---
 title: What kind am I?
+date: '2005-07-06'
 description: What kind am I?
-date: '2005-7-6'
 ---
   
 **You Are a Life Blogger!**

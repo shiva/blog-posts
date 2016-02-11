@@ -1,7 +1,7 @@
 ---
 title: A very kewl site from Microsoft
-description: A very kewl site from Microsoft
 date: '2004-12-15'
+description: A very kewl site from Microsoft
 ---
 
 http://www.microsoft.com/resources/design/

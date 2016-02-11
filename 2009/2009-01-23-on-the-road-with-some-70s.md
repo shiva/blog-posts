@@ -1,7 +1,7 @@
 ---
 title: On the road with some 70s
+date: '2009-01-23'
 description: On the road with some 70s
-date: '2009-1-23'
 ---
 
 Quintessential road trip songs. The 70s rule!

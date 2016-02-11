@@ -1,7 +1,7 @@
 ---
 title: Twitter Updates for 2008-04-14
+date: '2008-04-14'
 description: Twitter Updates for 2008-04-14
-date: '2008-4-14'
 ---
 
 * tumblr\> Twitter Updates for 2008-04-13 [http://tinyurl.com/59s35e][0] [\#][1]

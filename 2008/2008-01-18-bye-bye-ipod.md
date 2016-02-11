@@ -4,8 +4,8 @@ tags:
   - ipod touch
   - ipod touch SDK
   - ipod touch upgrade
+date: '2008-01-18'
 description: Bye bye IPOD
-date: '2008-1-18'
 ---
 
 Since [I don't enjoyed being screwed over when I buy a $500 product][0], I said buh-bye to my ipod touch today. One thing that I enjoyed, was the sharpness of the display. I will definetly buy this device again, if I knew for sure that, Apple will not pull another stunt like that with the [imminent][1] [release ][2]of IPOD touch SDK. So until then, I commute for 2 hours everyday with no music to listen, no podcast from CNN to watch :(

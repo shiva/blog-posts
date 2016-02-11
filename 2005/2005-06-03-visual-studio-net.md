@@ -2,8 +2,8 @@
 title: Visual Studio .NET
 tags:
   - coding
+date: '2005-06-03'
 description: Visual Studio .NET
-date: '2005-6-3'
 ---
 
 Visual Studio .NET 2003 is kewl.. I mean really kewl! The work flow is a hugely improved. Quick, a breeze to install and work with.  

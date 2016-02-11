@@ -9,8 +9,8 @@ tags:
   - Google Nexus in Canada
   - Nexus One
   - Phones
+date: '2010-03-16'
 description: 'So long and thanks for the "jailed" iphone'
-date: '2010-3-16'
 ---
 
 \[caption id="attachment\_737" align="alignnone" width="300"\][![Google Nexus is available in Canada](/images/Nexus-One-Phone-Choose-a-phone-300x195.png)][0] So long oppression\[/caption\]

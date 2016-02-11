@@ -1,7 +1,7 @@
 ---
 title: "\\[ lomographic society int. presents : LC-A : the lomo-compact-automat \\]"
-description: "\\[ lomographic society int. presents : LC-A : the lomo-compact-automat \\]"
 date: '2004-10-13'
+description: "\\[ lomographic society int. presents : LC-A : the lomo-compact-automat \\]"
 ---
 
 [\[ lomographic society int. presents : LC-A : the lomo-compact-automat \]][0]

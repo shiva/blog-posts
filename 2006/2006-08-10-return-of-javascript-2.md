@@ -2,8 +2,8 @@
 title: 'Return of Javascript!'
 tags:
   - 'Tips & Tricks'
+date: '2006-08-10'
 description: 'Return of Javascript!'
-date: '2006-8-10'
 ---
 
 After what has been ages, I have returned. Not that many are reading this, but I intend to use this for future reference in any case

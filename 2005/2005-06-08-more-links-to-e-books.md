@@ -1,7 +1,7 @@
 ---
 title: More links to e-books
+date: '2005-06-08'
 description: More links to e-books
-date: '2005-6-8'
 ---
 
 http://techbooksforfree.com/  

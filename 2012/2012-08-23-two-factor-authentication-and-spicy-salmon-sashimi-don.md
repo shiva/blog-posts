@@ -6,8 +6,8 @@ tags:
   - sashimi
   - Security
   - two-factor authentication
+date: '2012-08-23'
 description: Two-factor authentication and spicy salmon sashimi don
-date: '2012-8-23'
 ---
 
 For the last few months I've been annoyed. Two or three times a week, I get a flurry of emails from Facebook and twitter claiming that I reset my password. Sounds like a first-world problem? It is. However, I have 4 emails linked to my Facebook account and one to my twitter account. I get on average 15-20 mails a week, and I dutifully dis-avow each one of them.

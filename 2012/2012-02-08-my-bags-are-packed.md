@@ -1,7 +1,7 @@
 ---
 title: My bags are packed
+date: '2012-02-08'
 description: My bags are packed
-date: '2012-2-8'
 ---
 
 This saturday, I will be leaving to Sweden for work. It will be an exciting two months! Hopefully, I will have some time to enjoy and experience a new country, and chronicle the (mis)adventures there!

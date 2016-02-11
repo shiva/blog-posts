@@ -5,8 +5,8 @@ tags:
   - design
   - programming
   - writing code
+date: '2009-02-14'
 description: The devil is in the why?
-date: '2009-2-14'
 ---
 
 Recently I got asked, what the best way to do a join between two large lists,  into another list was? I always tend to answer that question with: it depends. 

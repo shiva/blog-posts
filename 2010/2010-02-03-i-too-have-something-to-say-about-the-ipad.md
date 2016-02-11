@@ -1,7 +1,7 @@
 ---
 title: I too have something to say...
+date: '2010-02-03'
 description: I too have something to say...
-date: '2010-2-3'
 ---
 
 about the iPad, or so I thought. Then I realized with every single one of them writing pages upon pages of commentary, I'm not going to bring in too much insight. I've hence, tried to curate some interesting articles that I found. You've probably read most of them already, but in case you have been in a [di-lithium mine][0] on [Remus][1]. Yup! That's right, I do like Star Trek. Now do you understand why I loathe - hate - despise what has been done to the iPad!! [PADD][2]!! arrrrggghhh! serenity now! serenity now!

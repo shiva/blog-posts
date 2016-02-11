@@ -2,8 +2,8 @@
 title: Firetune - speed up your firefox
 tags:
   - Tools
+date: '2005-07-07'
 description: Firetune - speed up your firefox
-date: '2005-7-7'
 ---
 
 I just found this link on an orkut forum ... yeah , I'm part of orkut too!!  

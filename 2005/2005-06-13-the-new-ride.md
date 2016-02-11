@@ -1,7 +1,7 @@
 ---
 title: The New Ride
+date: '2005-06-13'
 description: The New Ride
-date: '2005-6-13'
 ---
 
 I'm planning to get a new car in the offing.

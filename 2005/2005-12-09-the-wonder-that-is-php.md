@@ -2,8 +2,8 @@
 title: The wonder that is php
 tags:
   - coding
+date: '2005-12-09'
 description: The wonder that is php
-date: '2005-12-9'
 ---
 
 PHP is an incredibly easy to use scripting language and yesterday I had my first meeting with it.

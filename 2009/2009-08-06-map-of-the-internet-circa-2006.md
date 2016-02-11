@@ -1,7 +1,7 @@
 ---
 title: Map of the internet circa 2006
+date: '2009-08-06'
 description: Map of the internet circa 2006
-date: '2009-8-6'
 ---
 
 Yeah that's right! Myspace was still relevant. I have a theory that the internet usage explosion will not happen in other countries, until the US gives up its share of reserved IP addresses.

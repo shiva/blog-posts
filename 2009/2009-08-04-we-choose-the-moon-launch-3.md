@@ -4,8 +4,8 @@ tags:
   - Apollo
   - NASA
   - space travel
+date: '2009-08-04'
 description: 'We Choose the Moon: Launch'
-date: '2009-8-4'
 ---
 
 via [wechoosethemoon.org][0]

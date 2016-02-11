@@ -1,7 +1,7 @@
 ---
 title: Dreams for the next 100 years
+date: '2009-07-29'
 description: Dreams for the next 100 years
-date: '2009-7-29'
 ---
 
 Over the weekend, I bit the bullet and bought a pair of really good speakers by KEF - the iQ70 series.

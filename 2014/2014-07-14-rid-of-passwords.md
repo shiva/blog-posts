@@ -8,8 +8,8 @@ tags:
   - security
   - OAuth
   - OAuth 2.0
+date: '2014-07-14'
 description: Getting rid of passwords
-date: '2014-7-14'
 ---
 
 I hate passwords. Seems like several smart people are on the case of getting rid of the "password"

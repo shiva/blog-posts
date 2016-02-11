@@ -2,8 +2,8 @@
 title: Windows Live writer - Growing pains
 tags:
   - Tools
-description: Windows Live writer - Growing pains
 date: '2006-12-26'
+description: Windows Live writer - Growing pains
 ---
 
 I just downloaded Windows Live Writer

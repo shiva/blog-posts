@@ -2,8 +2,8 @@
 title: 'Ideas: Plugins for Windows Live writer'
 tags:
   - coding
+date: '2007-01-30'
 description: 'Ideas: Plugins for Windows Live writer'
-date: '2007-1-30'
 ---
 
 Been using Windows Live Writer as my blog writing tool. Here are some plugins that I would definetly make my life much easier. If you are insterested in writing a plugin or would like to add to these requirements, do get in touch.

@@ -1,7 +1,7 @@
 ---
 title: Talking about UI interfaces
+date: '2005-09-23'
 description: Talking about UI interfaces
-date: '2005-9-23'
 ---
 
 As technology enters our lives, dare I say, invade our lives, the concept of radical design has been ubiquitous. It's design, design and more design, for last few days for me. I came across quite a few very kewl interfaces and design concepts (a detailed listing below). Some much of what we do, is so dependant on how efficiently a product has been designed. How minimal and useful the interface is.

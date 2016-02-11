@@ -6,8 +6,8 @@ tags:
   - site
   - site-gen
   - Stasis
+date: '2012-05-20'
 description: An hour with HAML and Stasis
-date: '2012-5-20'
 ---
 
 I have been meaning to get into the exciting world of static site-gen. Why, you ask? Well, I will tell you why?! Actually, I'm too lazy, and it's late on a Sunday night -- instead, [Mick Gardner][0], can inform you on the [virtues of static site-generation][1].

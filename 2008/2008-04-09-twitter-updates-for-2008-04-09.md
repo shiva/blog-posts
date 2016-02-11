@@ -1,7 +1,7 @@
 ---
 title: Twitter Updates for 2008-04-09
+date: '2008-04-09'
 description: Twitter Updates for 2008-04-09
-date: '2008-4-9'
 ---
 
 * tumblr\> Blue sky, red earth [http://tinyurl.com/6olhvt][0] [\#][1]

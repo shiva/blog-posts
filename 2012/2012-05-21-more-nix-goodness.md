@@ -5,8 +5,8 @@ tags:
   - programming
   - unix
   - unix commands
+date: '2012-05-21'
 description: "More \\*nix goodness"
-date: '2012-5-21'
 ---
 
 Ohh \*nix command prompt, I love thee!

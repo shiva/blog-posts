@@ -1,7 +1,7 @@
 ---
 title: 'HD-DVD and Blu-ray unite!'
+date: '2006-09-27'
 description: 'HD-DVD and Blu-ray unite!'
-date: '2006-9-27'
 ---
 
 [New technology could nip DVD format war in the bud][0]

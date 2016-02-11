@@ -7,8 +7,8 @@ tags:
   - Indian cuisine
   - Indian food
   - recipe
+date: '2008-08-04'
 description: Chicken Curry with Eggs served on Rice
-date: '2008-8-4'
 ---
 
 [![](/images/2734109966_379e159639.jpg)][0]

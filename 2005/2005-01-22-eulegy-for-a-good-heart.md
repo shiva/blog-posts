@@ -1,7 +1,7 @@
 ---
 title: Eulegy for a good heart
+date: '2005-01-22'
 description: Eulegy for a good heart
-date: '2005-1-22'
 ---
 
 Today has been a very sad day. I bid farewell to Mr Subramaniam.  

@@ -1,7 +1,7 @@
 ---
 title: Twitter Updates for 2008-04-19
+date: '2008-04-19'
 description: Twitter Updates for 2008-04-19
-date: '2008-4-19'
 ---
 
 * @remarkablogger and replace all those tools with what?! [\#][0]

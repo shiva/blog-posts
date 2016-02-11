@@ -6,8 +6,8 @@ tags:
   - friendfeed
   - website updates
   - wordpress plugins
+date: '2008-06-27'
 description: Friendfeed comments for wordpress
-date: '2008-6-27'
 ---
 
 Conversations on the web have evolved quite a bit, in the last 4/5 years. During the late 90s, conversations on the web, was pretty much non-existant, except for a few, who used their websites to engage in conversations. The advent of the blog, made available tools to start and continue conversations. 

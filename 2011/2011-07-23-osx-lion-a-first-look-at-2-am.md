@@ -6,8 +6,8 @@ tags:
   - Mac OSX
   - Mission Control
   - OSX
+date: '2011-07-23'
 description: OSX Lion. A first look (at 2 AM)
-date: '2011-7-23'
 ---
 
 Just upgraded to OSX Lion. A very slick interface.

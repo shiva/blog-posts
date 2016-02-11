@@ -2,8 +2,8 @@
 title: Eventing mechanism between two java processes using HTTP persistent connections
 tags:
   - coding
+date: '2007-02-14'
 description: Eventing mechanism between two java processes using HTTP persistent connections
-date: '2007-2-14'
 ---
 
 I have been twidling with HTTP Persistent connections in the last few weeks. Let me start at the beginning

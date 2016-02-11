@@ -1,7 +1,7 @@
 ---
 title: Sting by a bee
+date: '2007-10-09'
 description: Sting by a bee
-date: '2007-10-9'
 ---
 
 Dang! I got stung today, by a bee, for the first time in my life. The little critter was trying to sniff some aroma from the back of my head, and I reached out with my hand, grabbed him (sorry, it must of hurt), and he got pissed and wanked me. Just as any normal, crazed-out geek would do, the first thing I did was to [search the net][0] for home-grown, bee sting remedies and I found [this][1] post by William Brantley. Being a much braver individual than I can be (when it comes to bee stings), he went through a series of bee-biting to test various remedies, that exists in the market-place and several home-grown remedies. 

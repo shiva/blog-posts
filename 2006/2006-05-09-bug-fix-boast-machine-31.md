@@ -2,8 +2,8 @@
 title: 'Bug Fix: Boast Machine 3.1'
 tags:
   - coding
+date: '2006-05-09'
 description: 'Bug Fix: Boast Machine 3.1'
-date: '2006-5-9'
 ---
 
 There is an issue with installing the latest version of boast machine v3.1\.

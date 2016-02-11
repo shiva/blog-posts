@@ -4,8 +4,8 @@ tags:
   - cathedral
   - France
   - Strasbourg
+date: '2009-01-25'
 description: A Week in Strasbourg
-date: '2009-1-25'
 ---
 
 After several no-vacation years, I ended 2008 with a (short) trip to Strasbourg, France. For much of the last year, I have started  doing things that I have abandoned in the last 8 years. The year has been quite eventful, much of it not evident from the lack of posts (which I hope to correct this year). 

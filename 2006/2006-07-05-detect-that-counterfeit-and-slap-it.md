@@ -1,7 +1,7 @@
 ---
 title: 'Detect that counterfeit and slap it!'
+date: '2006-07-05'
 description: 'Detect that counterfeit and slap it!'
-date: '2006-7-5'
 ---
 
 Nice website this one!  

@@ -1,8 +1,8 @@
 ---
 title: 'The zen feeling!'
 tags: creative mp3-player gadgets headphones sennheiser
+date: '2005-11-04'
 description: 'The zen feeling!'
-date: '2005-11-4'
 ---
 
 Atlast!!! Finally!! I got to lay my hands on the Creative Zen Micro I have been drooling over all these days! One of Guru's friend's finally agreed to get it here.

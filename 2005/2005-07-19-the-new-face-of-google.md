@@ -2,8 +2,8 @@
 title: The new face of google
 tags:
   - Tools
+date: '2005-07-19'
 description: The new face of google
-date: '2005-7-19'
 ---
 
 Check out the future of google [here][0]

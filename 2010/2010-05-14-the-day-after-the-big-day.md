@@ -6,8 +6,8 @@ tags:
   - Douglas Adams
   - iPad
   - weasel
+date: '2010-05-14'
 description: 'The day-after the "big" day'
-date: '2010-5-14'
 ---
 
 I turned 30 yesterday.

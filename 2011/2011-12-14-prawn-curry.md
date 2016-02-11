@@ -5,8 +5,8 @@ tags:
   - prawn curry
   - prawns
   - recipe
-description: Prawn curry
 date: '2011-12-14'
+description: Prawn curry
 ---
 
 If you are in a hurry, and need something tasty yet easy to make, this one is for you. The prep time is about 5 minutes, and the cooking time around 10-15 minutes. If you have a small rice cooker -- the kind that plugs into a wall sockets -- you should be able to get the rice done in about the same time.

@@ -11,8 +11,8 @@ tags:
   - python
   - setuptools
   - virtualenv
+date: '2014-02-14'
 description: 'Somethings should be obvious, but are not, obviously'
-date: '2014-2-14'
 ---
 
 _Update: Apparently, I had accidentally hit a minor bug in pew. This has now been [fixed][0]._

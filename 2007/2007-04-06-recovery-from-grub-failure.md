@@ -2,8 +2,8 @@
 title: Recovery from GRUB Failure
 tags:
   - 'Tips & Tricks'
+date: '2007-04-06'
 description: Recovery from GRUB Failure
-date: '2007-4-6'
 ---
 
 I have a dual-boot PC at home, which boots to OpenSUSE and Windows. After a very tiring 7 hour journey, I came home to a GRUB failure. After searching for help all over the web, I found some help [here][0], [here][1], [here][2], [here][3], [here][4] and [here][5]. :)

@@ -1,7 +1,7 @@
 ---
 title: New website launched
+date: '2005-02-02'
 description: New website launched
-date: '2005-2-2'
 ---
 
 Hi folks!!  

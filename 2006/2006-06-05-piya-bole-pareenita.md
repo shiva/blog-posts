@@ -1,7 +1,7 @@
 ---
 title: Piya Bole - Pareenita
+date: '2006-06-05'
 description: Piya Bole - Pareenita
-date: '2006-6-5'
 ---
 
 I was listening to the song "Piya Bole" and couldn't figure out meanings of some words ... so I googled it and presto!  

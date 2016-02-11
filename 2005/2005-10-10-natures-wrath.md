@@ -1,7 +1,7 @@
 ---
 title: "Nature's wrath"
-description: "Nature's wrath"
 date: '2005-10-10'
+description: "Nature's wrath"
 ---
 
 What are we humans against the over-powering wrath of mother nature? Time and again, she warns, and tests the best of us, and ceases to amaze us with the brute diplay of power. With all the technology in the world, man still has to grapple with reality of the powerlessness of the human being against forces of nature.

@@ -9,8 +9,8 @@ tags:
   - shell
   - shell scripting
   - unix
+date: '2011-08-28'
 description: Life in the BASH universe
-date: '2011-8-28'
 ---
 
 If you write a lot of scripts to automate tasks, you probably already know this. However, if you don't, and you are still reading, you are probably a programmer, in which case, you really should be learning how to script in BASH!

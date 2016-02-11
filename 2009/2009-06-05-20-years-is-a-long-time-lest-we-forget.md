@@ -1,7 +1,7 @@
 ---
 title: 20 years is a long time .. lest we forget
+date: '2009-06-05'
 description: 20 years is a long time .. lest we forget
-date: '2009-6-5'
 ---
 
 This post is a little late, but that has never stopped me from doing it anyway. 

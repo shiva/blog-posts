@@ -1,7 +1,7 @@
 ---
 title: Zaval Light-Weght - Visual Component Library
+date: '2004-12-09'
 description: Zaval Light-Weght - Visual Component Library
-date: '2004-12-9'
 ---
 
 This is a very kewl gui toolkit for J2se, .NET, J2me .  

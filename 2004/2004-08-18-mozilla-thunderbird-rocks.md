@@ -1,7 +1,7 @@
 ---
 title: 'Mozilla Thunderbird rocks !!'
+date: '2004-08-18'
 description: 'Mozilla Thunderbird rocks !!'
-date: '2004-8-18'
 ---
 
 [mozilla.org - home of mozilla, firefox, thunderbird and camino][0]

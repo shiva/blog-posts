@@ -4,8 +4,8 @@ tags:
   - eulegy
   - farewell
   - GS Maheswari
+date: '2008-05-25'
 description: So long and thanks for all the good times
-date: '2008-5-25'
 ---
 
 I have been away from the internet for most of the last week. There are only a few things that can keep me away from spending hours reading feeds or uploading pictures, and when those things do happen, it is not very pleasant.

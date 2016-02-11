@@ -4,8 +4,8 @@ tags:
   - fail
   - microsoft
   - netbooks
-description: Malaise of large companies
 date: '2013-12-28'
+description: Malaise of large companies
 ---
 
 [Another gem][0] from the always spot-on Dave Winer. Microsoft could have owned netbooks.

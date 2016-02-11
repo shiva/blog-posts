@@ -1,7 +1,7 @@
 ---
 title: I wanna get on that plane
+date: '2006-09-28'
 description: I wanna get on that plane
-date: '2006-9-28'
 ---
 
 [First Images of Virgin Galactic SpaceShipTwo Cabin][0]

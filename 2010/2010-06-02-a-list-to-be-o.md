@@ -4,8 +4,8 @@ tags:
   - Hackers
   - Lists
   - Programmers
+date: '2010-06-02'
 description: A list to be on
-date: '2010-6-2'
 ---
 
 I've been busy. That doesn't explain my silence on this blog, its but an excuse. A lot of things have been happening, both in my personal and professional life, and I'm not at liberty to talk about them. Those are for another day.

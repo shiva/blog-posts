@@ -5,8 +5,8 @@ tags:
   - Interview
   - Jeff Bridges
   - The Dude
+date: '2011-01-26'
 description: 'The Dude ... Rocks!'
-date: '2011-1-26'
 ---
 
 Need I say more ..

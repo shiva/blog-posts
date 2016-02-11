@@ -2,8 +2,8 @@
 title: strong mercy
 tags:
   - Poem Tagore poetry
+date: '2011-12-01'
 description: strong mercy
-date: '2011-12-1'
 ---
 
 When in doubt, take a poet's thought to your heart. They are, invariably experienced beings, that have spent a great deal of their lives, exploring the heart through the mind.

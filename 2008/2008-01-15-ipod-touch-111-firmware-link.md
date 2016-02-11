@@ -4,8 +4,8 @@ tags:
   - apple
   - firmware
   - ipod touch
+date: '2008-01-15'
 description: IPod touch 1.1.1 firmware link
-date: '2008-1-15'
 ---
 
 Since Apple's is so bent upon [disappointing ][0][their ][1]customers, by introducing paid firmware upgrades, I needed to ensure that I have the option to jail break, my new ipod touch (if need be). (update: the firmware upgrade itself is not paid. Only the newapps are paid). I am going to wait until they [release their SDK in February][2] before I jailbreak mine.

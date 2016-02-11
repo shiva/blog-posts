@@ -1,7 +1,7 @@
 ---
 title: Your phone might catch a cold
+date: '2005-02-22'
 description: Your phone might catch a cold
-date: '2005-2-22'
 ---
 
 [FIR of a virus on a phone][0]! A very warm welcome to the world of computing! Soon we will need antiviral software running on our phones all the time and that would mean that your phones will get more processing power. If phones take the way PCs have, the day when we will have a phone with a huge Pentium or whatever processor and tons of RAM won't be too far away.

@@ -7,8 +7,8 @@ tags:
   - Lion
   - OSX
   - OSX Lion
+date: '2011-08-30'
 description: OSX Lion and jumping through a few hoops
-date: '2011-8-30'
 ---
 
 If you haven't yet upgraded to Lion (slow-coach you !), you might want to read these:

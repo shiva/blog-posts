@@ -8,8 +8,8 @@ tags:
   - Music
   - video
   - Your wish is my command
+date: '2011-01-11'
 description: Music from DMU
-date: '2011-1-11'
 ---
 
 DMU (Delete me Uncensored) is a [group on Flickr][0], that was formed because a few people got pissed at Flickr censoring content. It is a very "lively" place on most days with a [lot ][1]of [colour ][2]and [personality][3]. Mostly its just a bunch of fine folks that have a common passion (photography), and express their opinions with almost no filters. It's easy to mistake the group for being too rude, but you just have to hang around to 'get it'.

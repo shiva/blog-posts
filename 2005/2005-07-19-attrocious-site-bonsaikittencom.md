@@ -1,7 +1,7 @@
 ---
 title: attrocious site - bonsaikitten.com
+date: '2005-07-19'
 description: attrocious site - bonsaikitten.com
-date: '2005-7-19'
 ---
 
 I encountered, by far, the sickest website I have seen in my entire life.  

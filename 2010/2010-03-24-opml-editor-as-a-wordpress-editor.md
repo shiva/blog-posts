@@ -6,8 +6,8 @@ tags:
   - review
   - Tools
   - Wordpress editor
+date: '2010-03-24'
 description: OPML Editor as a wordpress editor
-date: '2010-3-24'
 ---
 
 This is a test post to see if [Dave Winer][0]'s [][1][OPML editor][1] works with a [][2][][2][self-hosted wordpress blog][2]. There is something geeky about seeing crappy fonts on a screen, that makes one want to use a tool more. 

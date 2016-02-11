@@ -5,8 +5,8 @@ tags:
   - eulogy
   - RIP
   - Steve Jobs
+date: '2011-10-05'
 description: RIP Steve Jobs
-date: '2011-10-5'
 ---
 
 [DeWitt Clinton][0] once [wrote][1]

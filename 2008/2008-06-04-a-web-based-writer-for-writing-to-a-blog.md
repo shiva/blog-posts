@@ -5,8 +5,8 @@ tags:
   - review
   - Tools
   - WriteToMyBlog
+date: '2008-06-04'
 description: 'A web based writer for writing to a blog?!'
-date: '2008-6-4'
 ---
 
 [WriteToMyBlog.com][0], is a web-based editor (with a lot of formatting options), that allows you to write to your blog (from another website?!).

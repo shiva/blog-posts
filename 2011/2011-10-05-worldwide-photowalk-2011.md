@@ -8,8 +8,8 @@ tags:
   - worldwide photowalk
   - WWPW
   - WWPW4
+date: '2011-10-05'
 description: Worldwide Photowalk 2011
-date: '2011-10-5'
 ---
 
 Last weekend, I went to my first photo-walk in Vancouver. This one is a yearly affair, organized by Scott Kelby. It's called the [Worldwide Photowalk][0] ([\#WWPW][1]), and it was quite exciting. This was the fourth such event (and my first). I met a lot of very interesting people of varied backgrounds. Can't wait for the next one.

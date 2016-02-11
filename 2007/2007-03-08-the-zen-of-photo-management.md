@@ -2,8 +2,8 @@
 title: The zen of Photo Management
 tags:
   - Tools
+date: '2007-03-08'
 description: The zen of Photo Management
-date: '2007-3-8'
 ---
 
 I have been [rambling][0] for the last month or so, about the need for better photo management. Having acquired a N730 recently, I have started shooting more and more pictures, and the chore of organising them, and sharing them has been such a bore, that I haven't uploaded a single picture.

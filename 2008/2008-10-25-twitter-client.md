@@ -7,8 +7,8 @@ tags:
   - qt
   - Tools
   - Twitter
-description: Proposed GUI for C++ based twitter client
 date: '2008-10-25'
+description: Proposed GUI for C++ based twitter client
 ---
 
 I got really sick of using Adobe AIR apps that take up more and more of system memory for an app that does twitter.

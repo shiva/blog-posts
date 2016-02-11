@@ -2,8 +2,8 @@
 title: Mono and Sharpdevelop - A baby step
 tags:
   - coding
-description: Mono and Sharpdevelop - A baby step
 date: '2006-12-24'
+description: Mono and Sharpdevelop - A baby step
 ---
 
 Having joined Novell recently, the opportunity to learn a bunch of new development skills has come up. Novell products make extensive use of the mono platform for applications development.

@@ -8,8 +8,8 @@ tags:
   - ssh
   - ssh keys
   - ssh profiles
+date: '2012-08-20'
 description: Multiple ssh profiles for multiple services
-date: '2012-8-20'
 ---
 
 I use git -- quite extensively. At work, we have several git repositories, across different organizations. In addition, I also [hack][0] for pleasure. Interacting with several git servers means that I need to have different roles and identities for them. The solution is to setup up one ssh key for each domain, and use ~/.ssh/config profiles to control them. Based on the host I'm connecting to, a different ssh private/public key pair is used -- make life a lot easier!

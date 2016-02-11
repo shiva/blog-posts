@@ -1,8 +1,8 @@
 ---
 title: 'A review of "Crash (2005) (Widescreen Edition)"'
 tags: movies reviews
+date: '2006-03-24'
 description: 'A review of "Crash (2005) (Widescreen Edition)"'
-date: '2006-3-24'
 ---
 
 [Crash (2005) (Widescreen Edition)][0]

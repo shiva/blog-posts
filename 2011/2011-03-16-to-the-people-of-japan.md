@@ -6,8 +6,8 @@ tags:
   - poetry
   - Ulysses
   - video
+date: '2011-03-16'
 description: To the people of Japan
-date: '2011-3-16'
 ---
 
 To the people of Japan, and the world, Lord Tennyson has these words

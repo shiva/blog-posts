@@ -1,7 +1,7 @@
 ---
 title: Tutorials for the uninitiated
-description: Tutorials for the uninitiated
 date: '2004-12-13'
+description: Tutorials for the uninitiated
 ---
 
 [JavaScript Tutorial][0]

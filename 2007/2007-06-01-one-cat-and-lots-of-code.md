@@ -1,8 +1,8 @@
 ---
 title: One cat and lots of code
 tags: coding
+date: '2007-06-01'
 description: One cat and lots of code
-date: '2007-6-1'
 ---
 
 [![12052007282](/images/2707311301_b6f984beba_m.jpg)][0]Rich Skrenta elucidates the [power of less code][1].

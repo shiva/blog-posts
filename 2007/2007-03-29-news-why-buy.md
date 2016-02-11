@@ -1,8 +1,8 @@
 ---
 title: 'News?! Why buy'
 tags: 'random thoughts, news is dead'
+date: '2007-03-29'
 description: 'News?! Why buy'
-date: '2007-3-29'
 ---
 
 I ought to resist the temptation of writing posts full of only links to other blogs .. but this one is good

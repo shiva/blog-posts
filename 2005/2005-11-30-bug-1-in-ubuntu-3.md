@@ -1,7 +1,7 @@
 ---
 title: "Bug \\#1 in Ubuntu"
-description: "Bug \\#1 in Ubuntu"
 date: '2005-11-30'
+description: "Bug \\#1 in Ubuntu"
 ---
 
 I found a very interesting bug report on ubuntu! If you haven't heard about Ubuntu, then this bug report is definetely a must read. Check it out! 

@@ -1,7 +1,7 @@
 ---
 title: "Yabadabadoo!! flickr's in my blog"
+date: '2005-12-01'
 description: "Yabadabadoo!! flickr's in my blog"
-date: '2005-12-1'
 ---
 
 I have been wanting to integrate photos that I take into my Wordpress blog for over 6 months now!  

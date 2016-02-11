@@ -5,8 +5,8 @@ tags:
   - Friends
   - Photography
   - Ritvik
+date: '2009-06-11'
 description: Fathers and Sons
-date: '2009-6-11'
 ---
 
 \[caption id="" align="alignnone" width="500" caption="Father & Son \#1"\][![Father & Son #1](/images/3618916090_9132377267.jpg)][0]\[/caption\]  

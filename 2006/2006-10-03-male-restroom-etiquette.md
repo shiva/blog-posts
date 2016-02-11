@@ -1,7 +1,7 @@
 ---
 title: Male Restroom etiquette
+date: '2006-10-03'
 description: Male Restroom etiquette
-date: '2006-10-3'
 ---
 
 [Male Restroom Etiquette][0]

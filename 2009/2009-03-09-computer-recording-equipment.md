@@ -5,8 +5,8 @@ tags:
   - hardware
   - mixers
   - usb mics
+date: '2009-03-09'
 description: Computer Recording Equipment
-date: '2009-3-9'
 ---
 
 I'm a bit of a stickler, when it comes to audio recording. I hate using the mics that come with laptops or the standard desktop mic. Recently, a co-worker asked me about my setup (I record a piano, strictly for my listening pleasure, and NO, MIDI doesn't count).

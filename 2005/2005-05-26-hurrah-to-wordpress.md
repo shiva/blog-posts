@@ -1,7 +1,7 @@
 ---
 title: 'Hurrah! to Wordpress'
+date: '2005-05-26'
 description: 'Hurrah! to Wordpress'
-date: '2005-5-26'
 ---
 
 Hip hip hurrah! (applause ..) I finally managed to get my site up using [wordpress][0]. A truly wondeful peice of software. Thanks to all those developers and plugin-authors for their wonderful contribution to the world of blogging! I know that blogs are becoming less fashionable, but I have always been more into what is functional than fashionable.. It server my needs and that's all I care about. I'm trying to make it look more static, like a normal website, but that is beside the point.

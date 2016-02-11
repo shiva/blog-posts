@@ -1,7 +1,7 @@
 ---
 title: 'Wired News: Plasma Beam Eyed in Space Travel'
-description: 'Wired News: Plasma Beam Eyed in Space Travel'
 date: '2004-10-19'
+description: 'Wired News: Plasma Beam Eyed in Space Travel'
 ---
 
 [Wired News: Plasma Beam Eyed in Space Travel][0]

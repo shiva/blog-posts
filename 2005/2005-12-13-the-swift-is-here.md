@@ -1,7 +1,7 @@
 ---
 title: 'The Swift is here!'
-description: 'The Swift is here!'
 date: '2005-12-13'
+description: 'The Swift is here!'
 ---
 
 Yippeeee!!! Last weekend I finally got my long-awaited very won Suzuki Swift ! The delivery of the Swift is by no means swift!

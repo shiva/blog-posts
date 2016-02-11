@@ -1,7 +1,7 @@
 ---
 title: Getting screwed for doing the right and wrong
+date: '2004-08-16'
 description: Getting screwed for doing the right and wrong
-date: '2004-8-16'
 ---
 
 This blogging thingy is turning out to be good. It let's you interface with people and take a sneak peek into their minds, (which btw, I think has been the most characteristic search of humankind in the last century - a peek into the evolving human mind) without tramping on their time or egos!

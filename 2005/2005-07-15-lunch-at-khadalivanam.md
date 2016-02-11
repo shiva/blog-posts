@@ -1,7 +1,7 @@
 ---
 title: Lunch at Kadaleevanam
+date: '2005-07-15'
 description: Lunch at Kadaleevanam
-date: '2005-7-15'
 ---
 
 We went for team-lunch at this amazing restaurant called "Kadaleevanam". It is a health food restau, at Mugappair, Chennai. The food there is based on naturopathic principles and it actually tasted quite good. They explain the food that you eat, and enforce (read, beware of the order in which you eat, or else they'll make you eat it again ;) ). A small tip, check out the ice-creams there (Yup, healthy ice-cream!! quite an oxy-moron eh?! ). Quite an interesting choice of ice-creams, like tender-coconut, ginger and honey, guava!

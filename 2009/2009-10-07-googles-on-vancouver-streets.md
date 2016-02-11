@@ -2,8 +2,8 @@
 title: "Google's on Vancouver Streets"
 tags:
   - google street view
+date: '2009-10-07'
 description: "Google's on Vancouver Streets"
-date: '2009-10-7'
 ---
 
 Google street view is now available for Vancouver, Canada. So, the big G has finally realized that people living outside the US might find use for google's products.

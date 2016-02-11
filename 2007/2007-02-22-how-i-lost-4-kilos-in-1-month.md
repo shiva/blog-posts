@@ -1,7 +1,7 @@
 ---
 title: How I lost 4 kilos in 1 month
+date: '2007-02-22'
 description: How I lost 4 kilos in 1 month
-date: '2007-2-22'
 ---
 
 One of my good friends, James (who wants to remain anonymous), asked me how I lost weight. So for his benefit and hopefully to inspire others here it is.

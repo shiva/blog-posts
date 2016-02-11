@@ -4,8 +4,8 @@ tags:
   - mom
   - poem
   - tamil
+date: '2011-12-02'
 description: 'Happy birthday, Mom'
-date: '2011-12-2'
 ---
 
 It's my mom's birthday today, and as I scoured the recesses of the internets for something nice to say, I came across this most beautiful poem by the author of  "[Joy Junction][0]" about his mom. As most of you who know me know, I'm not much of a poet, but I am enough of a romantic to steal "borrow" someone-else work to express what I feel (I know -- lame, right?)

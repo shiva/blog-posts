@@ -1,7 +1,7 @@
 ---
 title: 'Got my hand back, finally!'
+date: '2007-01-26'
 description: 'Got my hand back, finally!'
-date: '2007-1-26'
 ---
 
 After a whole month, of wearing a cast, I got my hand back today. This is the first time, in 30 days that I am using both my hands to type and it feels good to be back (atleast partially).

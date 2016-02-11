@@ -1,7 +1,7 @@
 ---
 title: 'My first job: Building Custom PCs'
+date: '2009-01-23'
 description: 'My first job: Building Custom PCs'
-date: '2009-1-23'
 ---
 
 It lasted about 2 years. I made next to nothing, but I owe my software development career to it!

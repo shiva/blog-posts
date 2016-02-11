@@ -1,7 +1,7 @@
 ---
 title: "Let's raise our voice for our president APJ"
+date: '2007-02-24'
 description: "Let's raise our voice for our president APJ"
-date: '2007-2-24'
 ---
 
 Dr. APJ Abdul Kalam, has been, by far, the best president that India has ever had (atleast in my humble opinion). More than that, he has been one of the greatest ambassador of India and its culture.

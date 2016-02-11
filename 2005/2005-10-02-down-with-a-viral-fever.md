@@ -1,7 +1,7 @@
 ---
 title: Down with a viral fever
+date: '2005-10-02'
 description: Down with a viral fever
-date: '2005-10-2'
 ---
 
 What a lousy week it has been... I've had this fever all week long, and is still poking its head around me now and then..

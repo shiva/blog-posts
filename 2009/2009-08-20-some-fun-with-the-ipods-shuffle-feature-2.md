@@ -1,7 +1,7 @@
 ---
 title: "Some fun with the IPod's shuffle feature"
+date: '2009-08-20'
 description: "Some fun with the IPod's shuffle feature"
-date: '2009-8-20'
 ---
 
 1\. Put your mp3s on shuffle.  

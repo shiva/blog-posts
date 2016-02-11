@@ -1,7 +1,7 @@
 ---
 title: JSON Resource Guide
+date: '2006-11-01'
 description: JSON Resource Guide
-date: '2006-11-1'
 ---
 
 [JSON Resource Guide][0]

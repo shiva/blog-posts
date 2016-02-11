@@ -1,7 +1,7 @@
 ---
 title: "cm-dev's day out!"
+date: '2004-09-27'
 description: "cm-dev's day out!"
-date: '2004-9-27'
 ---
 
 As I have mentioned earlier, I have recently moved to a new team at office.  

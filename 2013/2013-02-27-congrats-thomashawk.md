@@ -1,7 +1,7 @@
 ---
 title: 'Congrats Thomashawk!'
+date: '2013-02-27'
 description: 'Congrats Thomashawk!'
-date: '2013-2-27'
 ---
 
 Congrats to Thomashawk on the [flickr interview][0]!

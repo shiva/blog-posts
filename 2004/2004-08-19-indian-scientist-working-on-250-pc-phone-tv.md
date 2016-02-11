@@ -1,7 +1,7 @@
 ---
 title: Indian scientist working on $250 PC-phone-TV
+date: '2004-08-19'
 description: Indian scientist working on $250 PC-phone-TV
-date: '2004-8-19'
 ---
 
 [Indian scientist working on $250 PC-phone-TV][0]

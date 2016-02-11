@@ -9,8 +9,8 @@ tags:
   - java
   - unsigned arithmetic
   - unsigned types
+date: '2010-08-23'
 description: Unsigned Arithmetic
-date: '2010-8-23'
 ---
 
 Since my last post, I've had a couple of replies, a few more tweets, and few minutes of talking about unsigned types in Java, and why it doesn't support them.

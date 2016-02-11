@@ -1,7 +1,7 @@
 ---
 title: 'Some fun things, and some cute ones too'
+date: '2009-08-05'
 description: 'Some fun things, and some cute ones too'
-date: '2009-8-5'
 ---
 
 I'm pretty sure that I am violating some copyright by posting these here but they really are good. (I found these on a facebook album shared by someone I know - thank you if you know who you are). I did several searches on google and bing and couldn't trace any restrictions. If you have problems with it, let me know.

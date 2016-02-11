@@ -4,8 +4,8 @@ tags:
   - apple
   - Google Voice
   - Jason Calacanis
+date: '2009-08-08'
 description: "\\[Jason\\] The Case Against Apple--in Five Parts"
-date: '2009-8-8'
 ---
 
 Hi Jason,

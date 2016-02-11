@@ -3,8 +3,8 @@ title: Twitter digests
 tags:
   - projects
   - Short updates
+date: '2008-04-23'
 description: Twitter digests
-date: '2008-4-23'
 ---
 
 A few weeks back, I installed Alex King's Twitter Tools for wordpress. Running it for a few weeks, I found that by lack of posting to my blog, became more apparent that earlier. There are now more "twitter" posts than the number of posts that I have written myself in the last year or so. How pathetic is that?!

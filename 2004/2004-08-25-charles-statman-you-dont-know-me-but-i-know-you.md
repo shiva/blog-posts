@@ -1,7 +1,7 @@
 ---
 title: "charles statman - you don't know me but I know you~"
+date: '2004-08-25'
 description: "charles statman - you don't know me but I know you~"
-date: '2004-8-25'
 ---
 
 [charles statman][0] - hiya Charles!! Well this is a must read blog! This guy is really really living life! Way to go Charles!

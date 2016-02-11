@@ -5,8 +5,8 @@ tags:
   - holy grail
   - "programmer's high"
   - programming
-description: "The Holy Grail and the Programmer's High"
 date: '2009-10-26'
+description: "The Holy Grail and the Programmer's High"
 ---
 
 [Dave Winer][0], the inventor of RSS, wrote today about twitter's latest API update for supporting the [lists feature][1]

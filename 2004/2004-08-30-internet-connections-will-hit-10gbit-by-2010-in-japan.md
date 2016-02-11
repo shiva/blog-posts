@@ -1,7 +1,7 @@
 ---
 title: Tech Crazy Internet connections will hit 10Gbit by 2010 in Japan
+date: '2004-08-30'
 description: Tech Crazy Internet connections will hit 10Gbit by 2010 in Japan
-date: '2004-8-30'
 ---
 
 [Tech Crazy � Internet connections will hit 10Gbit by 2010 in Japan][0]

@@ -1,7 +1,7 @@
 ---
 title: Twitter Updates for 2008-04-10
+date: '2008-04-10'
 description: Twitter Updates for 2008-04-10
-date: '2008-4-10'
 ---
 
 * Finally found a decent, quick loading, CSS compliant (not yet for XHTML) wordpress theme. Check out the new look . [http://shvelmur.com][0] [\#][1]

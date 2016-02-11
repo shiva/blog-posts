@@ -1,7 +1,7 @@
 ---
 title: Folding Plug System
+date: '2009-09-01'
 description: Folding Plug System
-date: '2009-9-1'
 ---
 
 [![](/images/media_httpwwwminkyucoukSiteProductEntries2009420FoldingPlugSystemfileschoi28ukfoldingplug2902jpg_bGkwqfolpuntFtg.jpg.scaled500.jpg) ][0]

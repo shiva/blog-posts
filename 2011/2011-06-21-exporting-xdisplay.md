@@ -6,8 +6,8 @@ tags:
   - unix
   - X Display
   - xhost
+date: '2011-06-21'
 description: Exporting XDisplay
-date: '2011-6-21'
 ---
 
 In \*nix systems, you can make the display, the GUI of an application, appear on another machine.  This if often required, when the machine you want to run the application on is in a lab, and you have access through a desktop machine that has a monitor.

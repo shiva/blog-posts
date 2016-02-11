@@ -1,8 +1,8 @@
 ---
 title: Website clean up
 tags: 'ideas, tools, wordpress, WPexAPI, wordpress extended RPC, Novell, ODF, OpenXML'
+date: '2007-03-07'
 description: Website clean up
-date: '2007-3-7'
 ---
 
 I've been hosting this site for over 2 years now. Nothing much has come of it, except satisfying my own ever-growing obsession with all things that are related to "The Web".

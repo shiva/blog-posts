@@ -1,7 +1,7 @@
 ---
 title: "I'm back"
+date: '2006-02-14'
 description: "I'm back"
-date: '2006-2-14'
 ---
 
 I have been away far too long this time around. But, I finally find some time to do my bloggy thingy!

@@ -9,8 +9,8 @@ tags:
   - Development
   - gcc
   - programming
+date: '2011-11-08'
 description: "Badly punctuated parameter list in \\#define"
-date: '2011-11-8'
 ---
 
 Sometimes working with an old c compiler brings up painful, yet fun-filled days of making it speak the same language as you, and sometimes you just go "\*$&%\*$\#&% you piece of sh\*\* compiler"

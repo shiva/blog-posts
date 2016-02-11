@@ -1,7 +1,7 @@
 ---
 title: Twitter Updates for 2008-04-11
+date: '2008-04-11'
 description: Twitter Updates for 2008-04-11
-date: '2008-4-11'
 ---
 
 * getting ready to file my taxes! (have spent the rebate on a macbook already) :) [\#][0]

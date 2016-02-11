@@ -1,7 +1,7 @@
 ---
 title: Thoughts on ello
+date: '2014-09-30'
 description: Thoughts on ello
-date: '2014-9-30'
 ---
 In the tradition of joining new social tools on the interwebs, here some thoughts on my experience. 
 

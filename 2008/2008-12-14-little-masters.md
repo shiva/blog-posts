@@ -1,7 +1,7 @@
 ---
 title: Little masters
-description: Little masters
 date: '2008-12-14'
+description: Little masters
 ---
 
 [![](/images/16777231_blog)][0]  

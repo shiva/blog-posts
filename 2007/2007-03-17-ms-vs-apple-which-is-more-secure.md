@@ -1,8 +1,8 @@
 ---
 title: 'MS Vs Apple: Which is more secure?'
 tags: 'security, windows, vista, opensuse, linux, ubuntu, freebsd'
+date: '2007-03-17'
 description: 'MS Vs Apple: Which is more secure?'
-date: '2007-3-17'
 ---
 
 Marius Oiaga of [Softpedia][0] News argues that [Windows Vista is more secure than MAC OSX][1], on the grounds that there are more security patches for MACOSX in a 1 month period. Now, how naive is that?!! Developers at Microsoft are probably just catching their breaths after years of trying to get Windows Vista out of the "window" (excuse the pun).

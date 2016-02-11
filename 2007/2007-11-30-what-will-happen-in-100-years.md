@@ -2,8 +2,8 @@
 title: What will happen in 100 years?
 tags:
   - predictions
-description: What will happen in 100 years?
 date: '2007-11-30'
+description: What will happen in 100 years?
 ---
 
 That is a very difficult question to answer (which I don't answer anywhere in this post: go away). Anyone who attempts to do so, must be a genius or a fool, perhaps a little of both. [Philipp Lenssen][0] on [Google Blogoscoped][1], observes how one of those is true. Here is a more detailed analysis.

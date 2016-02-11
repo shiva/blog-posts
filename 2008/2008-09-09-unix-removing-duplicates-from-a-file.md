@@ -4,8 +4,8 @@ tags:
   - coding
   - unix
   - unix commands
+date: '2008-09-09'
 description: 'Unix: removing duplicates from a file'
-date: '2008-9-9'
 ---
 
 Over the last few months, I have re-discovered some unix commands (it's been such a long time)

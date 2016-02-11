@@ -6,8 +6,8 @@ tags:
   - social bites
   - whiskey
   - wontons
+date: '2013-01-14'
 description: A weekend of culinary delights
-date: '2013-1-14'
 ---
 
 The great G.B Shaw, in "Man and Superman" (not that Superman), quipped, "_There is no love sincerer than the love of food_." I had a weekend, that reminded me how much I love being fed. It also, reminded me of my wayward ways, in keeping the waistline in check, but I diverge. For this Christmas, I got the most amazing gift -- the gift of an evening out trying out food that tasted, as good as it sounds and looks. Without much ado, here is the spread:

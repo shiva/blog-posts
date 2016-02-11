@@ -6,8 +6,8 @@ tags:
   - freedom zero
   - iphone
   - ipod touch
+date: '2008-01-29'
 description: That queasy feeling
-date: '2008-1-29'
 ---
 
 A few days ago, I returned the Ipod touch that I had for exactly 11 days, coz Apple chose to charge me $20\. Apart from me being a cheap bas\*\*\*d, I had this queasy feeling in my gut, about apple products. I felt an unexplainable rage towards Apple, Jobs and the fanboys. I am usually a very moderate person, and it really surprised me that I could harbor such crazy extremism and frustration. I could never place a finger on the source, until I read [this article][0] on Coding Horror by Jeff Atwood.

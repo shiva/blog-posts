@@ -7,8 +7,8 @@ tags:
   - Reviews
   - stephen clarke
   - travel
+date: '2009-01-02'
 description: 'Review: A Year in the Merde by Stephen Clarke'
-date: '2009-1-2'
 ---
 
 [![A Year in the Merde](/images/10765.jpg)][0] [A Year in the Merde][0] by [Stephen Clarke][1]

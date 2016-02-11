@@ -3,8 +3,8 @@ title: 'Bitcoins, new languages, freedom and other things'
 tags:
   - links
   - weekend
+date: '2014-01-27'
 description: 'Bitcoins, new languages, freedom and other things'
-date: '2014-1-27'
 ---
 
 Some interesting links for the weekend:

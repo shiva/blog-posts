@@ -4,8 +4,8 @@ tags:
   - Mac
   - Mac Book
   - Mac OSX
+date: '2008-03-15'
 description: 'Biting the "Mac" Bullet'
-date: '2008-3-15'
 ---
 
 I did it! I finally went out and bought myself a mac. I didn't waver. No! Not this time.Â I knew exactly what I wanted, and I was going to get it, come what may!

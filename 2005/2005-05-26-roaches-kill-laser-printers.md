@@ -1,7 +1,7 @@
 ---
 title: roaches kill laser printers
+date: '2005-05-26'
 description: roaches kill laser printers
-date: '2005-5-26'
 ---
 
 Roaches have attacked the toner in laser printers .. or so some judges claim! however the infrastructure team claim that they have found yet another effective way of dealing with them.. the heat and the laser killing the roaches!?

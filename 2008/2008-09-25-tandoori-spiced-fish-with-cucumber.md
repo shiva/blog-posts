@@ -6,8 +6,8 @@ tags:
   - food
   - halibut
   - recipe
+date: '2008-09-25'
 description: Tandoori spiced fish with cucumber
-date: '2008-9-25'
 ---
 
 One program--on Food TV--that I like to watch, is [Gordon Ramsey][0]'s [Kitchen Nightmares][1]. He is such a powerful person, who is into what he does for a living. He has inspired me to get of my couch and cook decent food.

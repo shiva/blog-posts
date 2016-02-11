@@ -1,8 +1,8 @@
 ---
 title: "Goldilock's at my place"
 tags: 'thief, rants'
+date: '2007-02-11'
 description: "Goldilock's at my place"
-date: '2007-2-11'
 ---
 
 After a long ride from Bangalore, whilst I was sleeping blissfully, some rascal, ran through our house, ate an apple, stole a couple of jars of Pickle (good ones at that), helped himself to the following:

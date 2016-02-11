@@ -6,8 +6,8 @@ tags:
   - personal process
   - RSS
   - 'Tips & Tricks'
-description: How I handle 1000+ emails and 300+ blog posts a day
 date: '2008-10-15'
+description: How I handle 1000+ emails and 300+ blog posts a day
 ---
 
 Several people are shocked to hear that I read 1000+ emails and [several hundred blog posts a day][0]. Ofcourse, when I say that, all I mean is that, I process that much content. I read around 30-40% (That is really the signal-to-noise ratio of web content these days--and that is, if you are subscribed to high quality feeds)

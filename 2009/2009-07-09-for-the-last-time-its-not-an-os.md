@@ -4,8 +4,8 @@ tags:
   - Bing
   - google
   - google chrome
+date: '2009-07-09'
 description: 'For the last time, its not an OS!'
-date: '2009-7-9'
 ---
 
 The last couple of days has been ablaze with news of Google taking over the world, destroying Microsoft and sticking all of humanity on stakes to collect sunlight and convert it to power. Obviously, [some are elated at this proposition][0],  [some tentative][1], and then there are [some others][2] [who think all of this is just hogwash.][3]

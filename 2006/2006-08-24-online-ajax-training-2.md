@@ -1,7 +1,7 @@
 ---
 title: Online AJAX Training
+date: '2006-08-24'
 description: Online AJAX Training
-date: '2006-8-24'
 ---
 
 [10-week AJAX Training Course by Sang Shin][0]

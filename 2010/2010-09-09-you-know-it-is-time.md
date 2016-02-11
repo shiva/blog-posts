@@ -7,8 +7,8 @@ tags:
   - Picasa
   - Picasaweb
   - Vancouver
+date: '2010-09-09'
 description: You know it is time ..
-date: '2010-9-9'
 ---
 
 to write a blog post, when someone calls you to tell you that they checked your blog, and there was nothing of interest. Ofcourse, being lazy, I just chose to put some pictures, which have been languishing in the netherworld of pictures on the internet -- Picasa.

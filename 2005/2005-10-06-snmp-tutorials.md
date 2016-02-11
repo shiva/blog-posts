@@ -1,8 +1,8 @@
 ---
 title: SNMP tutorials
 tags: SNMP books tutorials networking
+date: '2005-10-06'
 description: SNMP tutorials
-date: '2005-10-6'
 ---
 
 SNMP being the bread and butter for me, I decided to dig up some tutorials and links regarding the same.  

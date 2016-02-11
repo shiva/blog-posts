@@ -1,7 +1,7 @@
 ---
 title: 'How "The Alchemy of Desire" changed my life'
+date: '2006-06-05'
 description: 'How "The Alchemy of Desire" changed my life'
-date: '2006-6-5'
 ---
 
 [The Alchemy of Desire][0]

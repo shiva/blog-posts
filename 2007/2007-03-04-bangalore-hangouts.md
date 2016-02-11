@@ -2,8 +2,8 @@
 title: Bangalore Hangouts
 tags:
   - 'Tips & Tricks'
+date: '2007-03-04'
 description: Bangalore Hangouts
-date: '2007-3-4'
 ---
 
 Thanks to the person who has compiled this huge list of addresses of establishements in bangalore. I have no clue how currrent this list is, but here it is.

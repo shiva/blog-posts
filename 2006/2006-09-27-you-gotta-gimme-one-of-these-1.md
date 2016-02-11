@@ -1,7 +1,7 @@
 ---
 title: You gotta gimme one of these - Part 1
+date: '2006-09-27'
 description: You gotta gimme one of these - Part 1
-date: '2006-9-27'
 ---
 
 ![](/images/296_meizu_m6_icon.jpg)

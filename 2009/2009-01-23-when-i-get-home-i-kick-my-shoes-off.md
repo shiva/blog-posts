@@ -1,7 +1,7 @@
 ---
 title: 'When I get home, I kick my shoes off'
+date: '2009-01-23'
 description: 'When I get home, I kick my shoes off'
-date: '2009-1-23'
 ---
 
 To air out the feet

@@ -5,8 +5,8 @@ tags:
   - Mac OSX
   - OS
   - Snow Leopard
+date: '2009-08-28'
 description: "I'm getting an os upgrade for 10 bucks!"
-date: '2009-8-28'
 ---
 
 [![](/images/snow-leopard-shipment.jpg.scaled.500.jpg)][0]

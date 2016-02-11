@@ -1,8 +1,8 @@
 ---
 title: 'Crap on TV - Is that even news?!'
 tags: 'crap on tv, ankit wadia, security'
+date: '2007-02-01'
 description: 'Crap on TV - Is that even news?!'
-date: '2007-2-1'
 ---
 
 Yesterday, I was watching an interview with [Mr Ankit Wadia][0] (His website describes him as "The Computer Security guru. The Ethical Hacker. The Author. The Intelligence Consultant. The Entrepreneur.")

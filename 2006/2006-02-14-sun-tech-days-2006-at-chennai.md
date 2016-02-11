@@ -1,7 +1,7 @@
 ---
 title: Sun Tech Days 2006 at Chennai
+date: '2006-02-14'
 description: Sun Tech Days 2006 at Chennai
-date: '2006-2-14'
 ---
 
 Nice sunny day, and a huge auditorium filled with half of Chennai's Java crowd... well mebbe not exactly have, but close 2500 java programmers attended this year's Sun Tech Days held at Chennai,India. This is my first time at a Sun conference.Well, it is not a JavaOne kinda event, where it is all techie, but atleast you do get to meet a few like minded, hard-core, think-OOAD-in-the-shower guys. There were some very kewl speakers. I especially enjoyed

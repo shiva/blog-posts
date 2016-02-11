@@ -6,8 +6,8 @@ tags:
   - linkedin
   - network
   - visualization
+date: '2011-01-26'
 description: My linkedin network visualized
-date: '2011-1-26'
 ---
 
 \[caption id="" align="alignnone" width="506" caption="linkedin-visualized"\]![](/images/inmap.gif)\[/caption\]

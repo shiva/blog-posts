@@ -3,8 +3,8 @@ title: GReader just saved me a lot of time
 tags:
   - google
   - google reader
+date: '2009-08-14'
 description: GReader just saved me a lot of time
-date: '2009-8-14'
 ---
 
 [![](/images/greader.jpg.scaled.500.jpg)][0]

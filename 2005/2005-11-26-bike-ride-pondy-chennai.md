@@ -1,7 +1,7 @@
 ---
 title: Bike ride -Chennai-Pondy
-description: Bike ride -Chennai-Pondy
 date: '2005-11-26'
+description: Bike ride -Chennai-Pondy
 ---
 
 Yet another wondeful ride on my bike, and I'm road wiser !!

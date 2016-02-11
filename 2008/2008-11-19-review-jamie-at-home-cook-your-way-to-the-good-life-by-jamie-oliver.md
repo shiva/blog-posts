@@ -1,7 +1,7 @@
 ---
 title: 'Review: Jamie at Home: Cook Your Way to the Good Life by Jamie Oliver'
-description: 'Review: Jamie at Home: Cook Your Way to the Good Life by Jamie Oliver'
 date: '2008-11-19'
+description: 'Review: Jamie at Home: Cook Your Way to the Good Life by Jamie Oliver'
 ---
 
 [![Jamie at Home: Cook Your Way to the Good Life](/images/1776251.jpg)][0] [Jamie at Home: Cook Your Way to the Good Life][0] by [Jamie Oliver][1]  

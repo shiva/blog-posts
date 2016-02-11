@@ -1,7 +1,7 @@
 ---
 title: "I recommend drinking Vin Chaud when you're in Strasbourg, France"
+date: '2009-01-28'
 description: "I recommend drinking Vin Chaud when you're in Strasbourg, France"
-date: '2009-1-28'
 ---
 
 ![](/images/map?maptype=map&sensor=false&key=ABQIAAAAz4I5iDWfLKXRJqwY_lxrMRSDGNZDWabFcZHPH02nr_QeuITw5hT0k3Ux-ovu3Vn8nZoGpAsaKOTz7Q&center=48.5829331,7.7437488&zoom=11&size=410x300)

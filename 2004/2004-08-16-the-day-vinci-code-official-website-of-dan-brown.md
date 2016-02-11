@@ -1,7 +1,7 @@
 ---
 title: The day Vinci Code - Official Website of Dan Brown
+date: '2004-08-16'
 description: The day Vinci Code - Official Website of Dan Brown
-date: '2004-8-16'
 ---
 
 [The Da Vinci Code - FAQs - Official Website of Dan Brown][0]

@@ -1,7 +1,7 @@
 ---
 title: Journey with a book
+date: '2005-03-07'
 description: Journey with a book
-date: '2005-3-7'
 ---
 
 Started reading "[Illusions][0]" by Richard Bach. Often, I feel, that a book comes in your life, when you are ready for it. It presents itself, in ways you never would have imagined. I have heard of this book for the last 10 years. There has been a sopy at my parent's place (where I stayed for the better part of the last 10 years) and it never occured to me, to pick that small book (of about 200 odd pages) and give it a read.

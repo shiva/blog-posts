@@ -1,8 +1,8 @@
 ---
 title: Apple iMplant
 tags: apple weird-tech news gadgets
-description: Apple iMplant
 date: '2005-10-26'
+description: Apple iMplant
 ---
 
 Have you heard about the latest ipod.

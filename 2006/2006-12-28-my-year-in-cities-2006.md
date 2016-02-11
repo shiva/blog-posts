@@ -1,7 +1,7 @@
 ---
 title: My year in Cities - 2006
-description: My year in Cities - 2006
 date: '2006-12-28'
+description: My year in Cities - 2006
 ---
 
 Nice idea this one. So, here is my list

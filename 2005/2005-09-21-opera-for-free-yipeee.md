@@ -2,8 +2,8 @@
 title: 'Opera for free! Yipeee!'
 tags:
   - Tools
+date: '2005-09-21'
 description: 'Opera for free! Yipeee!'
-date: '2005-9-21'
 ---
 
 There was once a wondeful browser called "Opera". The lucid interface, the smal memory footprint - it was simply browsing heaven.

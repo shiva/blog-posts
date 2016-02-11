@@ -1,7 +1,7 @@
 ---
 title: Had to dump Frequency
+date: '2004-09-22'
 description: Had to dump Frequency
-date: '2004-9-22'
 ---
 
 Had to dump Frequency! :( No support for titles! Based on the old Blogger 1.0 API and free only for 15 days!!. Desperately in need of another client based interface, after moving to opera. It is such a pain, to browse in one environment and having to open IR just for blogging.

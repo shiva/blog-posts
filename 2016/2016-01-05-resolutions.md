@@ -6,8 +6,8 @@ tags:
   - resolutions
   - 2016
   - goals
+date: '2016-01-05'
 description: Goals for 2016
-date: '2016-1-5'
 ---
 The word "resolutions", feels forced. It feels like a ritual declaration of intent, followed immediately by inaction, and eventually concession that it was all in jest. This year, I am going to have some goals. 
 

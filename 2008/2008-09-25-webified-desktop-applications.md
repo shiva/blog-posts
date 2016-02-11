@@ -7,8 +7,8 @@ tags:
   - uploader v3
   - web-technology based app
   - webified desktop applications
+date: '2008-09-25'
 description: Webified desktop applications
-date: '2008-9-25'
 ---
 
 You know something is seriously out of whack, when you download a 12 MB application that is just a step above an ftp application. I know, a rant at such an ungodly hour! Yup! I have been up 2 hours past bed-time trying to upload a few high-resolution photos.

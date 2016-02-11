@@ -1,7 +1,7 @@
 ---
 title: 'Book review: Five point someone'
+date: '2005-07-29'
 description: 'Book review: Five point someone'
-date: '2005-7-29'
 ---
 
 I'm at office, after an all-nighter! I chanced to come by this amazing un-put-downable book by name "Five point someone" by Chetan Bhagat (Check out [the book's site][0]). Not many books that I read get read, in a day.The amazing story of three friends through life at IIT, brought back memories that had been shelved for the past four years. Of the gazillion trees that were felled for the books I have bought, read and enjoyed, the trees that made this book lost their lives to a worthy cause.

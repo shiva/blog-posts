@@ -1,8 +1,8 @@
 ---
 title: "Nexo - The tool you'll remember for a while"
 tags: tools
+date: '2007-02-06'
 description: "Nexo - The tool you'll remember for a while"
-date: '2007-2-6'
 ---
 
 Firstly, thanks Scoble.. I think I'll stop reading other gadget/tech sites .. you are my new feed filter.

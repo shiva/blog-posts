@@ -1,7 +1,7 @@
 ---
 title: Anger is Illogical
+date: '2011-01-25'
 description: Anger is Illogical
-date: '2011-1-25'
 ---
 
 > Shared by shiva  

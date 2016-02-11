@@ -1,7 +1,7 @@
 ---
 title: 'Apple! Are you stupid?!'
-description: 'Apple! Are you stupid?!'
 date: '2008-11-24'
+description: 'Apple! Are you stupid?!'
 ---
 
 Here's the the top 3 requested features from iPhone users at large.

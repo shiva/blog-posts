@@ -2,8 +2,8 @@
 title: 'Firefox upgrade!'
 tags:
   - Tools
-description: 'Firefox upgrade!'
 date: '2006-12-24'
+description: 'Firefox upgrade!'
 ---
 
 It is not just M$ that struggles with frequent patches for its products. Mozilla just released a whole host of bug fixes in a new release 2.0.0.1\. You can download it [here ][0]or use the direct links below.  

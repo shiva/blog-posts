@@ -1,7 +1,7 @@
 ---
 title: Damn I hate the traffic in Chennai
+date: '2004-08-25'
 description: Damn I hate the traffic in Chennai
-date: '2004-8-25'
 ---
 
 Come on people! What's up with Chennai roads these days.. yeah I can understand that since the city is growing blah, blah, blah, it is going to be congested.... but you know there is this thing called sanity that departs you when it takes you an hour and half to get from Numgambakkam to Vadapalani!!  

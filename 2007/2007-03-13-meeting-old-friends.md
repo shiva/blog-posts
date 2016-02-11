@@ -1,7 +1,7 @@
 ---
 title: Meeting old friends
+date: '2007-03-13'
 description: Meeting old friends
-date: '2007-3-13'
 ---
 
 After moving to bangalore (it's been 3 months already!!), I never had an opportunity to got visit good friends who have moved here. Last weekend, I managed to find time to meet up with my old pals.

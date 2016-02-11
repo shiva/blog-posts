@@ -6,8 +6,8 @@ tags:
   - resolutions
   - 2016
   - goals
+date: '2016-01-31'
 description: A month flies by
-date: '2016-1-31'
 ---
 It has not been a great start. It, however, has been a busy one. 
 

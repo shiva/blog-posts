@@ -1,7 +1,7 @@
 ---
 title: 'Arrivederci! Siamo arrivato!!'
-description: 'Arrivederci! Siamo arrivato!!'
 date: '2006-12-19'
+description: 'Arrivederci! Siamo arrivato!!'
 ---
 
 ... that, my friends, in Italian means "Good bye! We have arrived!!".

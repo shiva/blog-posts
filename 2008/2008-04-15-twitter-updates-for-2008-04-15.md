@@ -1,7 +1,7 @@
 ---
 title: Twitter Updates for 2008-04-15
+date: '2008-04-15'
 description: Twitter Updates for 2008-04-15
-date: '2008-4-15'
 ---
 
 * just got out of google reader bankruptcy. (Still have 500 items unread!) phew! [\#][0]

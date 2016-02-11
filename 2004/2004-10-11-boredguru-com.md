@@ -1,7 +1,7 @@
 ---
 title: BoredGuru.com
-description: BoredGuru.com
 date: '2004-10-11'
+description: BoredGuru.com
 ---
 
 Well, are you really bored with life and have a net connection, but none of the sites do anything for you?!! Well, here is one nice site that caught my attention when I was googling (_= verb. searching aimlessly on google with anything that comes to your mind!_)

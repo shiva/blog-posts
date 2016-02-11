@@ -4,8 +4,8 @@ tags:
   - books
   - crushit
   - review
-description: "Guess what I'm getting in a week or two?!"
 date: '2009-10-14'
+description: "Guess what I'm getting in a week or two?!"
 ---
 
 ![CropperCapture[2]](/images/CropperCapture2-283x300.jpg)

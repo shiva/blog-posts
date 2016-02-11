@@ -1,7 +1,7 @@
 ---
 title: Twitter Updates for 2008-04-12
+date: '2008-04-12'
 description: Twitter Updates for 2008-04-12
-date: '2008-4-12'
 ---
 
 * @cabrants nice. Welcome to Vancouver!! :) [\#][0]

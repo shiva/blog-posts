@@ -1,7 +1,7 @@
 ---
 title: 'Oil Crisis galore! The End as we know it?!'
+date: '2005-06-22'
 description: 'Oil Crisis galore! The End as we know it?!'
-date: '2005-6-22'
 ---
 
 I happened to read some very interesting scary (to say the least) articles on how life as we know it may come to a standstill.

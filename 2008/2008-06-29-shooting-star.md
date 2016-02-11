@@ -2,8 +2,8 @@
 title: Shooting Star
 tags:
   - Photography
+date: '2008-06-29'
 description: Shooting Star
-date: '2008-6-29'
 ---
 
 [![](/images/2619117857_2e62b4af65.jpg)][0]

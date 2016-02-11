@@ -1,7 +1,7 @@
 ---
 title: Chennai Online News Service - View News
+date: '2004-08-04'
 description: Chennai Online News Service - View News
-date: '2004-8-4'
 ---
 
 [Chennai Online News Service - View News][0]

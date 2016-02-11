@@ -13,8 +13,8 @@ tags:
   - Pogo Sketch stylus
   - review
   - Targus stylus
+date: '2011-05-01'
 description: iPad and friends
-date: '2011-5-1'
 ---
 
 [![20110501-112322.jpg](/images/20110501-112322.jpg)][0]

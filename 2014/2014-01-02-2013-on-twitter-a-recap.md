@@ -5,8 +5,8 @@ tags:
   - Twitter
   - video
   - vizify
+date: '2014-01-02'
 description: 2013 on twitter - a recap
-date: '2014-1-2'
 ---
 
 [Vizify][0] makes a video out of the posts you have made on twitter in the last year. [Christina][1], you are always my \#1! Thank you for bringing this to my attention. As any self-respecting nerd would do, I immediately made one for myself. Doesn't the world need yet another summary of meee!!

@@ -6,8 +6,8 @@ tags:
   - git
   - git log
   - git show
+date: '2012-09-26'
 description: 'Git: beautiful git logs and listing files in a commit'
-date: '2012-9-26'
 ---
 
 Working with git is fun. However, it is easy to get tired of the log list of parameters one has to use to very often. Git aliases are a great way to deal with this.

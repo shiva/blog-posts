@@ -8,8 +8,8 @@ tags:
   - google plus
   - plus
   - why
+date: '2011-08-28'
 description: '10 reasons to dump Facebook for G+. Now!'
-date: '2011-8-28'
 ---
 
 A friend asked what I like about google+, and as I started posting a reply , I noticed there were enough to make a blog post. So here goes...

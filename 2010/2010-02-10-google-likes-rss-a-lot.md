@@ -7,8 +7,8 @@ tags:
   - google
   - google buzz
   - hidden features
+date: '2010-02-10'
 description: Google likes RSS .. a lot
-date: '2010-2-10'
 ---
 
 Did anyone else notice that buzz has an RSS feed for everything!!

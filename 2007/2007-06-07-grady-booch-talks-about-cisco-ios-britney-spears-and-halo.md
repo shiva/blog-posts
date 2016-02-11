@@ -1,7 +1,7 @@
 ---
 title: 'Grady Booch talks about Cisco IOS, Britney Spears and Halo!'
+date: '2007-06-07'
 description: 'Grady Booch talks about Cisco IOS, Britney Spears and Halo!'
-date: '2007-6-7'
 ---
 
 Here is a wonderful way to spend about an hour of your time, particularly if you are in anyway associated with software development. Listen to Grady Booch talks about "The promise, the limits, the beauty of software". Apart from that he also talks about pimped out laptops, being half dead, and fun stuff like,

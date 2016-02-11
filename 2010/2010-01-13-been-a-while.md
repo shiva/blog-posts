@@ -1,7 +1,7 @@
 ---
 title: Been a while
+date: '2010-01-13'
 description: Been a while
-date: '2010-1-13'
 ---
 
 It's been a while since I last updated, or even had the inclination to do so ... well .. I'm back.

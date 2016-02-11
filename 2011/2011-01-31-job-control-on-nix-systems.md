@@ -9,8 +9,8 @@ tags:
   - linux
   - push to background
   - unix
+date: '2011-01-31'
 description: "Job Control on \\*NIX systems"
-date: '2011-1-31'
 ---
 
 If you are not a UNIX user/not a geek, please turn away right now.

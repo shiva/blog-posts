@@ -1,8 +1,8 @@
 ---
 title: Page link in wordpress
 tags: wordpress falbum k2
-description: Page link in wordpress
 date: '2005-12-15'
+description: Page link in wordpress
 ---
 
 I have been wondering for sometime now, how K2, added an entry in pages, but the content was controlled from the one of the php files in the theme directory.

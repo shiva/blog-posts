@@ -7,8 +7,8 @@ tags:
   - rpm
   - unix
   - unix commands
+date: '2013-02-17'
 description: 'Working with rpms (extract, list contents)'
-date: '2013-2-17'
 ---
 
 Unix. I love thee!

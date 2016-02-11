@@ -1,7 +1,7 @@
 ---
 title: Working my ass off on VC++
+date: '2004-09-16'
 description: Working my ass off on VC++
-date: '2004-9-16'
 ---
 
 and yeah!!! the day has come, when I get to get my hands dirty with some VC++ coding!!

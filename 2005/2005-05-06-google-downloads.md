@@ -1,7 +1,7 @@
 ---
 title: Google downloads
+date: '2005-05-06'
 description: Google downloads
-date: '2005-5-6'
 ---
 
 A one stop shop for all your google needs!  

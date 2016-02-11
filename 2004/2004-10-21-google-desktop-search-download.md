@@ -1,7 +1,7 @@
 ---
 title: Google Desktop Search Download
-description: Google Desktop Search Download
 date: '2004-10-21'
+description: Google Desktop Search Download
 ---
 
 [Google Desktop Search Download][0]

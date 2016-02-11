@@ -1,7 +1,7 @@
 ---
 title: Upgraded to Wordpress 2.2
+date: '2007-05-24'
 description: Upgraded to Wordpress 2.2
-date: '2007-5-24'
 ---
 
 Finally upgraded to [wordpress 2.2\.][0]

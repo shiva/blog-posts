@@ -1,7 +1,7 @@
 ---
 title: 'Some major site updates!'
+date: '2011-07-07'
 description: 'Some major site updates!'
-date: '2011-7-7'
 ---
 
 * New wordpress theme

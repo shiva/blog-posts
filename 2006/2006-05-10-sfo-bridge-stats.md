@@ -1,7 +1,7 @@
 ---
 title: SFO bridge stats
+date: '2006-05-10'
 description: SFO bridge stats
-date: '2006-5-10'
 ---
 
 I was always intrigued and amazed by the ability of human beings to give up their lives at some of the most beautifiul places. Why do people like to jump of cliffs that provide a breathtaking view, or bridges like the one at SFO with its capability to produce "suddenly-surreal" images!

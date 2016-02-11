@@ -6,8 +6,8 @@ tags:
   - Customer Relationship
   - Security
   - Tumblr
+date: '2013-07-21'
 description: How to apologize to your users
-date: '2013-7-21'
 ---
 
 There has been an [increase][0] in [security][1] [breaches][2] this year. This past week, two services I use were compromised - [Tumblr][3] and [Apple Developer Connection][4]. Both services informed me of the security breach, and one made me feel like they cared, and the other one didn't. Perhaps I am reading too much into this, but at the very least, it illustrates how important language is, in conveying how much we care.

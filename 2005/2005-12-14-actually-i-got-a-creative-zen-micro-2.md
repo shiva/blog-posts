@@ -1,8 +1,8 @@
 ---
 title: Actually I got a Creative Zen Micro instead
 tags: '"zen micro" "mp3 players"'
-description: Actually I got a Creative Zen Micro instead
 date: '2005-12-14'
+description: Actually I got a Creative Zen Micro instead
 ---
 
 I wanted to get the pod nano initially, but I chose to get the Creative Zen Micro instead for reasons listed below:

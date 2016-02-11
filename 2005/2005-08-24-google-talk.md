@@ -2,8 +2,8 @@
 title: Google Talk
 tags:
   - Tools
+date: '2005-08-24'
 description: Google Talk
-date: '2005-8-24'
 ---
 
 Another wonderful tool and a new area that Google has strolled into and stormed!  

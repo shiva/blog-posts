@@ -1,7 +1,7 @@
 ---
 title: 'Web 2.0 : The Next generation Web'
+date: '2007-01-16'
 description: 'Web 2.0 : The Next generation Web'
-date: '2007-1-16'
 ---
 
 The following is something I wrote 14th Dec 2005, on my trial account with one of the earliest Web 2.0 spplication services, called [backpackit.com][0]

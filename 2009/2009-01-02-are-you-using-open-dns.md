@@ -4,8 +4,8 @@ tags:
   - networking
   - open dns
   - tips
+date: '2009-01-02'
 description: Are you using Open-DNS?
-date: '2009-1-2'
 ---
 
 You should be using Open-DNS, if you answer yes to one of the following:

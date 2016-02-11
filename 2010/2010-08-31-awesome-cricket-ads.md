@@ -5,8 +5,8 @@ tags:
   - ads
   - cricket
   - sport
+date: '2010-08-31'
 description: Awesome cricket ads
-date: '2010-8-31'
 ---
 
 Everything you need to know about cricket, in a series of awesome ads for Adidas.  

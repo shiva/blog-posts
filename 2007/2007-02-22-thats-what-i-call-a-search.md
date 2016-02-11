@@ -1,7 +1,7 @@
 ---
 title: "That's what I call a \"search\""
+date: '2007-02-22'
 description: "That's what I call a \"search\""
-date: '2007-2-22'
 ---
 
 I wonder what's happening to me. This is the third post in the last one hour. I must be going crazy. Anyway, this must the least used blog on earth, so what the heck. (I know there are a few of you out there, but you don't say much on my blog!! :( )
