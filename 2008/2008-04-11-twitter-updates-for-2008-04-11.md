@@ -1,17 +1,7 @@
 ---
-layout: post
 title: Twitter Updates for 2008-04-11
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_tweeted: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Twitter Updates for 2008-04-11
+date: '2008-4-11'
 ---
 
 * getting ready to file my taxes! (have spent the rebate on a macbook already) :) [\#][0]

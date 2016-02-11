@@ -1,19 +1,11 @@
 ---
-layout: post
 title: Ipod touch/Iphone support
-categories: \[\]
 tags:
-- iphone
-- ipod touch
-- wordpress plugins
-published: true
-meta: {}
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - iphone
+  - ipod touch
+  - wordpress plugins
+description: Ipod touch/Iphone support
+date: '2008-1-15'
 ---
 
 This website, now supports a special interface for viewing usingÂ  ipod touch/iphone. I'm using the [iWPhone plugin][0] at [contentrobot.com][1]

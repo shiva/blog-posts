@@ -1,20 +1,9 @@
 ---
-layout: post
-title: Return of Javascript!
-categories: \[\]
+title: 'Return of Javascript!'
 tags:
-- Tips & Tricks
-published: true
-meta:
-\_utw\_tags\_0: s:208:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:10:"javascript";}i:2;O:8:"stdClass":1:{s:3:"tag";s:13:"Tips-n-Tricks";}i:3;O:8:"stdClass":1:{s:3:"tag";s:5:"Tools";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - 'Tips & Tricks'
+description: 'Return of Javascript!'
+date: '2006-8-10'
 ---
 
 After what has been ages, I have returned. Not that many are reading this, but I intend to use this for future reference in any case

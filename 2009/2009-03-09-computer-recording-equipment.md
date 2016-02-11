@@ -1,21 +1,12 @@
 ---
-layout: post
 title: Computer Recording Equipment
-categories: \[\]
 tags:
-- audio
-- hardware
-- mixers
-- usb mics
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - audio
+  - hardware
+  - mixers
+  - usb mics
+description: Computer Recording Equipment
+date: '2009-3-9'
 ---
 
 I'm a bit of a stickler, when it comes to audio recording. I hate using the mics that come with laptops or the standard desktop mic. Recently, a co-worker asked me about my setup (I record a piano, strictly for my listening pleasure, and NO, MIDI doesn't count).

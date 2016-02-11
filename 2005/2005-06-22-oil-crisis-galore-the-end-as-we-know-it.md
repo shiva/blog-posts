@@ -1,17 +1,7 @@
 ---
-layout: post
-title: Oil Crisis galore! The End as we know it?!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:50:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:4:"News";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'Oil Crisis galore! The End as we know it?!'
+description: 'Oil Crisis galore! The End as we know it?!'
+date: '2005-6-22'
 ---
 
 I happened to read some very interesting scary (to say the least) articles on how life as we know it may come to a standstill.

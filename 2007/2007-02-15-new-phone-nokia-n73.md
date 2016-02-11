@@ -1,7 +1,8 @@
 ---
-layout: post
 title: New phone - Nokia N73
-tags: nokia, N73, nokia N73
+tags: 'nokia, N73, nokia N73'
+description: New phone - Nokia N73
+date: '2007-2-15'
 ---
 
 I dropped my trusty ol' Nokia 6610, from the third floor, at my office. After scourring the gazillion models and options that are available out there, I settled on two phones.

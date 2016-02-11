@@ -1,20 +1,11 @@
 ---
-layout: post
-title: Biting the "Mac" Bullet
-categories: \[\]
+title: 'Biting the "Mac" Bullet'
 tags:
-- Mac
-- Mac Book
-- Mac OSX
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Mac
+  - Mac Book
+  - Mac OSX
+description: 'Biting the "Mac" Bullet'
+date: '2008-3-15'
 ---
 
 I did it! I finally went out and bought myself a mac. I didn't waver. No! Not this time.Â I knew exactly what I wanted, and I was going to get it, come what may!

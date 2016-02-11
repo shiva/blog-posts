@@ -1,24 +1,10 @@
 ---
-layout: post
-title: Bitcoins, new languages, freedom and other things
-categories: \[\]
+title: 'Bitcoins, new languages, freedom and other things'
 tags:
-- links
-- weekend
-published: true
-meta:
-\_edit\_last: '1'
-\_wpas\_done\_all: '1'
-\_wpas\_skip\_2634709: '1'
-\_wpas\_skip\_2634712: '1'
-\_wpas\_skip\_5689512: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - links
+  - weekend
+description: 'Bitcoins, new languages, freedom and other things'
+date: '2014-1-27'
 ---
 
 Some interesting links for the weekend:

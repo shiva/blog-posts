@@ -1,7 +1,8 @@
 ---
-layout: post
 title: 'Unix: how to check system configuration on solaris'
-tags: coding, solaris, unix
+tags: 'coding, solaris, unix'
+description: 'Unix: how to check system configuration on solaris'
+date: '2007-9-8'
 ---
 
 I had to compare machine hardware today, and found information on that [here][0].

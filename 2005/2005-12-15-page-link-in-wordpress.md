@@ -1,19 +1,8 @@
 ---
-layout: post
 title: Page link in wordpress
-categories: \[\]
-published: true
-meta:
 tags: wordpress falbum k2
-\_utw\_tags\_0: s:364:"a:7:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Others";}i:2;O:8:"stdClass":1:{s:3:"tag";s:18:"page-link-to-theme";}i:3;O:8:"stdClass":1:{s:3:"tag";s:13:"Tips-n-Tricks";}i:4;O:8:"stdClass":1:{s:3:"tag";s:9:"Tutorials";}i:5;O:8:"stdClass":1:{s:3:"tag";s:9:"webdesign";}i:6;O:8:"stdClass":1:{s:3:"tag";s:9:"wordpress";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Page link in wordpress
+date: '2005-12-15'
 ---
 
 I have been wondering for sometime now, how K2, added an entry in pages, but the content was controlled from the one of the php files in the theme directory.

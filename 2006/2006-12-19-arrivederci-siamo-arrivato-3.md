@@ -1,18 +1,7 @@
 ---
-layout: post
-title: Arrivederci! Siamo arrivato!!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: no tags
-dsq\_thread\_id: '3252126'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'Arrivederci! Siamo arrivato!!'
+description: 'Arrivederci! Siamo arrivato!!'
+date: '2006-12-19'
 ---
 
 ... that, my friends, in Italian means "Good bye! We have arrived!!".

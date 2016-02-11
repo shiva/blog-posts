@@ -1,19 +1,7 @@
 ---
-layout: post
-title: 'Evolution''s third replicator: Genes, memes, and now what?'
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_aktt\_hash\_meta: ''
-dsq\_thread\_id: '28308057'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "Evolution's third replicator: Genes, memes, and now what?"
+description: "Evolution's third replicator: Genes, memes, and now what?"
+date: '2009-8-4'
 ---
 
 > The first replicator was the [gene][0] - the basis of biological [evolution][1]. The second was memes - the basis of cultural evolution. I believe that what we are now seeing, in a vast technological explosion, is the birth of a third evolutionary process. We are Earth's Pandoran species, yet we are blissfully oblivious to what we have let out of the box.

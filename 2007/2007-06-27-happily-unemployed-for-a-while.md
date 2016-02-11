@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Happily unemployed (for a while)
+description: Happily unemployed (for a while)
+date: '2007-6-27'
 ---
 
 I recently quit my job at Novell. After more than half a decade of working 5 days a week and several hours a day, I get to spend my time doing only things I want to do. No more tasks that I have to complete, no more deadlines, no more betas to release (atleast for a few more weeks). I get some time to myself before take a deep dive into the job of chucking out code day-in and day-out.

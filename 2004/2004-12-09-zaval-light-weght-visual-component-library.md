@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Zaval Light-Weght - Visual Component Library
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/12/zaval-light-weght-visual-component.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Zaval Light-Weght - Visual Component Library
+date: '2004-12-9'
 ---
 
 This is a very kewl gui toolkit for J2se, .NET, J2me .  

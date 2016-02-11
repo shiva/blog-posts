@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Indian scientist working on $250 PC-phone-TV
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/08/indian-scientist-working-on-250-pc.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Indian scientist working on $250 PC-phone-TV
+date: '2004-8-19'
 ---
 
 [Indian scientist working on $250 PC-phone-TV][0]

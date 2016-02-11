@@ -1,14 +1,14 @@
 ---
-layout: post
 title: In the browser lies the power - Wave 2 of the Google takeover
-categories: \[\]
 tags:
-- browser
-- commentary
-- google
-- google chrome
-- review
-- web 2.0
+  - browser
+  - commentary
+  - google
+  - google chrome
+  - review
+  - web 2.0
+description: In the browser lies the power - Wave 2 of the Google takeover
+date: '2008-9-2'
 ---
 
 Finally it's out in the open. The ultimate weapon in Google's powerchest to combat desktop applications, render the need for a specific platform meaningless - the browser. I guess this has been in the making for the last decade, and here it is. A browser by a company that downloads pretty much most of the internet every day.

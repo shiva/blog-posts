@@ -1,29 +1,16 @@
 ---
-layout: post
-title: Job Control on \*NIX systems
-categories: \[\]
+title: "Job Control on \\*NIX systems"
 tags:
-- background process
-- bg
-- fg
-- job control
-- job control in unix
-- linux
-- push to background
-- unix
-published: true
-meta:
-aktt\_notify\_twitter: 'yes'
-\_edit\_last: '1'
-dsq\_thread\_id: '219892859'
-aktt\_tweeted: '1'
-\_wp\_old\_slug: ''
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - background process
+  - bg
+  - fg
+  - job control
+  - job control in unix
+  - linux
+  - push to background
+  - unix
+description: "Job Control on \\*NIX systems"
+date: '2011-1-31'
 ---
 
 If you are not a UNIX user/not a geek, please turn away right now.

@@ -1,24 +1,7 @@
 ---
-layout: post
 title: Trip to Delhi
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/08/trip-to-delhi.html
-blogger\_author: Shivanand Velmurugan
-\_edit\_last: '1'
-\_wpas\_skip\_2634709: '1'
-\_wpas\_skip\_2634712: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Trip to Delhi
+date: '2004-8-15'
 ---
 
 Back from Delhi, after a much needed vacation. Set to really go full-throttle in the coming days at work! Now it's been almost a fornight since I uttered that word.

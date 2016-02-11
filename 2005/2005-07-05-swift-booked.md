@@ -1,17 +1,7 @@
 ---
-layout: post
-title: swift booked!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:54:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Motoring";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'swift booked!'
+description: 'swift booked!'
+date: '2005-7-5'
 ---
 
 I booked a swift this weekend. Seems like it will take almost 5 months for delivery! I hate this BS dished by Maruti to its customers. Why introduce a car, which is by far the most economical in its class, packed with features and expect it to sell only 5000 a month?! Well, the sales rep at a Maruti Dealer told me the production capacity was just 5000 a month, and they already have booking close to 30000?!

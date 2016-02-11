@@ -1,18 +1,9 @@
 ---
-layout: post
 title: strong mercy
-categories: \[\]
 tags:
-- Poem Tagore poetry
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Poem Tagore poetry
+description: strong mercy
+date: '2011-12-1'
 ---
 
 When in doubt, take a poet's thought to your heart. They are, invariably experienced beings, that have spent a great deal of their lives, exploring the heart through the mind.

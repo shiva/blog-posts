@@ -1,7 +1,8 @@
 ---
-layout: post
-title: Issue with Twitbin, Jing the next-gen screen capture
-tags: Jing, screencast, Tools, Twitbin, Twitter, twitter clients
+title: 'Issue with Twitbin, Jing the next-gen screen capture'
+tags: 'Jing, screencast, Tools, Twitbin, Twitter, twitter clients'
+description: 'Issue with Twitbin, Jing the next-gen screen capture'
+date: '2007-10-2'
 ---
 
 [Twitbin][0] has been my favourite client for twitter. the key thing that attracted me to it, was that I can use twitter, along side my browsing, and that makes life much simpler. Also, it have a very simple interface, to track your friends and their messages.

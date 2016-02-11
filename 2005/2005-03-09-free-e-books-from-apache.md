@@ -1,20 +1,7 @@
 ---
-layout: post
-title: Free e-books from Apache!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2005/03/free-e-books-from-apache.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'Free e-books from Apache!'
+description: 'Free e-books from Apache!'
+date: '2005-3-9'
 ---
 
 Free ebooks are available for download from [Apress][0].

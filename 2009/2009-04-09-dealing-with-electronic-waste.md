@@ -1,17 +1,7 @@
 ---
-layout: post
 title: Dealing with electronic waste
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Dealing with electronic waste
+date: '2009-4-9'
 ---
 
 I can't claim to be someone is really into environment protection, and I'm not crazy paranoid about the junk I produce, but I do care about me, my family, and the future of mankind (mostly in that order). I recycle as much as I can, I try to avoid plastic bags, I don't throw garbage on the streets (I'm shaking my fist at you, Shivanand-in-India-who-doesn't-live-there-anymore) etc.

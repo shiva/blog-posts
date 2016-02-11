@@ -1,18 +1,7 @@
 ---
-layout: post
-title: That's what I call a "search"
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:228:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"Nick-Toshces";}i:1;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:2;O:8:"stdClass":1:{s:3:"tag";s:18:"windows-wallpapers";}i:3;O:8:"stdClass":1:{s:3:"tag";s:13:"XP-wallpapers";}}";
-dsq\_thread\_id: '3006376'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "That's what I call a \"search\""
+description: "That's what I call a \"search\""
+date: '2007-2-22'
 ---
 
 I wonder what's happening to me. This is the third post in the last one hour. I must be going crazy. Anyway, this must the least used blog on earth, so what the heck. (I know there are a few of you out there, but you don't say much on my blog!! :( )

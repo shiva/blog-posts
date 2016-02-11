@@ -1,19 +1,7 @@
 ---
-layout: post
 title: Dreams for the next 100 years
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_aktt\_hash\_meta: ''
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Dreams for the next 100 years
+date: '2009-7-29'
 ---
 
 Over the weekend, I bit the bullet and bought a pair of really good speakers by KEF - the iQ70 series.

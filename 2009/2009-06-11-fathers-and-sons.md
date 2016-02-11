@@ -1,22 +1,12 @@
 ---
-layout: post
 title: Fathers and Sons
-categories: \[\]
 tags:
-- Ashish
-- Friends
-- Photography
-- Ritvik
-published: true
-meta:
-\_edit\_last: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Ashish
+  - Friends
+  - Photography
+  - Ritvik
+description: Fathers and Sons
+date: '2009-6-11'
 ---
 
 \[caption id="" align="alignnone" width="500" caption="Father & Son \#1"\][![Father & Son #1](/images/3618916090_9132377267.jpg)][0]\[/caption\]  

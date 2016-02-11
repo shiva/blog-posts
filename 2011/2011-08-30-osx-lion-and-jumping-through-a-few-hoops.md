@@ -1,24 +1,14 @@
 ---
-layout: post
 title: OSX Lion and jumping through a few hoops
-categories: \[\]
 tags:
-- burn DVD
-- install disc
-- install disk
-- Lion
-- OSX
-- OSX Lion
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - burn DVD
+  - install disc
+  - install disk
+  - Lion
+  - OSX
+  - OSX Lion
+description: OSX Lion and jumping through a few hoops
+date: '2011-8-30'
 ---
 
 If you haven't yet upgraded to Lion (slow-coach you !), you might want to read these:

@@ -1,21 +1,11 @@
 ---
-layout: post
 title: So long and thanks for all the good times
-categories: \[\]
 tags:
-- eulegy
-- farewell
-- GS Maheswari
-published: true
-meta:
-\_edit\_last: '1'
-dsq\_thread\_id: '2983932'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - eulegy
+  - farewell
+  - GS Maheswari
+description: So long and thanks for all the good times
+date: '2008-5-25'
 ---
 
 I have been away from the internet for most of the last week. There are only a few things that can keep me away from spending hours reading feeds or uploading pictures, and when those things do happen, it is not very pleasant.

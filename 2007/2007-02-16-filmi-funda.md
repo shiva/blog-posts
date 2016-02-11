@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Filmi funda
-tags: movies, humor
+tags: 'movies, humor'
+description: Filmi funda
+date: '2007-2-16'
 ---
 
 Some news from the Kolloywood.  

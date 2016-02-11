@@ -1,17 +1,7 @@
 ---
-layout: post
 title: Bike ride -Chennai-Pondy
-categories: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:54:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Motoring";}}";
-dsq\_thread\_id: '3044451'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Bike ride -Chennai-Pondy
+date: '2005-11-26'
 ---
 
 Yet another wondeful ride on my bike, and I'm road wiser !!

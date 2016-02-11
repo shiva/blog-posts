@@ -1,25 +1,14 @@
 ---
-layout: post
 title: cvs - Getting list of files changed in the current tree
-categories: \[\]
 tags:
-- code
-- coding
-- CVS
-- Development
-- Tips & Tricks
-- unix
-published: true
-meta:
-\_edit\_last: '1'
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - code
+  - coding
+  - CVS
+  - Development
+  - 'Tips & Tricks'
+  - unix
+description: cvs - Getting list of files changed in the current tree
+date: '2008-6-23'
 ---
 
 The simple way to retreive the list of changed files would be to update the tree, which would then list the files updated.

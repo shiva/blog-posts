@@ -1,20 +1,7 @@
 ---
-layout: post
 title: The day Vinci Code - Official Website of Dan Brown
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/08/day-vinci-code-official-website-of-dan.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: The day Vinci Code - Official Website of Dan Brown
+date: '2004-8-16'
 ---
 
 [The Da Vinci Code - FAQs - Official Website of Dan Brown][0]

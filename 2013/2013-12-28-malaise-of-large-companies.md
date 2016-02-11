@@ -1,22 +1,11 @@
 ---
-layout: post
 title: Malaise of large companies
-categories: \[\]
 tags:
-- fail
-- microsoft
-- netbooks
-published: true
-meta:
-\_edit\_last: '1'
-\_wpas\_done\_all: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - fail
+  - microsoft
+  - netbooks
+description: Malaise of large companies
+date: '2013-12-28'
 ---
 
 [Another gem][0] from the always spot-on Dave Winer. Microsoft could have owned netbooks.

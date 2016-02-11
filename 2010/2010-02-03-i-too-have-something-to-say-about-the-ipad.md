@@ -1,19 +1,7 @@
 ---
-layout: post
 title: I too have something to say...
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_edit\_last: '1'
-aktt\_notify\_twitter: 'yes'
-dsq\_thread\_id: '63751798'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: I too have something to say...
+date: '2010-2-3'
 ---
 
 about the iPad, or so I thought. Then I realized with every single one of them writing pages upon pages of commentary, I'm not going to bring in too much insight. I've hence, tried to curate some interesting articles that I found. You've probably read most of them already, but in case you have been in a [di-lithium mine][0] on [Remus][1]. Yup! That's right, I do like Star Trek. Now do you understand why I loathe - hate - despise what has been done to the iPad!! [PADD][2]!! arrrrggghhh! serenity now! serenity now!

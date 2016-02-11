@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Getting screwed for doing the right and wrong
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/08/getting-screwed-for-doing-right-and.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Getting screwed for doing the right and wrong
+date: '2004-8-16'
 ---
 
 This blogging thingy is turning out to be good. It let's you interface with people and take a sneak peek into their minds, (which btw, I think has been the most characteristic search of humankind in the last century - a peek into the evolving human mind) without tramping on their time or egos!

@@ -1,18 +1,7 @@
 ---
-layout: post
 title: Twitter Updates for 2008-04-12
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_tweeted: '1'
-dsq\_thread\_id: '3252172'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Twitter Updates for 2008-04-12
+date: '2008-4-12'
 ---
 
 * @cabrants nice. Welcome to Vancouver!! :) [\#][0]

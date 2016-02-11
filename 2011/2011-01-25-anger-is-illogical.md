@@ -1,23 +1,7 @@
 ---
-layout: post
 title: Anger is Illogical
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-wpo\_campaignid: '1'
-wpo\_feedid: '1'
-wpo\_sourcepermalink: http://www.joeydevilla.com/2011/01/21/anger-is-illogical/
-dsq\_thread\_id: '216295492'
-\_edit\_last: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Anger is Illogical
+date: '2011-1-25'
 ---
 
 > Shared by shiva  

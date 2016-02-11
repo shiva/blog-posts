@@ -1,24 +1,14 @@
 ---
-layout: post
 title: music and hearing
-categories: \[\]
 tags:
-- Bach
-- Brandenburg Concertos
-- BWV 1046
-- hearing
-- Music
-- ted talks
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Bach
+  - Brandenburg Concertos
+  - BWV 1046
+  - hearing
+  - Music
+  - ted talks
+description: music and hearing
+date: '2011-12-1'
 ---
 
 Forget perfect pitch. I'm so thankful that I can experience a large range of frequencies, and that I have enough hearing ability to distinguish timbre, and tone. Watch the video below, especially at 7:00 minutes. We all must be thankful that we can hear as well as we do. I can't imagine what life would be like without the ability to sense the warmth of a viola rising up in the Brandenburg concertos (BWV 1046) movement 1, or the horns in the 3rd movement of the same.

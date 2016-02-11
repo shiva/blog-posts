@@ -1,17 +1,7 @@
 ---
-layout: post
 title: Integrated solutions for an easier life
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: no tags
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Integrated solutions for an easier life
+date: '2006-5-17'
 ---
 
 The ability to put together a set of innovations into real-life use and build something that reaches the lives of common men, making it a tad easier, a tad more fun .. that I think is the most amazing ability that a person can have. We were discuss this among many other, at office the other day, when we decided to go to a movie. 

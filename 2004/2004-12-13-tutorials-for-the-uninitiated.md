@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Tutorials for the uninitiated
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/12/tutorials-for-uninitiated.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Tutorials for the uninitiated
+date: '2004-12-13'
 ---
 
 [JavaScript Tutorial][0]

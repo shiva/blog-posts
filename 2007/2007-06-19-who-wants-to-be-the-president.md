@@ -1,6 +1,7 @@
 ---
-layout: post
-title: Who wants to be the president?!
+title: 'Who wants to be the president?!'
+description: 'Who wants to be the president?!'
+date: '2007-6-19'
 ---
 
 It is comical to see how the country, in other words, the ones who rule them ridicule one of the most important posts in India. How can the political parties choose to gain mileage by being so very fragmented in choosing the next president. How can they even propose to elect people who probably have very little to show for themselves as imminent achievers in their respective fields?! For God's sake, you are going to elect a president!

@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Thoughts on ello
-categories: []
-tags:
-status: publish
-type: post
-published: true
-meta:
-  geo_latitude: '49.264123'
-  geo_longitude: '-123.011850'
-  geo_public: '1'
-author:
-  email: shiv@shiv.me
-  display_name: Shiva
-  first_name: Shiva
-  last_name: Velmurugan
+description: Thoughts on ello
+date: '2014-9-30'
 ---
 In the tradition of joining new social tools on the interwebs, here some thoughts on my experience. 
 

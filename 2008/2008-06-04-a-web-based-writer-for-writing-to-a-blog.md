@@ -1,23 +1,12 @@
 ---
-layout: post
-title: A web based writer for writing to a blog?!
-categories: \[\]
+title: 'A web based writer for writing to a blog?!'
 tags:
-- blog editors
-- review
-- Tools
-- WriteToMyBlog
-published: true
-meta:
-\_edit\_last: '1'
-aktt\_notify\_twitter: 'no'
-\_aktt\_hash\_meta: ''
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - blog editors
+  - review
+  - Tools
+  - WriteToMyBlog
+description: 'A web based writer for writing to a blog?!'
+date: '2008-6-4'
 ---
 
 [WriteToMyBlog.com][0], is a web-based editor (with a lot of formatting options), that allows you to write to your blog (from another website?!).

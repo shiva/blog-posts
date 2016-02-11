@@ -1,11 +1,11 @@
 ---
-layout: post
 title: 'Unix: removing duplicates from a file'
-categories: \[\]
 tags:
-- coding
-- unix
-- unix commands
+  - coding
+  - unix
+  - unix commands
+description: 'Unix: removing duplicates from a file'
+date: '2008-9-9'
 ---
 
 Over the last few months, I have re-discovered some unix commands (it's been such a long time)

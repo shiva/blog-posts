@@ -1,19 +1,7 @@
 ---
-layout: post
 title: Little masters
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-dsq\_thread\_id: '8386754'
-\_edit\_last: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Little masters
+date: '2008-12-14'
 ---
 
 [![](/images/16777231_blog)][0]  

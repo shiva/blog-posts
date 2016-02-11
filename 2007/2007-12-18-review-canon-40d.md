@@ -1,22 +1,14 @@
 ---
-layout: post
 title: 'Review: Canon 40D'
-categories: \[\]
 tags:
-- canon 40d
-- Digital SLR
-- DSLR
-- Reviews
-- SLR
-- video review
-published: true
-meta: {}
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - canon 40d
+  - Digital SLR
+  - DSLR
+  - Reviews
+  - SLR
+  - video review
+description: 'Review: Canon 40D'
+date: '2007-12-18'
 ---
 
 The best thing since .. well a Canon 20D.

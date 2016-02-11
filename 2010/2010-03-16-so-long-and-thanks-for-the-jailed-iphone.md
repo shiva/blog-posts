@@ -1,28 +1,16 @@
 ---
-layout: post
-title: So long and thanks for the "jailed" iphone
-categories: \[\]
+title: 'So long and thanks for the "jailed" iphone'
 tags:
-- Android
-- apple
-- Canada
-- DRM
-- google
-- Google Nexus in Canada
-- Nexus One
-- Phones
-published: true
-meta:
-aktt\_notify\_twitter: 'yes'
-\_edit\_last: '1'
-dsq\_thread\_id: ''
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Android
+  - apple
+  - Canada
+  - DRM
+  - google
+  - Google Nexus in Canada
+  - Nexus One
+  - Phones
+description: 'So long and thanks for the "jailed" iphone'
+date: '2010-3-16'
 ---
 
 \[caption id="attachment\_737" align="alignnone" width="300"\][![Google Nexus is available in Canada](/images/Nexus-One-Phone-Choose-a-phone-300x195.png)][0] So long oppression\[/caption\]

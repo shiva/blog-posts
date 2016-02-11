@@ -1,22 +1,12 @@
 ---
-layout: post
 title: RIP Steve Jobs
-categories: \[\]
 tags:
-- apple
-- eulogy
-- RIP
-- Steve Jobs
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - apple
+  - eulogy
+  - RIP
+  - Steve Jobs
+description: RIP Steve Jobs
+date: '2011-10-5'
 ---
 
 [DeWitt Clinton][0] once [wrote][1]

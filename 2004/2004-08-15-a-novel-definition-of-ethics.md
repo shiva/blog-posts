@@ -1,20 +1,7 @@
 ---
-layout: post
 title: A novel definition of Ethics
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/08/novel-definition-of-ethics.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: A novel definition of Ethics
+date: '2004-8-15'
 ---
 
 I received a mail about the diffrences in the roles of a Leader and a Manager.  

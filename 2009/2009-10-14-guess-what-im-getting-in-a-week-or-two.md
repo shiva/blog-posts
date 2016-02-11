@@ -1,20 +1,11 @@
 ---
-layout: post
-title: Guess what I'm getting in a week or two?!
-categories: \[\]
+title: "Guess what I'm getting in a week or two?!"
 tags:
-- books
-- crushit
-- review
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - books
+  - crushit
+  - review
+description: "Guess what I'm getting in a week or two?!"
+date: '2009-10-14'
 ---
 
 ![CropperCapture[2]](/images/CropperCapture2-283x300.jpg)

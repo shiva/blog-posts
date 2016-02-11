@@ -1,17 +1,7 @@
 ---
-layout: post
 title: 'My first job: Building Custom PCs'
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-dsq\_thread\_id: '10433311'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: 'My first job: Building Custom PCs'
+date: '2009-1-23'
 ---
 
 It lasted about 2 years. I made next to nothing, but I owe my software development career to it!

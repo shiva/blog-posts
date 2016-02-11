@@ -1,17 +1,8 @@
 ---
-layout: post
 title: Actually I got a Creative Zen Micro instead
-categories: \[\]
-published: true
-meta:
 tags: '"zen micro" "mp3 players"'
-\_utw\_tags\_0: s:214:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"mp3-players";}i:1;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:2;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}i:3;O:8:"stdClass":1:{s:3:"tag";s:9:"zen-micro";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Actually I got a Creative Zen Micro instead
+date: '2005-12-14'
 ---
 
 I wanted to get the pod nano initially, but I chose to get the Creative Zen Micro instead for reasons listed below:

@@ -1,20 +1,9 @@
 ---
-layout: post
-title: AJAX toolkits that are hot!
-categories: \[\]
+title: 'AJAX toolkits that are hot!'
 tags:
-- coding
-published: true
-meta:
-\_utw\_tags\_0: s:58:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - coding
+description: 'AJAX toolkits that are hot!'
+date: '2006-11-1'
 ---
 
 [JavaScript, MochiKit, PHP, X, TinyMCE et. al.][0]Nice article comparing some AJAX toolkits that are talked about these days. Also Anant is doing a very kewl project for Google Summer of code, called GuideXML, an online AJAXified XML editor that is sponsored by Gentoo! Way to go Anant.

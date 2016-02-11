@@ -1,18 +1,7 @@
 ---
-layout: post
-title: The Swift is here!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:54:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:8:"Motoring";}}";
-dsq\_thread\_id: '2970960'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'The Swift is here!'
+description: 'The Swift is here!'
+date: '2005-12-13'
 ---
 
 Yippeeee!!! Last weekend I finally got my long-awaited very won Suzuki Swift ! The delivery of the Swift is by no means swift!

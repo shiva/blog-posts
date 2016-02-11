@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Trojan alert in Chip-India DVDs
+description: Trojan alert in Chip-India DVDs
+date: '2007-7-12'
 ---
 
 I use AVG antivirus, which has never ever caught a virus on my laptop. For long, I have pondered if I really need one, since I have been quite fastidious in  ensuring the media that I download/execute on my laptop. In my eagerness to try out Dreamweaver CS3 and Photoshop CS3, I slipped in the latest chip-India   DVD (July 07) which carries the trialwares, and boom! AVG chucked out its first trojan alert in the last 5 years! That is quite amazing ain't it? I haven't had a virus in half a decade and boom one fine day!!![![](/images/2679721_707625f9c0_o.jpg)][0]

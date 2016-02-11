@@ -1,18 +1,7 @@
 ---
-layout: post
-title: Let's raise our voice for our president APJ
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:202:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:3:"APJ";}i:1;O:8:"stdClass":1:{s:3:"tag";s:8:"petition";}i:2;O:8:"stdClass":1:{s:3:"tag";s:9:"president";}i:3;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-\_utw\_tags\_: s:202:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:3:"APJ";}i:1;O:8:"stdClass":1:{s:3:"tag";s:8:"petition";}i:2;O:8:"stdClass":1:{s:3:"tag";s:9:"president";}i:3;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "Let's raise our voice for our president APJ"
+description: "Let's raise our voice for our president APJ"
+date: '2007-2-24'
 ---
 
 Dr. APJ Abdul Kalam, has been, by far, the best president that India has ever had (atleast in my humble opinion). More than that, he has been one of the greatest ambassador of India and its culture.

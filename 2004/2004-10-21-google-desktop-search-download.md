@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Google Desktop Search Download
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/10/google-desktop-search-download.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Google Desktop Search Download
+date: '2004-10-21'
 ---
 
 [Google Desktop Search Download][0]

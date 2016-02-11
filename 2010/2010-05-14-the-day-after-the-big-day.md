@@ -1,25 +1,13 @@
 ---
-layout: post
-title: The day-after the "big" day
-categories: \[\]
+title: 'The day-after the "big" day'
 tags:
-- age 30
-- apple
-- Douglas Adams
-- iPad
-- weasel
-published: true
-meta:
-aktt\_notify\_twitter: 'yes'
-aktt\_tweeted: '1'
-\_edit\_last: '1'
-dsq\_thread\_id: '95483392'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - age 30
+  - apple
+  - Douglas Adams
+  - iPad
+  - weasel
+description: 'The day-after the "big" day'
+date: '2010-5-14'
 ---
 
 I turned 30 yesterday.

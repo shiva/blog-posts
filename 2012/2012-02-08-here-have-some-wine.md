@@ -1,21 +1,11 @@
 ---
-layout: post
-title: Here, have some wine
-categories: \[\]
+title: 'Here, have some wine'
 tags:
-- note-to-self
-- notes
-- wine
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - note-to-self
+  - notes
+  - wine
+description: 'Here, have some wine'
+date: '2012-2-8'
 ---
 
 Note to Self: Get wine. Lot's of it! ;)

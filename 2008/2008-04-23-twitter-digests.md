@@ -1,20 +1,10 @@
 ---
-layout: post
 title: Twitter digests
-categories: \[\]
 tags:
-- projects
-- Short updates
-published: true
-meta:
-\_edit\_last: '1'
-aktt\_tweeted: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - projects
+  - Short updates
+description: Twitter digests
+date: '2008-4-23'
 ---
 
 A few weeks back, I installed Alex King's Twitter Tools for wordpress. Running it for a few weeks, I found that by lack of posting to my blog, became more apparent that earlier. There are now more "twitter" posts than the number of posts that I have written myself in the last year or so. How pathetic is that?!

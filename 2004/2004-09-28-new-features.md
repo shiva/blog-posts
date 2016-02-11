@@ -1,20 +1,7 @@
 ---
-layout: post
-title: NEW Features!!!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/09/new-features.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'NEW Features!!!'
+description: 'NEW Features!!!'
+date: '2004-9-28'
 ---
 
 - Template **code-cleanup**!  

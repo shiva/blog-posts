@@ -1,18 +1,7 @@
 ---
-layout: post
-title: HD-DVD and Blu-ray unite!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:57:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-dsq\_thread\_id: '3031950'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'HD-DVD and Blu-ray unite!'
+description: 'HD-DVD and Blu-ray unite!'
+date: '2006-9-27'
 ---
 
 [New technology could nip DVD format war in the bud][0]

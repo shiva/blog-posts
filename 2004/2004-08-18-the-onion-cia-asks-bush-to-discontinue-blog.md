@@ -1,20 +1,7 @@
 ---
-layout: post
 title: 'The Onion : CIA Asks Bush To Discontinue Blog'
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/08/onion-cia-asks-bush-to-discontinue.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: 'The Onion : CIA Asks Bush To Discontinue Blog'
+date: '2004-8-18'
 ---
 
 [The Onion : CIA Asks Bush To Discontinue Blog][0]

@@ -1,20 +1,12 @@
 ---
-layout: post
 title: Can we end the Six Years of Fear ?
-categories: \[\]
 tags:
-- air travel
-- phones on planes
-- Thomas Hawk
-- travel
-published: true
-meta: {}
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - air travel
+  - phones on planes
+  - Thomas Hawk
+  - travel
+description: Can we end the Six Years of Fear ?
+date: '2008-3-13'
 ---
 
 "This is it! Its the final straw. We need to do something about it!"

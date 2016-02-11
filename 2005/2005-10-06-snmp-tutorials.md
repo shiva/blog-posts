@@ -1,19 +1,8 @@
 ---
-layout: post
 title: SNMP tutorials
-categories: \[\]
-published: true
-meta:
 tags: SNMP books tutorials networking
-\_utw\_tags\_0: s:104:"a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Others";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: SNMP tutorials
+date: '2005-10-6'
 ---
 
 SNMP being the bread and butter for me, I decided to dig up some tutorials and links regarding the same.  

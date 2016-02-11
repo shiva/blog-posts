@@ -1,21 +1,9 @@
 ---
-layout: post
 title: 'Bug Fix: Boast Machine 3.1'
-categories: \[\]
 tags:
-- coding
-published: true
-meta:
-\_utw\_tags\_0: s:104:"a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Others";}}";
-aktt\_notify\_twitter: 'no'
-\_aktt\_hash\_meta: ''
-dsq\_thread\_id: '3180002'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - coding
+description: 'Bug Fix: Boast Machine 3.1'
+date: '2006-5-9'
 ---
 
 There is an issue with installing the latest version of boast machine v3.1\.

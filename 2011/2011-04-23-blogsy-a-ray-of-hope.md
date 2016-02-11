@@ -1,23 +1,12 @@
 ---
-layout: post
 title: Blogsy - a ray of hope
-categories: \[\]
 tags:
-- blogsy
-- iPad
-- Tools
-- utilities
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-dsq\_thread\_id: '287178211'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - blogsy
+  - iPad
+  - Tools
+  - utilities
+description: Blogsy - a ray of hope
+date: '2011-4-23'
 ---
 
 This is a test post from [blogsy][0], an iPad blogging tool.

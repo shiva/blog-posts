@@ -1,17 +1,7 @@
 ---
-layout: post
 title: Upgraded to Wordpress 2.2
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:60:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:13:"Short-updates";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Upgraded to Wordpress 2.2
+date: '2007-5-24'
 ---
 
 Finally upgraded to [wordpress 2.2\.][0]

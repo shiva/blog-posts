@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Tech Crazy Internet connections will hit 10Gbit by 2010 in Japan
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/08/tech-crazy-internet-connections-will.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Tech Crazy Internet connections will hit 10Gbit by 2010 in Japan
+date: '2004-8-30'
 ---
 
 [Tech Crazy � Internet connections will hit 10Gbit by 2010 in Japan][0]

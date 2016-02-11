@@ -1,19 +1,7 @@
 ---
-layout: post
 title: Map of the internet circa 2006
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Map of the internet circa 2006
+date: '2009-8-6'
 ---
 
 Yeah that's right! Myspace was still relevant. I have a theory that the internet usage explosion will not happen in other countries, until the US gives up its share of reserved IP addresses.

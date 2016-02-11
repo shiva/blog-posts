@@ -1,18 +1,7 @@
 ---
-layout: post
 title: Piya Bole - Pareenita
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: no tags
-dsq\_thread\_id: '3252108'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Piya Bole - Pareenita
+date: '2006-6-5'
 ---
 
 I was listening to the song "Piya Bole" and couldn't figure out meanings of some words ... so I googled it and presto!  

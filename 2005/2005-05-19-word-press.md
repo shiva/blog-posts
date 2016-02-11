@@ -1,20 +1,7 @@
 ---
-layout: post
-title: word press!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2005/05/word-press.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'word press!'
+description: 'word press!'
+date: '2005-5-19'
 ---
 
 Wordpress is a nice small CMS written entirely using php and mysql!  

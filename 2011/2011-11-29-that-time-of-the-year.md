@@ -1,23 +1,13 @@
 ---
-layout: post
 title: That time of the year
-categories: \[\]
 tags:
-- flickr
-- gallery
-- Photography
-- rain
-- Vancouver
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - flickr
+  - gallery
+  - Photography
+  - rain
+  - Vancouver
+description: That time of the year
+date: '2011-11-29'
 ---
 
 [![Rain Song](/images/3468196219_dabfe07a8e_s.jpg)][0][![Splash!!](/images/3118614238_df7d2a07db_s.jpg)][1][![Rain / Umbrella / Lightroom Preset](/images/4252864737_f118a4746d_s.jpg)][2][![(18) - Points   of View](/images/3346431158_8e773ea9c4_s.jpg)][3][![Roppongi Rain](/images/3745733679_c0d1fea58e_s.jpg)][4][![..e ancora Qali](/images/3031272211_740224f813_s.jpg)][5]  

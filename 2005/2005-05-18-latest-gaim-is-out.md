@@ -1,20 +1,7 @@
 ---
-layout: post
-title: Latest GAIM is out!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2005/05/latest-gaim-is-out.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'Latest GAIM is out!'
+description: 'Latest GAIM is out!'
+date: '2005-5-18'
 ---
 
 The latest update to gaim is out! These guys are churning in version after version .. nice and kewl...  

@@ -1,7 +1,8 @@
 ---
-layout: post
 title: 'Tips: Presentation'
-tags: presentation, tips-n-tricks
+tags: 'presentation, tips-n-tricks'
+description: 'Tips: Presentation'
+date: '2007-1-31'
 ---
 
 I have always wanted to be good at public speaking, especially in front of large audiences. Although, I can address a gathering without a shiver in my voice, I nonetheless feel butterflies in my stomach all the time!

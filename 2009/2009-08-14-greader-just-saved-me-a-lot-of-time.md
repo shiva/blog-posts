@@ -1,22 +1,10 @@
 ---
-layout: post
 title: GReader just saved me a lot of time
-categories: \[\]
 tags:
-- google
-- google reader
-published: true
-meta:
-\_edit\_last: '1'
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-dsq\_thread\_id: '29702488'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - google
+  - google reader
+description: GReader just saved me a lot of time
+date: '2009-8-14'
 ---
 
 [![](/images/greader.jpg.scaled.500.jpg)][0]

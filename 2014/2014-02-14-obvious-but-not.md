@@ -1,34 +1,18 @@
 ---
-layout: post
-title: Somethings should be obvious, but are not, obviously
-categories: \[\]
+title: 'Somethings should be obvious, but are not, obviously'
 tags:
-- code
-- dev
-- invewrapper
-- pew
-- pip
-- pkg\_resources.DistributionNotFound
-- programming
-- python
-- setuptools
-- virtualenv
-published: true
-meta:
-\_edit\_last: '1'
-\_wpas\_done\_all: '1'
-\_wp\_old\_slug: somethings-obvious-but-not
-\_wpas\_skip\_2634709: '1'
-\_wpas\_skip\_2634712: '1'
-\_wpas\_skip\_5689512: '1'
-\_wpcom\_is\_markdown: '1'
-\_post\_restored\_from: a:3:{s:20:"restored\_revision\_id";i:13850;s:16:"restored\_by\_user";i:1;s:13:"restored\_time";i:1397032736;}
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - code
+  - dev
+  - invewrapper
+  - pew
+  - pip
+  - "pkg\\_resources.DistributionNotFound"
+  - programming
+  - python
+  - setuptools
+  - virtualenv
+description: 'Somethings should be obvious, but are not, obviously'
+date: '2014-2-14'
 ---
 
 _Update: Apparently, I had accidentally hit a minor bug in pew. This has now been [fixed][0]._

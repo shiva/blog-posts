@@ -1,25 +1,15 @@
 ---
-layout: post
-title: 10 reasons to dump Facebook for G+. Now!
-categories: \[\]
+title: '10 reasons to dump Facebook for G+. Now!'
 tags:
-- 10 reasons
-- facebook
-- g+
-- google
-- google plus
-- plus
-- why
-published: true
-meta:
-\_edit\_last: '1'
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - 10 reasons
+  - facebook
+  - g+
+  - google
+  - google plus
+  - plus
+  - why
+description: '10 reasons to dump Facebook for G+. Now!'
+date: '2011-8-28'
 ---
 
 A friend asked what I like about google+, and as I started posting a reply , I noticed there were enough to make a blog post. So here goes...

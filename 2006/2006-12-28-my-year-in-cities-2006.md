@@ -1,17 +1,7 @@
 ---
-layout: post
 title: My year in Cities - 2006
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:216:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"2006-summary";}i:1;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:2;O:8:"stdClass":1:{s:3:"tag";s:6:"travel";}i:3;O:8:"stdClass":1:{s:3:"tag";s:14:"year-in-cities";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: My year in Cities - 2006
+date: '2006-12-28'
 ---
 
 Nice idea this one. So, here is my list

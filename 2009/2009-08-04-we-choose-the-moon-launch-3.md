@@ -1,23 +1,11 @@
 ---
-layout: post
 title: 'We Choose the Moon: Launch'
-categories: \[\]
 tags:
-- Apollo
-- NASA
-- space travel
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_aktt\_hash\_meta: ''
-\_edit\_last: '1'
-dsq\_thread\_id: '28279236'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Apollo
+  - NASA
+  - space travel
+description: 'We Choose the Moon: Launch'
+date: '2009-8-4'
 ---
 
 via [wechoosethemoon.org][0]

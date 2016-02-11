@@ -1,22 +1,12 @@
 ---
-layout: post
-title: The Holy Grail and the Programmer's High
-categories: \[\]
+title: "The Holy Grail and the Programmer's High"
 tags:
-- fun
-- holy grail
-- programmer's high
-- programming
-published: true
-meta:
-\_edit\_last: '1'
-dsq\_thread\_id: '41943482'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - fun
+  - holy grail
+  - "programmer's high"
+  - programming
+description: "The Holy Grail and the Programmer's High"
+date: '2009-10-26'
 ---
 
 [Dave Winer][0], the inventor of RSS, wrote today about twitter's latest API update for supporting the [lists feature][1]

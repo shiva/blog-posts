@@ -1,24 +1,14 @@
 ---
-layout: post
 title: Google likes RSS .. a lot
-categories: \[\]
 tags:
-- buzz
-- feature request
-- features
-- google
-- google buzz
-- hidden features
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - buzz
+  - feature request
+  - features
+  - google
+  - google buzz
+  - hidden features
+description: Google likes RSS .. a lot
+date: '2010-2-10'
 ---
 
 Did anyone else notice that buzz has an RSS feed for everything!!

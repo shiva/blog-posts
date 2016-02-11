@@ -1,20 +1,11 @@
 ---
-layout: post
 title: Are you using Open-DNS?
-categories: \[\]
 tags:
-- networking
-- open dns
-- tips
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - networking
+  - open dns
+  - tips
+description: Are you using Open-DNS?
+date: '2009-1-2'
 ---
 
 You should be using Open-DNS, if you answer yes to one of the following:

@@ -1,17 +1,7 @@
 ---
-layout: post
 title: SFO bridge stats
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: no tags
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: SFO bridge stats
+date: '2006-5-10'
 ---
 
 I was always intrigued and amazed by the ability of human beings to give up their lives at some of the most beautifiul places. Why do people like to jump of cliffs that provide a breathtaking view, or bridges like the one at SFO with its capability to produce "suddenly-surreal" images!

@@ -1,18 +1,7 @@
 ---
-layout: post
 title: attrocious site - bonsaikitten.com
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:52:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Lament";}}";
-dsq\_thread\_id: '3173777'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: attrocious site - bonsaikitten.com
+date: '2005-7-19'
 ---
 
 I encountered, by far, the sickest website I have seen in my entire life.  

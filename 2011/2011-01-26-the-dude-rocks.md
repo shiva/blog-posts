@@ -1,24 +1,12 @@
 ---
-layout: post
-title: The Dude ... Rocks!
-categories: \[\]
+title: 'The Dude ... Rocks!'
 tags:
-- Celebrity
-- Interview
-- Jeff Bridges
-- The Dude
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-\_wp\_old\_slug: ''
-dsq\_thread\_id: '218535735'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Celebrity
+  - Interview
+  - Jeff Bridges
+  - The Dude
+description: 'The Dude ... Rocks!'
+date: '2011-1-26'
 ---
 
 Need I say more ..

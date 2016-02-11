@@ -1,26 +1,15 @@
 ---
-layout: post
 title: Music from DMU
-categories: \[\]
 tags:
-- cult of personality
-- DMU
-- lakeside
-- living colour
-- Music
-- video
-- Your wish is my command
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-dsq\_thread\_id: '207329975'
-\_wp\_old\_slug: ''
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - cult of personality
+  - DMU
+  - lakeside
+  - living colour
+  - Music
+  - video
+  - Your wish is my command
+description: Music from DMU
+date: '2011-1-11'
 ---
 
 DMU (Delete me Uncensored) is a [group on Flickr][0], that was formed because a few people got pissed at Flickr censoring content. It is a very "lively" place on most days with a [lot ][1]of [colour ][2]and [personality][3]. Mostly its just a bunch of fine folks that have a common passion (photography), and express their opinions with almost no filters. It's easy to mistake the group for being too rude, but you just have to hang around to 'get it'.

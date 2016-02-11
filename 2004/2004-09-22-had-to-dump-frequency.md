@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Had to dump Frequency
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/09/had-to-dump-frequency.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Had to dump Frequency
+date: '2004-9-22'
 ---
 
 Had to dump Frequency! :( No support for titles! Based on the old Blogger 1.0 API and free only for 15 days!!. Desperately in need of another client based interface, after moving to opera. It is such a pain, to browse in one environment and having to open IR just for blogging.

@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Common Access Portal
-tags: tools, design, wordpress plugins, development, ideas
+tags: 'tools, design, wordpress plugins, development, ideas'
+description: Common Access Portal
+date: '2007-1-20'
 ---
 
 With advent of web 2.0, and some habits cultivated over the last decade, I have a certain list of tasks that I do everyday. I current visit a bunch of websites more than once a day, and an integrated interface would do me so much good.

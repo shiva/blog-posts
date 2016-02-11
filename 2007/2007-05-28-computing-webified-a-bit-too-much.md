@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Computing webified a bit too much
+description: Computing webified a bit too much
+date: '2007-5-28'
 ---
 
 Over the last couple of years, the onslaught of web 2.0 apps has almost made the desktop irrelevant. With a service offering for almost every kind of application that a normal user would use, the age of installing applications is near its fag-end.

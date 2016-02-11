@@ -1,20 +1,7 @@
 ---
-layout: post
 title: New website launched
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2005/02/new-website-launched.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: New website launched
+date: '2005-2-2'
 ---
 
 Hi folks!!  

@@ -1,18 +1,9 @@
 ---
-layout: post
 title: Shooting Star
-categories: \[\]
 tags:
-- Photography
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Photography
+description: Shooting Star
+date: '2008-6-29'
 ---
 
 [![](/images/2619117857_2e62b4af65.jpg)][0]

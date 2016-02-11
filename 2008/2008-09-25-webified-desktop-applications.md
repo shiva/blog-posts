@@ -1,23 +1,14 @@
 ---
-layout: post
 title: Webified desktop applications
-categories: \[\]
 tags:
-- AIR-based apps
-- flaws
-- flickr uploader
-- uploader v3
-- web-technology based app
-- webified desktop applications
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - AIR-based apps
+  - flaws
+  - flickr uploader
+  - uploader v3
+  - web-technology based app
+  - webified desktop applications
+description: Webified desktop applications
+date: '2008-9-25'
 ---
 
 You know something is seriously out of whack, when you download a 12 MB application that is just a step above an ftp application. I know, a rant at such an ungodly hour! Yup! I have been up 2 hours past bed-time trying to upload a few high-resolution photos.

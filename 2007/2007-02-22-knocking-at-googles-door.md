@@ -1,17 +1,7 @@
 ---
-layout: post
-title: Knocking at Google's door
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:204:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"google";}i:1;O:8:"stdClass":1:{s:3:"tag";s:5:"ideas";}i:2;O:8:"stdClass":1:{s:3:"tag";s:10:"kewl-stuff";}i:3;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "Knocking at Google's door"
+description: "Knocking at Google's door"
+date: '2007-2-22'
 ---
 
 What should one do to get Google to listen to them.. Everyone gets an idea, but not everyone has the guts and the determination that Aaron has. Aaron has an idea, which he is trying to pitch to Google, by going to the googleplex. Already, he has had success in finding a few ears there, and thousand others worldwide. Check out his blog here. 

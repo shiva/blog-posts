@@ -1,16 +1,7 @@
 ---
-layout: post
-title: When I get home, I kick my shoes off
-categories: \[\]
-tags: \[\]
-published: true
-meta: {}
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'When I get home, I kick my shoes off'
+description: 'When I get home, I kick my shoes off'
+date: '2009-1-23'
 ---
 
 To air out the feet

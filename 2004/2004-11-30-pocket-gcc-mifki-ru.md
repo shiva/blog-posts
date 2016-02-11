@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Pocket GCC @ mifki.ru
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/11/pocket-gcc-mifkiru.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Pocket GCC @ mifki.ru
+date: '2004-11-30'
 ---
 
 Been offline for quite a few days now!!  

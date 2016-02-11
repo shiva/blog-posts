@@ -1,18 +1,9 @@
 ---
-layout: post
 title: A Thousand Tweets
-categories: \[\]
 tags:
-- Twitter
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Twitter
+description: A Thousand Tweets
+date: '2008-10-15'
 ---
 
 [![](/images/2945141063_1a9e528f86.jpg)][0]

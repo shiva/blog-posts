@@ -1,27 +1,16 @@
 ---
-layout: post
-title: 'Badly punctuated parameter list in \#define'
-categories: \[\]
+title: "Badly punctuated parameter list in \\#define"
 tags:
-- '\#define'
-- badly punctuated parameter list
-- c++
-- code
-- compiler issues
-- Development
-- gcc
-- programming
-published: true
-meta:
-aktt\_notify\_twitter: 'yes'
-\_edit\_last: '1'
-aktt\_tweeted: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - "\\#define"
+  - badly punctuated parameter list
+  - c++
+  - code
+  - compiler issues
+  - Development
+  - gcc
+  - programming
+description: "Badly punctuated parameter list in \\#define"
+date: '2011-11-8'
 ---
 
 Sometimes working with an old c compiler brings up painful, yet fun-filled days of making it speak the same language as you, and sometimes you just go "\*$&%\*$\#&% you piece of sh\*\* compiler"

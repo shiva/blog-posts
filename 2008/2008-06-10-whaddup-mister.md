@@ -1,21 +1,11 @@
 ---
-layout: post
-title: Whaddup Mister?!
-categories: \[\]
+title: 'Whaddup Mister?!'
 tags:
-- bunty
-- cats
-- photo
-published: true
-meta:
-\_edit\_last: '1'
-dsq\_thread\_id: '2996397'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - bunty
+  - cats
+  - photo
+description: 'Whaddup Mister?!'
+date: '2008-6-10'
 ---
 
 [![Whaddup mister?!](/images/2567730043_da7faab448.jpg)][0]

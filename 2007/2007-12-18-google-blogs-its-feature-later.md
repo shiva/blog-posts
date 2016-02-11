@@ -1,24 +1,15 @@
 ---
-layout: post
-title: Google blogs its feature later than I do!
-categories: \[\]
+title: 'Google blogs its feature later than I do!'
 tags:
-- cropper
-- google
-- mashups
-- micro blogging
-- Tech
-- Twitter
-- zooomr
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - cropper
+  - google
+  - mashups
+  - micro blogging
+  - Tech
+  - Twitter
+  - zooomr
+description: 'Google blogs its feature later than I do!'
+date: '2007-12-18'
 ---
 
 I discovered today, that twitter+zooomr+a small utility called Cropper, now allows us to put new information about some of the products we use often, out into the blogosphere (I hate that word now), faster than ever before.

@@ -1,27 +1,15 @@
 ---
-layout: post
 title: Getting rid of passwords
-categories: []
 tags:
-- passwords
-- authentication
-- password
-- identity
-- security
-- OAuth
-- OAuth 2.0
-status: publish
-type: post
-published: true
-meta:
-  geo_latitude: '49.264123'
-  geo_longitude: '-123.011850'
-  geo_public: '1'
-author:
-  email: shiv@shiv.me
-  display_name: Shiva
-  first_name: Shiva
-  last_name: Velmurugan
+  - passwords
+  - authentication
+  - password
+  - identity
+  - security
+  - OAuth
+  - OAuth 2.0
+description: Getting rid of passwords
+date: '2014-7-14'
 ---
 
 I hate passwords. Seems like several smart people are on the case of getting rid of the "password"

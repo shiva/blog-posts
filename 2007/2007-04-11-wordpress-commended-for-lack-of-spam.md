@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Wordpress commended for lack of spam
-tags: wordpress, akismet
+tags: 'wordpress, akismet'
+description: Wordpress commended for lack of spam
+date: '2007-4-11'
 ---
 
 Me and thousands of other people, continue to use wordpress, one of the leading blog management systems (sounds kewl, eh? ;) ), and proof that is it in fact leading is [here][0].

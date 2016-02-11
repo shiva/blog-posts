@@ -1,18 +1,7 @@
 ---
-layout: post
-title: Some fun things, and some cute ones too
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_aktt\_hash\_meta: ''
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'Some fun things, and some cute ones too'
+description: 'Some fun things, and some cute ones too'
+date: '2009-8-5'
 ---
 
 I'm pretty sure that I am violating some copyright by posting these here but they really are good. (I found these on a facebook album shared by someone I know - thank you if you know who you are). I did several searches on google and bing and couldn't trace any restrictions. If you have problems with it, let me know.

@@ -1,6 +1,7 @@
 ---
-layout: post
 title: "Let's re-wire our minds"
+description: "Let's re-wire our minds"
+date: '2007-1-31'
 ---
 
 My site is probably one of the least visited blogs in the world! Trust me on that one! ;) by linking to the following set of youtube videos, I know I don't do much in making it reach more people, as it rightly deserves.

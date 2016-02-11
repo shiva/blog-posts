@@ -1,22 +1,12 @@
 ---
-layout: post
 title: You cribbing bunch of morons
-categories: \[\]
 tags:
-- apple
-- iphone
-- location tracking
-- morons
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-dsq\_thread\_id: '289990330'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - apple
+  - iphone
+  - location tracking
+  - morons
+description: You cribbing bunch of morons
+date: '2011-4-27'
 ---
 
 And now you've done it!! Bah! I thought it was so cool that I could plot of heat map of my location for a full year. With [all][0] [the][1] [cribbing][2] around the internets about how the iphone is not secure because it stores data (ie a cache of your location data), Apple has decided to squash this wonderful "easter egg". 

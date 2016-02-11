@@ -1,17 +1,7 @@
 ---
-layout: post
-title: Nature's wrath
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:152:"a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Lament";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"News";}i:2;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "Nature's wrath"
+description: "Nature's wrath"
+date: '2005-10-10'
 ---
 
 What are we humans against the over-powering wrath of mother nature? Time and again, she warns, and tests the best of us, and ceases to amaze us with the brute diplay of power. With all the technology in the world, man still has to grapple with reality of the powerlessness of the human being against forces of nature.

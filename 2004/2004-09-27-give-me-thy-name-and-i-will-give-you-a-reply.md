@@ -1,20 +1,7 @@
 ---
-layout: post
-title: Give me thy name and I will give you a reply!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/09/give-me-thy-name-and-i-will-give-you.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'Give me thy name and I will give you a reply!'
+description: 'Give me thy name and I will give you a reply!'
+date: '2004-9-27'
 ---
 
 hey to all those (1 or 2) people reading my blog! ;)

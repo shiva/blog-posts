@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Banking woes
+description: Banking woes
+date: '2007-10-4'
 ---
 
 First off, this is a rant. You have been warned.

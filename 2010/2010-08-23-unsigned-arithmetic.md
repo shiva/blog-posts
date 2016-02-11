@@ -1,27 +1,16 @@
 ---
-layout: post
 title: Unsigned Arithmetic
-categories: \[\]
 tags:
-- c++
-- coding
-- design
-- Development
-- hacking
-- java
-- unsigned arithmetic
-- unsigned types
-status: draft
-published: false
-meta:
-aktt\_notify\_twitter: 'yes'
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - c++
+  - coding
+  - design
+  - Development
+  - hacking
+  - java
+  - unsigned arithmetic
+  - unsigned types
+description: Unsigned Arithmetic
+date: '2010-8-23'
 ---
 
 Since my last post, I've had a couple of replies, a few more tweets, and few minutes of talking about unsigned types in Java, and why it doesn't support them.

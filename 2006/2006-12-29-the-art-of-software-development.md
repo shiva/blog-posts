@@ -1,20 +1,9 @@
 ---
-layout: post
 title: The art of software development
-categories: \[\]
 tags:
-- coding
-published: true
-meta:
-\_utw\_tags\_0: s:226:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:2;O:8:"stdClass":1:{s:3:"tag";s:20:"software-development";}i:3;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - coding
+description: The art of software development
+date: '2006-12-29'
 ---
 
 Though many disagree, and think of software development as a mundane, non-creative task, as Kevin Carlson@DDJ puts it aptly, it is a work of art!

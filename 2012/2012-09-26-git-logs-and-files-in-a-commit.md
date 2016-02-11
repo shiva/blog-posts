@@ -1,23 +1,13 @@
 ---
-layout: post
 title: 'Git: beautiful git logs and listing files in a commit'
-categories: \[\]
 tags:
-- alias
-- files in a commit
-- git
-- git log
-- git show
-published: true
-meta:
-\_edit\_last: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - alias
+  - files in a commit
+  - git
+  - git log
+  - git show
+description: 'Git: beautiful git logs and listing files in a commit'
+date: '2012-9-26'
 ---
 
 Working with git is fun. However, it is easy to get tired of the log list of parameters one has to use to very often. Git aliases are a great way to deal with this.

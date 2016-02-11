@@ -1,19 +1,11 @@
 ---
-layout: post
 title: IPod touch 1.1.1 firmware link
-categories: \[\]
 tags:
-- apple
-- firmware
-- ipod touch
-published: true
-meta: {}
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - apple
+  - firmware
+  - ipod touch
+description: IPod touch 1.1.1 firmware link
+date: '2008-1-15'
 ---
 
 Since Apple's is so bent upon [disappointing ][0][their ][1]customers, by introducing paid firmware upgrades, I needed to ensure that I have the option to jail break, my new ipod touch (if need be). (update: the firmware upgrade itself is not paid. Only the newapps are paid). I am going to wait until they [release their SDK in February][2] before I jailbreak mine.

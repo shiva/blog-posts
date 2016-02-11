@@ -1,21 +1,12 @@
 ---
-layout: post
-title: Kindle for the rest of us .. well, almost
-categories: \[\]
+title: 'Kindle for the rest of us .. well, almost'
 tags:
-- availability
-- Canada
-- India
-- kindle
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - availability
+  - Canada
+  - India
+  - kindle
+description: 'Kindle for the rest of us .. well, almost'
+date: '2009-11-6'
 ---
 
 I've lived in India for 27 of the 29 years of my life (moved to Canada in 2007) For almost every year for the last 15 years (that's how long I've been a gadget/tech fanatic), I have lamented the availability or lack thereof of any newly released shiny thingies. Amazon has finally figured out that people outside the US, read books too. Imagine my delight when I heard that there a new version of the[Kindle (The global wireless edition - no less)][0] (Disclosure: affiliate link).

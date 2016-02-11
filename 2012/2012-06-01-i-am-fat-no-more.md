@@ -1,20 +1,10 @@
 ---
-layout: post
 title: I am fat no more
-categories: \[\]
 tags:
-- BMI
-- weight
-published: true
-meta:
-\_edit\_last: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - BMI
+  - weight
+description: I am fat no more
+date: '2012-6-1'
 ---
 
 BMI, is not the best measure of health, or fitness, but \>30 is a definite indicator of lack of care about one's health. After several years of exactly that, I'm finally within reasonable limits. My BMI is 24.0; It's official, I'm [not obese anymore][0].

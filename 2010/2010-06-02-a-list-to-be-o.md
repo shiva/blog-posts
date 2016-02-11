@@ -1,10 +1,11 @@
 ---
-layout: post
 title: A list to be on
 tags:
-- Hackers
-- Lists
-- Programmers
+  - Hackers
+  - Lists
+  - Programmers
+description: A list to be on
+date: '2010-6-2'
 ---
 
 I've been busy. That doesn't explain my silence on this blog, its but an excuse. A lot of things have been happening, both in my personal and professional life, and I'm not at liberty to talk about them. Those are for another day.

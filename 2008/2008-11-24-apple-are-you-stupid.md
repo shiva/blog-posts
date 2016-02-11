@@ -1,17 +1,7 @@
 ---
-layout: post
-title: Apple! Are you stupid?!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'Apple! Are you stupid?!'
+description: 'Apple! Are you stupid?!'
+date: '2008-11-24'
 ---
 
 Here's the the top 3 requested features from iPhone users at large.

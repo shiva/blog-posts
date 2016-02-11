@@ -1,6 +1,7 @@
 ---
-layout: post
 title: So many things to do and so little time
+description: So many things to do and so little time
+date: '2007-6-28'
 ---
 
 It has just dawned on me that I have more work to do, that when I was employed. So many things to catch up on: emails, [orkut][0] messages, [linked-in][1] invites (ohh. [Kristopher Tate][2] is a contact now! Thanks Kris! :) ). 

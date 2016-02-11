@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Got myself a new Laptop
-tags: laptop, hp, hardware
+tags: 'laptop, hp, hardware'
+description: Got myself a new Laptop
+date: '2007-1-29'
 ---
 
 I'm now officially one of the self-obssessed techie guys, sitting in public places and completely ignoring all the life-forms around me. Got a very nice deal from HP. Here is the config!

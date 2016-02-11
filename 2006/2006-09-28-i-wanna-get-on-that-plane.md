@@ -1,17 +1,7 @@
 ---
-layout: post
 title: I wanna get on that plane
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:57:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: I wanna get on that plane
+date: '2006-9-28'
 ---
 
 [First Images of Virgin Galactic SpaceShipTwo Cabin][0]

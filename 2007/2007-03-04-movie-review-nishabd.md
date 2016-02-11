@@ -1,18 +1,7 @@
 ---
-layout: post
 title: 'Movie Review: Nishabd'
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:193:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Amitabh";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"movies";}i:2;O:8:"stdClass":1:{s:3:"tag";s:7:"Nishabd";}i:3;O:8:"stdClass":1:{s:3:"tag";s:7:"Reviews";}}";
-dsq\_thread\_id: '3252145'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: 'Movie Review: Nishabd'
+date: '2007-3-4'
 ---
 
 [Nishabd][0] is a re-make of the very famous russian movie, Lolitta. I know, that the flavour of the day is re-mixing movies, but I must confess.. what a re-make? Amazing movie! I was simply blown away by the pathos of the story, the power of Amitabh's eyes and the great performances of every single character.

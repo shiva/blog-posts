@@ -1,21 +1,9 @@
 ---
-layout: post
 title: Mono and Sharpdevelop - A baby step
-categories: \[\]
 tags:
-- coding
-published: true
-meta:
-\_utw\_tags\_0: s:104:"a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Others";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-dsq\_thread\_id: '2980016'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - coding
+description: Mono and Sharpdevelop - A baby step
+date: '2006-12-24'
 ---
 
 Having joined Novell recently, the opportunity to learn a bunch of new development skills has come up. Novell products make extensive use of the mono platform for applications development.

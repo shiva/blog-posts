@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Loving my Canon 40D
-tags: canon 40d, DSLR, zooomr
+tags: 'canon 40d, DSLR, zooomr'
+description: Loving my Canon 40D
+date: '2007-10-20'
 ---
 
 I recently got myself a Canon 40D. After a 3 year wait, I can finally afford to buy myself a DSLR, and have been going crazy with it for the last couple of weeks.

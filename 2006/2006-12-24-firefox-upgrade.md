@@ -1,21 +1,9 @@
 ---
-layout: post
-title: Firefox upgrade!
-categories: \[\]
+title: 'Firefox upgrade!'
 tags:
-- Tools
-published: true
-meta:
-\_utw\_tags\_0: s:101:"a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:3:"Web";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-dsq\_thread\_id: '3252128'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Tools
+description: 'Firefox upgrade!'
+date: '2006-12-24'
 ---
 
 It is not just M$ that struggles with frequent patches for its products. Mozilla just released a whole host of bug fixes in a new release 2.0.0.1\. You can download it [here ][0]or use the direct links below.  

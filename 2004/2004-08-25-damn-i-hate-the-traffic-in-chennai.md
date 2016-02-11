@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Damn I hate the traffic in Chennai
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/08/damn-i-hate-traffic-in-chennai.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Damn I hate the traffic in Chennai
+date: '2004-8-25'
 ---
 
 Come on people! What's up with Chennai roads these days.. yeah I can understand that since the city is growing blah, blah, blah, it is going to be congested.... but you know there is this thing called sanity that departs you when it takes you an hour and half to get from Numgambakkam to Vadapalani!!  

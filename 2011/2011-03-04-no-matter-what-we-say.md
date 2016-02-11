@@ -1,26 +1,15 @@
 ---
-layout: post
 title: No matter what we say
-categories: \[\]
 tags:
-- apple
-- Conan
-- iPad
-- iPad 2
-- iPad launch
-- parody
-- video
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-dsq\_thread\_id: '245611230'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - apple
+  - Conan
+  - iPad
+  - iPad 2
+  - iPad launch
+  - parody
+  - video
+description: No matter what we say
+date: '2011-3-4'
 ---
 
 If you weren't in a hole the past few days, you would have heard about the iPad 2 launch. Here's Conan's take on it.

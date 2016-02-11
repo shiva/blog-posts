@@ -1,15 +1,8 @@
 ---
-layout: post
-title: A review of "Crash (2005) (Widescreen Edition)"
-categories: \[\]
-published: true
+title: 'A review of "Crash (2005) (Widescreen Edition)"'
 tags: movies reviews
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: 'A review of "Crash (2005) (Widescreen Edition)"'
+date: '2006-3-24'
 ---
 
 [Crash (2005) (Widescreen Edition)][0]

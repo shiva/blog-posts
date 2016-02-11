@@ -1,24 +1,13 @@
 ---
-layout: post
 title: To the people of Japan
-categories: \[\]
 tags:
-- Japan
-- Lord Tennyson
-- poetry
-- Ulysses
-- video
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-dsq\_thread\_id: '255861929'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Japan
+  - Lord Tennyson
+  - poetry
+  - Ulysses
+  - video
+description: To the people of Japan
+date: '2011-3-16'
 ---
 
 To the people of Japan, and the world, Lord Tennyson has these words

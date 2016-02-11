@@ -1,8 +1,9 @@
 ---
-layout: post
 title: Hacking Wordpress - An extended XML-RPC API
 tags:
-- Tips & Tricks
+  - 'Tips & Tricks'
+description: Hacking Wordpress - An extended XML-RPC API
+date: '2007-1-15'
 ---
 
 Having broken my elbow, I have spent the last two weeks typing away with a single hand. With nothing much to do, I went about looking at ways to improve the capabilities of blog editors. I use BlogDesk for my blogging needs. It is a wonderful editor, that let you do all operations provided by MetaWeblog API. However I wanted to do more than what was provided there. I wanted to add some features for plugins that I used.

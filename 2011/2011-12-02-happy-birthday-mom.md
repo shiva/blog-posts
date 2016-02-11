@@ -1,21 +1,11 @@
 ---
-layout: post
-title: Happy birthday, Mom
-categories: \[\]
+title: 'Happy birthday, Mom'
 tags:
-- mom
-- poem
-- tamil
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - mom
+  - poem
+  - tamil
+description: 'Happy birthday, Mom'
+date: '2011-12-2'
 ---
 
 It's my mom's birthday today, and as I scoured the recesses of the internets for something nice to say, I came across this most beautiful poem by the author of  "[Joy Junction][0]" about his mom. As most of you who know me know, I'm not much of a poet, but I am enough of a romantic to steal "borrow" someone-else work to express what I feel (I know -- lame, right?)

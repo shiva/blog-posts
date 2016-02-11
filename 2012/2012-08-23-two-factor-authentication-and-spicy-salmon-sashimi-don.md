@@ -1,23 +1,13 @@
 ---
-layout: post
 title: Two-factor authentication and spicy salmon sashimi don
-categories: \[\]
 tags:
-- food
-- salmon
-- sashimi
-- Security
-- two-factor authentication
-published: true
-meta:
-\_edit\_last: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - food
+  - salmon
+  - sashimi
+  - Security
+  - two-factor authentication
+description: Two-factor authentication and spicy salmon sashimi don
+date: '2012-8-23'
 ---
 
 For the last few months I've been annoyed. Two or three times a week, I get a flurry of emails from Facebook and twitter claiming that I reset my password. Sounds like a first-world problem? It is. However, I have 4 emails linked to my Facebook account and one to my twitter account. I get on average 15-20 mails a week, and I dutifully dis-avow each one of them.

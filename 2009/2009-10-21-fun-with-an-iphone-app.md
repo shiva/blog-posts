@@ -1,12 +1,12 @@
 ---
-layout: post
 title: Fun with an iphone app
-categories: \[\]
 tags:
-- autodesk
-- iphone apps
-- Reviews
-- sketchbook
+  - autodesk
+  - iphone apps
+  - Reviews
+  - sketchbook
+description: Fun with an iphone app
+date: '2009-10-21'
 ---
 
 Got a new iPhone app called sketchbook, by autodesk.

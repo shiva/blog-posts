@@ -1,19 +1,7 @@
 ---
-layout: post
 title: Blogging from a linux desktop
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_: s:57:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-\_utw\_tags\_0: s:57:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-dsq\_thread\_id: '3044444'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Blogging from a linux desktop
+date: '2007-3-30'
 ---
 
 Yipeee!! Just one word - Fantabulous.

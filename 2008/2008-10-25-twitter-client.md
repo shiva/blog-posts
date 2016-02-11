@@ -1,26 +1,14 @@
 ---
-layout: post
 title: Proposed GUI for C++ based twitter client
-categories: \[\]
 tags:
-- c++
-- coding
-- native twitter client
-- qt
-- Tools
-- Twitter
-published: true
-meta:
-\_edit\_last: '1'
-\_wp\_old\_slug: proposed-gui-for-c-based-twitter-client
-aktt\_notify\_twitter: 'no'
-\_aktt\_hash\_meta: ''
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - c++
+  - coding
+  - native twitter client
+  - qt
+  - Tools
+  - Twitter
+description: Proposed GUI for C++ based twitter client
+date: '2008-10-25'
 ---
 
 I got really sick of using Adobe AIR apps that take up more and more of system memory for an app that does twitter.

@@ -1,20 +1,11 @@
 ---
-layout: post
-title: What's in store for me
-categories: \[\]
+title: "What's in store for me"
 tags:
-- movies
-- quotes
-- the green mile
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - movies
+  - quotes
+  - the green mile
+description: "What's in store for me"
+date: '2011-11-27'
 ---
 
 I just watched the last 30 mins of the movie "The green mile". What a beautiful movie! The last few lines was particularly well written. "we each owe a death; there are no exceptions; but, Oh God, sometimes the Green Mile seems so long. But if he can make a mouse live so long, I wonder what is in store for me"

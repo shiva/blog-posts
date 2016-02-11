@@ -1,18 +1,7 @@
 ---
-layout: post
 title: Been a while
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_edit\_last: '1'
-dsq\_thread\_id: '58432567'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Been a while
+date: '2010-1-13'
 ---
 
 It's been a while since I last updated, or even had the inclination to do so ... well .. I'm back.

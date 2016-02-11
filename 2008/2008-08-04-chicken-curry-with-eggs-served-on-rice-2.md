@@ -1,28 +1,14 @@
 ---
-layout: post
 title: Chicken Curry with Eggs served on Rice
-categories: \[\]
 tags:
-- chicken
-- chicken curry
-- eggs
-- Indian cuisine
-- Indian food
-- recipe
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-\_aioseop\_title: Chicken Curry with Eggs served on Rice
-\_aioseop\_description: Chicken curry recipe
-\_aioseop\_keywords: Chicken Curry, Eggs, Rice, Indian Cuisine, Indian food, recipe
-\_aktt\_hash\_meta: ''
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - chicken
+  - chicken curry
+  - eggs
+  - Indian cuisine
+  - Indian food
+  - recipe
+description: Chicken Curry with Eggs served on Rice
+date: '2008-8-4'
 ---
 
 [![](/images/2734109966_379e159639.jpg)][0]

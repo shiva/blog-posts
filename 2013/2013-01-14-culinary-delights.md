@@ -1,24 +1,13 @@
 ---
-layout: post
 title: A weekend of culinary delights
-categories: \[\]
 tags:
-- cassoulet
-- food
-- social bites
-- whiskey
-- wontons
-published: true
-meta:
-\_edit\_last: '1'
-\_wpas\_done\_all: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - cassoulet
+  - food
+  - social bites
+  - whiskey
+  - wontons
+description: A weekend of culinary delights
+date: '2013-1-14'
 ---
 
 The great G.B Shaw, in "Man and Superman" (not that Superman), quipped, "_There is no love sincerer than the love of food_." I had a weekend, that reminded me how much I love being fed. It also, reminded me of my wayward ways, in keeping the waistline in check, but I diverge. For this Christmas, I got the most amazing gift -- the gift of an evening out trying out food that tasted, as good as it sounds and looks. Without much ado, here is the spread:

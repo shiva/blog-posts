@@ -1,25 +1,13 @@
 ---
-layout: post
 title: My linkedin network visualized
-categories: \[\]
 tags:
-- graphs
-- infographic
-- linkedin
-- network
-- visualization
-published: true
-meta:
-\_edit\_last: '1'
-aktt\_notify\_twitter: 'no'
-\_wp\_old\_slug: ''
-dsq\_thread\_id: '216781126'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - graphs
+  - infographic
+  - linkedin
+  - network
+  - visualization
+description: My linkedin network visualized
+date: '2011-1-26'
 ---
 
 \[caption id="" align="alignnone" width="506" caption="linkedin-visualized"\]![](/images/inmap.gif)\[/caption\]

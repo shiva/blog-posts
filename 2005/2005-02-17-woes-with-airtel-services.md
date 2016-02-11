@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Woes with airtel services
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2005/02/woes-with-airtel-services.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Woes with airtel services
+date: '2005-2-17'
 ---
 
 What a lousy feeling it is, when you hold shares of a company, whose customer you have been for more than 2 years and have paid everyone of the bills in time, and when you have an issue, you are brushed under the carpet!That's what happened to me today. 

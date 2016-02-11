@@ -1,20 +1,7 @@
 ---
-layout: post
-title: '\[ lomographic society int. presents : LC-A : the lomo-compact-automat \]'
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/10/lomographic-society-int-presents-lc.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "\\[ lomographic society int. presents : LC-A : the lomo-compact-automat \\]"
+description: "\\[ lomographic society int. presents : LC-A : the lomo-compact-automat \\]"
+date: '2004-10-13'
 ---
 
 [\[ lomographic society int. presents : LC-A : the lomo-compact-automat \]][0]

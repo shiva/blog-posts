@@ -1,25 +1,13 @@
 ---
-layout: post
 title: Tandoori spiced fish with cucumber
-categories: \[\]
 tags:
-- cucumber
-- fish
-- food
-- halibut
-- recipe
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-\_aktt\_hash\_meta: ''
-dsq\_thread\_id: '5023793'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - cucumber
+  - fish
+  - food
+  - halibut
+  - recipe
+description: Tandoori spiced fish with cucumber
+date: '2008-9-25'
 ---
 
 One program--on Food TV--that I like to watch, is [Gordon Ramsey][0]'s [Kitchen Nightmares][1]. He is such a powerful person, who is into what he does for a living. He has inspired me to get of my couch and cook decent food.

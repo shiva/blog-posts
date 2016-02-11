@@ -1,30 +1,20 @@
 ---
-layout: post
 title: iPad and friends
-categories: \[\]
 tags:
-- Accessories
-- apple
-- Canon 7d
-- capacitive stylus
-- iOS Apps
-- iPad
-- IPad camera connect kit
-- iPad with keyboard
-- Logitech Wave keyboard
-- Pogo Sketch stylus
-- review
-- Targus stylus
-published: true
-meta:
-dsq\_thread\_id: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Accessories
+  - apple
+  - Canon 7d
+  - capacitive stylus
+  - iOS Apps
+  - iPad
+  - IPad camera connect kit
+  - iPad with keyboard
+  - Logitech Wave keyboard
+  - Pogo Sketch stylus
+  - review
+  - Targus stylus
+description: iPad and friends
+date: '2011-5-1'
 ---
 
 [![20110501-112322.jpg](/images/20110501-112322.jpg)][0]

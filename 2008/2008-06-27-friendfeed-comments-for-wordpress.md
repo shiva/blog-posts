@@ -1,24 +1,13 @@
 ---
-layout: post
 title: Friendfeed comments for wordpress
-categories: \[\]
 tags:
-- comments
-- FF
-- friendfeed
-- website updates
-- wordpress plugins
-published: true
-meta:
-\_aktt\_hash\_meta: ''
-\_edit\_last: '1'
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - comments
+  - FF
+  - friendfeed
+  - website updates
+  - wordpress plugins
+description: Friendfeed comments for wordpress
+date: '2008-6-27'
 ---
 
 Conversations on the web have evolved quite a bit, in the last 4/5 years. During the late 90s, conversations on the web, was pretty much non-existant, except for a few, who used their websites to engage in conversations. The advent of the blog, made available tools to start and continue conversations. 

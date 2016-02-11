@@ -1,20 +1,9 @@
 ---
-layout: post
 title: Learn HTML and Javascript
-categories: \[\]
 tags:
-- Tips & Tricks
-published: true
-meta:
-\_utw\_tags\_0: s:204:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:13:"Tips-n-Tricks";}i:2;O:8:"stdClass":1:{s:3:"tag";s:9:"Tutorials";}i:3;O:8:"stdClass":1:{s:3:"tag";s:3:"Web";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - 'Tips & Tricks'
+description: Learn HTML and Javascript
+date: '2005-11-25'
 ---
 
 [HTMLSource: HTML Tutorials][0] 

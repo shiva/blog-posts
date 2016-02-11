@@ -1,17 +1,7 @@
 ---
-layout: post
 title: Down with a viral fever
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:62:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Down with a viral fever
+date: '2005-10-2'
 ---
 
 What a lousy week it has been... I've had this fever all week long, and is still poking its head around me now and then..

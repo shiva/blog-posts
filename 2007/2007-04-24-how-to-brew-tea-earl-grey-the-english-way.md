@@ -1,18 +1,7 @@
 ---
-layout: post
 title: How to brew tea (Earl Grey) - The English Way
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:265:"a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:13:"Douglas-Adams";}i:1;O:8:"stdClass":1:{s:3:"tag";s:13:"Jhumpa-Lahiri";}i:2;O:8:"stdClass":1:{s:3:"tag";s:10:"making-tea";}i:3;O:8:"stdClass":1:{s:3:"tag";s:7:"Reviews";}i:4;O:8:"stdClass":1:{s:3:"tag";s:12:"The-Namesake";}}";
-dsq\_thread\_id: '2996675'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: How to brew tea (Earl Grey) - The English Way
+date: '2007-4-24'
 ---
 
 I've been on a reading binge lately. With quite a few hours of flying time, and long waits at airport lounges, I got the chance to catch up on my reading. Went through two books this time around, the placid, but mildly interesting ["The Namesake" by Jhumpa Lahiri][0] (skip the book and [watch the movie][1].. way better) and the exhilariting final masterpiece, ["The Salmon of Doubt",][2] ([wikipedia entry here][3]) by the new age, space comic, [Douglas][4] [Adams][5].

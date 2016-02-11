@@ -1,21 +1,9 @@
 ---
-layout: post
 title: getting batch categories to work with Word press 1.5.1.1
-categories: \[\]
 tags:
-- Tips & Tricks
-published: true
-meta:
-\_utw\_tags\_0: s:65:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:18:"Tips-&-Tricks";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-dsq\_thread\_id: '3191671'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - 'Tips & Tricks'
+description: getting batch categories to work with Word press 1.5.1.1
+date: '2005-5-27'
 ---
 
 I simply love that plugin - Batch categories, like a myriad of other wordpress users. (A thousand thanks to Stephanie Booth wouldn't suffice ;) ), but I had problems getting it to work in 1.5.1

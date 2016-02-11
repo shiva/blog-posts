@@ -1,19 +1,7 @@
 ---
-layout: post
-title: Some fun with the IPod's shuffle feature
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_aktt\_hash\_meta: ''
-\_edit\_last: '1'
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "Some fun with the IPod's shuffle feature"
+description: "Some fun with the IPod's shuffle feature"
+date: '2009-8-20'
 ---
 
 1\. Put your mp3s on shuffle.  

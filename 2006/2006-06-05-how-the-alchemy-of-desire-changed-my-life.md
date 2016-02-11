@@ -1,19 +1,7 @@
 ---
-layout: post
-title: How "The Alchemy of Desire" changed my life
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:53:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:7:"Reviews";}}";
-\_edit\_last: '1'
-dsq\_thread\_id: '3038438'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'How "The Alchemy of Desire" changed my life'
+description: 'How "The Alchemy of Desire" changed my life'
+date: '2006-6-5'
 ---
 
 [The Alchemy of Desire][0]

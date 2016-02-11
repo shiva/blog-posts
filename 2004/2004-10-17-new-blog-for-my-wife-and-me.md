@@ -1,20 +1,7 @@
 ---
-layout: post
 title: new blog for my wife and me
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/10/new-blog-for-my-wife-and-me.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: new blog for my wife and me
+date: '2004-10-17'
 ---
 
 Created a common blog site for my wife and me to blog on..  

@@ -1,26 +1,13 @@
 ---
-layout: post
-title: Hey wordpress guys, have you heard of diff?!
-categories: \[\]
+title: 'Hey wordpress guys, have you heard of diff?!'
 tags:
-- Ideas
-- install
-- plugin
-- upgrade
-- wordpress
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_aktt\_hash\_meta: ''
-aktt\_tweeted: '1'
-\_edit\_last: '1'
-dsq\_thread\_id: '3089323'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Ideas
+  - install
+  - plugin
+  - upgrade
+  - wordpress
+description: 'Hey wordpress guys, have you heard of diff?!'
+date: '2008-5-6'
 ---
 
 I hate having to upgrade software. I truly do. I release a version every 3 months, and it try to make the upgrade as painless as possible. For an application like wordpress, that has been around for such a long, I would expect that they would do something to make it a little easier to upgrade.

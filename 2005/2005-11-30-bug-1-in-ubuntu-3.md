@@ -1,17 +1,7 @@
 ---
-layout: post
-title: 'Bug \#1 in Ubuntu'
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:211:"a:4:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:6:"Others";}i:2;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:3;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "Bug \\#1 in Ubuntu"
+description: "Bug \\#1 in Ubuntu"
+date: '2005-11-30'
 ---
 
 I found a very interesting bug report on ubuntu! If you haven't heard about Ubuntu, then this bug report is definetely a must read. Check it out! 

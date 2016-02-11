@@ -1,15 +1,13 @@
 ---
-layout: post
 title: A month flies by
-categories: 
- - goals
+categories:
+  - goals
 tags:
- - resolutions
- - 2016
- - goals
-status: publish
-type: post
-published: true
+  - resolutions
+  - 2016
+  - goals
+description: A month flies by
+date: '2016-1-31'
 ---
 It has not been a great start. It, however, has been a busy one. 
 

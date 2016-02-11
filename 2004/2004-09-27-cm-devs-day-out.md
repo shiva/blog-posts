@@ -1,20 +1,7 @@
 ---
-layout: post
-title: cm-dev's day out!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/09/cm-devs-day-out.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "cm-dev's day out!"
+description: "cm-dev's day out!"
+date: '2004-9-27'
 ---
 
 As I have mentioned earlier, I have recently moved to a new team at office.  

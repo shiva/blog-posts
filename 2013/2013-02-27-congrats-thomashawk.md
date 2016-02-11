@@ -1,19 +1,7 @@
 ---
-layout: post
-title: Congrats Thomashawk!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_edit\_last: '1'
-\_wpas\_done\_all: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'Congrats Thomashawk!'
+description: 'Congrats Thomashawk!'
+date: '2013-2-27'
 ---
 
 Congrats to Thomashawk on the [flickr interview][0]!

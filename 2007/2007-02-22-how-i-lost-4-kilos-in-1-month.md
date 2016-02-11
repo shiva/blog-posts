@@ -1,17 +1,7 @@
 ---
-layout: post
 title: How I lost 4 kilos in 1 month
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:62:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: How I lost 4 kilos in 1 month
+date: '2007-2-22'
 ---
 
 One of my good friends, James (who wants to remain anonymous), asked me how I lost weight. So for his benefit and hopefully to inspire others here it is.

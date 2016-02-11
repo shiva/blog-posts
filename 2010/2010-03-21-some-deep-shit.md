@@ -1,22 +1,11 @@
 ---
-layout: post
 title: Some deep shit
-categories: \[\]
 tags:
-- deep shit
-- Melody Gardot
-- music therapy
-published: true
-meta:
-aktt\_notify\_twitter: 'yes'
-\_edit\_last: '1'
-dsq\_thread\_id: ''
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - deep shit
+  - Melody Gardot
+  - music therapy
+description: Some deep shit
+date: '2010-3-21'
 ---
 
 A recent conversation about [Melody Gardot][0], and her [songs][1], her [recovery and music therapy][2] led to the following thoughts. It's some deep shit, but struck me as something that I should share. If you could care less about such things, move along, and forget that this every happened. If not, read on. It might just inspire some more thought

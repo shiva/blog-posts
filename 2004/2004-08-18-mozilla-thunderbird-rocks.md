@@ -1,20 +1,7 @@
 ---
-layout: post
-title: Mozilla Thunderbird rocks !!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/08/mozilla-thunderbird-rocks.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'Mozilla Thunderbird rocks !!'
+description: 'Mozilla Thunderbird rocks !!'
+date: '2004-8-18'
 ---
 
 [mozilla.org - home of mozilla, firefox, thunderbird and camino][0]

@@ -1,17 +1,7 @@
 ---
-layout: post
 title: Newtons Laws For Software Engineers
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:51:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:5:"Humor";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Newtons Laws For Software Engineers
+date: '2005-6-28'
 ---
 
 Law 1.Every Software Engineer continues his state of chatting or forwarding mails unless he is assigned work by external unbalanced manager.  

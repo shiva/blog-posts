@@ -1,18 +1,10 @@
 ---
-layout: post
 title: Welcome new friends from twitter
-categories: \[\]
 tags:
-- Twitter
-- yuvi
-published: true
-meta: {}
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Twitter
+  - yuvi
+description: Welcome new friends from twitter
+date: '2008-4-2'
 ---
 
 I have the very distinct feeling that a bunch of people from India, are going to visit my site today. Maybe, it is too late, but nonetheless, I was compelled to post before I left for work, after staying up the whole night (watching movies). No really - [Van Helsing][0] followed by [American Gangster][1] - two very find movies, I might add, but I digress.

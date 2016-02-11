@@ -1,17 +1,7 @@
 ---
-layout: post
 title: You gotta gimme one of these - Part 1
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:103:"a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Others";}i:1;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: You gotta gimme one of these - Part 1
+date: '2006-9-27'
 ---
 
 ![](/images/296_meizu_m6_icon.jpg)

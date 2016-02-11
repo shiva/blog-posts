@@ -1,20 +1,9 @@
 ---
-layout: post
 title: The zen of Photo Management
-categories: \[\]
 tags:
-- Tools
-published: true
-meta:
-\_utw\_tags\_0: s:311:"a:6:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"\#Album";}i:1;O:8:"stdClass":1:{s:3:"tag";s:16:"photo-management";}i:2;O:8:"stdClass":1:{s:3:"tag";s:16:"photo-organisers";}i:3;O:8:"stdClass":1:{s:3:"tag";s:10:"SharpAlbum";}i:4;O:8:"stdClass":1:{s:3:"tag";s:9:"SharpCast";}i:5;O:8:"stdClass":1:{s:3:"tag";s:5:"Tools";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Tools
+description: The zen of Photo Management
+date: '2007-3-8'
 ---
 
 I have been [rambling][0] for the last month or so, about the need for better photo management. Having acquired a N730 recently, I have started shooting more and more pictures, and the chore of organising them, and sharing them has been such a bore, that I haven't uploaded a single picture.

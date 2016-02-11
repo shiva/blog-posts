@@ -1,20 +1,7 @@
 ---
-layout: post
 title: A collection of tools that I have come to use
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2005/05/collection-of-tools-that-i-have-come.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: A collection of tools that I have come to use
+date: '2005-5-6'
 ---
 
 Well I confess, I'm a tool fanatic . Before you get werid ideas let me tell you that what I mean is that I like to use small, efficient utilities, that help me get my work done quickly. I have been on a perpetual hunt for **THE** best utility for almost all tasks.

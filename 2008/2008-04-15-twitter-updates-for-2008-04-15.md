@@ -1,18 +1,7 @@
 ---
-layout: post
 title: Twitter Updates for 2008-04-15
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_tweeted: '1'
-dsq\_thread\_id: '3252178'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Twitter Updates for 2008-04-15
+date: '2008-4-15'
 ---
 
 * just got out of google reader bankruptcy. (Still have 500 items unread!) phew! [\#][0]

@@ -1,17 +1,7 @@
 ---
-layout: post
 title: 'Review: Jamie at Home: Cook Your Way to the Good Life by Jamie Oliver'
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: 'Review: Jamie at Home: Cook Your Way to the Good Life by Jamie Oliver'
+date: '2008-11-19'
 ---
 
 [![Jamie at Home: Cook Your Way to the Good Life](/images/1776251.jpg)][0] [Jamie at Home: Cook Your Way to the Good Life][0] by [Jamie Oliver][1]  

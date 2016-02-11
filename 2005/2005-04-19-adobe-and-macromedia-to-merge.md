@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Adobe and Macromedia to merge
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2005/04/adobe-and-macromedia-to-merge.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Adobe and Macromedia to merge
+date: '2005-4-19'
 ---
 
 Yup, been a very long time since I blogged!! but I am back again!  

@@ -1,35 +1,13 @@
 ---
-layout: post
 title: OSX Lion. A first look (at 2 AM)
-categories: \[\]
 tags:
-- Launchpad
-- Lion
-- Mac OSX
-- Mission Control
-- OSX
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-\_oembed\_f6f2d98a6992a7cde48b66e3a8c9ae7d: '{{unknown}}'
-\_oembed\_346f0a51f38da2c606549b0373504cda: '{{unknown}}'
-\_oembed\_f1f6cb8ae96fd7dedcba816a7374d81f: '{{unknown}}'
-\_oembed\_2fb41b21f1395d38c7dd9fde775c2bf5: '{{unknown}}'
-\_oembed\_398530c5dfffdeafd03721d94099e07a: '{{unknown}}'
-\_oembed\_961f11f0761eed26f8a7a6f9bdead271: '{{unknown}}'
-\_oembed\_61534b727958a1b098c35f216d6d44e8: '{{unknown}}'
-\_oembed\_9bfd032fc7540fd67fcc4499afc034d6: '{{unknown}}'
-\_oembed\_1116c0940b6816c962ea8b6ae9b7145a: '{{unknown}}'
-\_oembed\_532c06459ea9c5bfadb69d23393f9188: '{{unknown}}'
-\_oembed\_06d04e86257889016c553ebfe3952b07: '{{unknown}}'
-\_oembed\_c5184ae55438d8fced78c7598b3399f0: '{{unknown}}'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Launchpad
+  - Lion
+  - Mac OSX
+  - Mission Control
+  - OSX
+description: OSX Lion. A first look (at 2 AM)
+date: '2011-7-23'
 ---
 
 Just upgraded to OSX Lion. A very slick interface.

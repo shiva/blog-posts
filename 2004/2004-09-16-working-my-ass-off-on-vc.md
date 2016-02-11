@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Working my ass off on VC++
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/09/working-my-ass-off-on-vc.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Working my ass off on VC++
+date: '2004-9-16'
 ---
 
 and yeah!!! the day has come, when I get to get my hands dirty with some VC++ coding!!

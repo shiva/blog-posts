@@ -1,18 +1,7 @@
 ---
-layout: post
 title: Meeting old friends
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:247:"a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:6:"Dinesh";}i:1;O:8:"stdClass":1:{s:3:"tag";s:7:"friends";}i:2;O:8:"stdClass":1:{s:3:"tag";s:7:"koushik";}i:3;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:4;O:8:"stdClass":1:{s:3:"tag";s:5:"shaan";}}";
-dsq\_thread\_id: '3044442'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Meeting old friends
+date: '2007-3-13'
 ---
 
 After moving to bangalore (it's been 3 months already!!), I never had an opportunity to got visit good friends who have moved here. Last weekend, I managed to find time to meet up with my old pals.

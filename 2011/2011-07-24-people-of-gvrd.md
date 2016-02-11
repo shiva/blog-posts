@@ -1,22 +1,11 @@
 ---
-layout: post
 title: People of GVRD - a photographic experiment
-categories: \[\]
 tags:
-- People of GVRD
-- Photography
-- projects
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - People of GVRD
+  - Photography
+  - projects
+description: People of GVRD - a photographic experiment
+date: '2011-7-24'
 ---
 
 A couple of weeks ago I started a new project - to shoot random strangers in the streets of GVRD (Greater Vancouver Regional Districts - for those of you that are not from here). I wanted to see if I had the guts to walk up to random strangers, and ask their permission to shoot a picture of them. I was also curious to know how they would react to it, and what my success rate would be.

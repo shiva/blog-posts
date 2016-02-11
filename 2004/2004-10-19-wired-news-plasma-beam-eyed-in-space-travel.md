@@ -1,20 +1,7 @@
 ---
-layout: post
 title: 'Wired News: Plasma Beam Eyed in Space Travel'
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/10/wired-news-plasma-beam-eyed-in-space.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: 'Wired News: Plasma Beam Eyed in Space Travel'
+date: '2004-10-19'
 ---
 
 [Wired News: Plasma Beam Eyed in Space Travel][0]

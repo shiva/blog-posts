@@ -1,25 +1,13 @@
 ---
-layout: post
 title: Why does Java not support unsigned int? - Part 1
-categories: \[\]
 tags:
-- coding
-- design
-- java
-- programming
-- unisigned int
-published: true
-meta:
-aktt\_notify\_twitter: 'yes'
-\_edit\_last: '1'
-aktt\_tweeted: '1'
-dsq\_thread\_id: '117427611'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - coding
+  - design
+  - java
+  - programming
+  - unisigned int
+description: Why does Java not support unsigned int? - Part 1
+date: '2010-7-13'
 ---
 
 An interesting thing for me, is that if I am active on twitter during daytime in India (now that I'm here on vacation), I get to have some interesting conversations about design and development. Today, I chanced to talk about the lack of unsigned values support in Java. 

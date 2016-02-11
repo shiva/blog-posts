@@ -1,23 +1,13 @@
 ---
-layout: post
 title: An hour with HAML and Stasis
-categories: \[\]
 tags:
-- HAML
-- ruby
-- site
-- site-gen
-- Stasis
-published: true
-meta:
-\_edit\_last: '1'
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - HAML
+  - ruby
+  - site
+  - site-gen
+  - Stasis
+description: An hour with HAML and Stasis
+date: '2012-5-20'
 ---
 
 I have been meaning to get into the exciting world of static site-gen. Why, you ask? Well, I will tell you why?! Actually, I'm too lazy, and it's late on a Sunday night -- instead, [Mick Gardner][0], can inform you on the [virtues of static site-generation][1].

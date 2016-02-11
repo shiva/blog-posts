@@ -1,20 +1,9 @@
 ---
-layout: post
 title: Recovery from GRUB Failure
-categories: \[\]
 tags:
-- Tips & Tricks
-published: true
-meta:
-\_utw\_tags\_0: s:270:"a:5:{i:0;O:8:"stdClass":1:{s:3:"tag";s:12:"boot-problem";}i:1;O:8:"stdClass":1:{s:3:"tag";s:4:"GRUB";}i:2;O:8:"stdClass":1:{s:3:"tag";s:14:"GRUB-corrupted";}i:3;O:8:"stdClass":1:{s:3:"tag";s:12:"GRUB-failure";}i:4;O:8:"stdClass":1:{s:3:"tag";s:18:"Tips-&-Tricks";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - 'Tips & Tricks'
+description: Recovery from GRUB Failure
+date: '2007-4-6'
 ---
 
 I have a dual-boot PC at home, which boots to OpenSUSE and Windows. After a very tiring 7 hour journey, I came home to a GRUB failure. After searching for help all over the web, I found some help [here][0], [here][1], [here][2], [here][3], [here][4] and [here][5]. :)

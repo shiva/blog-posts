@@ -1,17 +1,7 @@
 ---
-layout: post
 title: What kind am I?
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:51:"a:1:{i:0;O:8:"stdClass":1:{s:3:"tag";s:5:"Humor";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: What kind am I?
+date: '2005-7-6'
 ---
   
 **You Are a Life Blogger!**

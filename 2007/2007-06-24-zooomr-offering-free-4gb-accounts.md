@@ -1,7 +1,8 @@
 ---
-layout: post
-title: Zooomr offering free 4GB accounts!
+title: 'Zooomr offering free 4GB accounts!'
 tags: Tools
+description: 'Zooomr offering free 4GB accounts!'
+date: '2007-6-24'
 ---
 
 [Zooomr][0], for those of you, who don't know it, is a photo-sharing site, that is developed and maintained by a single developer, [Kristopher][1] [Tate][2]. Thomas Hawk, the CEO, is a wonderful photographer, and writes a great blog, which you should check out.

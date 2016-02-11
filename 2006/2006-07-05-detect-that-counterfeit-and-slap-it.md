@@ -1,17 +1,7 @@
 ---
-layout: post
-title: Detect that counterfeit and slap it!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: no tags
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'Detect that counterfeit and slap it!'
+description: 'Detect that counterfeit and slap it!'
+date: '2006-7-5'
 ---
 
 Nice website this one!  

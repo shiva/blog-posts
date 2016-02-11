@@ -1,23 +1,13 @@
 ---
-layout: post
 title: Piracy for convenience
-categories: \[\]
 tags:
-- artificial scarcity
-- creative content
-- Music
-- piracy
-- scarcity
-published: true
-meta:
-\_edit\_last: '1'
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - artificial scarcity
+  - creative content
+  - Music
+  - piracy
+  - scarcity
+description: Piracy for convenience
+date: '2012-1-16'
 ---
 
 In the wild days of 1996, when I got my hands on a computer (it cost about a year's worth of my Dad's salary, and nothing that I am would have been possible but for that sacrifice he made), I was enamored by the ease of content consumption on a computer.

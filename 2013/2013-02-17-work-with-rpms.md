@@ -1,28 +1,14 @@
 ---
-layout: post
-title: Working with rpms (extract, list contents)
-categories: \[\]
+title: 'Working with rpms (extract, list contents)'
 tags:
-- extract rpm
-- list contents
-- list contents of rpm
-- rpm
-- unix
-- unix commands
-published: true
-meta:
-\_edit\_last: '1'
-\_wpas\_done\_all: '1'
-\_wp\_old\_slug: extract-rpm-without-installing
-\_wpas\_skip\_2634709: '1'
-\_wpas\_skip\_2634712: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - extract rpm
+  - list contents
+  - list contents of rpm
+  - rpm
+  - unix
+  - unix commands
+description: 'Working with rpms (extract, list contents)'
+date: '2013-2-17'
 ---
 
 Unix. I love thee!

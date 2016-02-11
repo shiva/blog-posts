@@ -1,20 +1,7 @@
 ---
-layout: post
 title: Google downloads
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2005/05/google-downloads.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Google downloads
+date: '2005-5-6'
 ---
 
 A one stop shop for all your google needs!  

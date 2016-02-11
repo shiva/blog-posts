@@ -1,22 +1,12 @@
 ---
-layout: post
 title: And another thing about Google Buzz
-categories: \[\]
 tags:
-- buzz
-- google
-- google buzz
-- Scoble-proof
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - buzz
+  - google
+  - google buzz
+  - Scoble-proof
+description: And another thing about Google Buzz
+date: '2010-2-10'
 ---
 
 There are several issues that people have uncovered in the last 2 days that it has existed. For me, of all the features that Buzz lacks, one thing really stands out. There is no way to just see a **list of the conversations** (without the whole list of comments expanded by default). This is the main reason that I **\*had\*** to unfollow Scoble, Michael Arrington, Louis Gray and a bunch of others. Take a look at [this conversation][0], and you would understand why.

@@ -1,18 +1,7 @@
 ---
-layout: post
-title: Why it's taking me forever to finish consuming "The Da Vinci Code"
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: no tags
-dsq\_thread\_id: '3179663'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "Why it's taking me forever to finish consuming \"The Da Vinci Code\""
+description: "Why it's taking me forever to finish consuming \"The Da Vinci Code\""
+date: '2006-6-5'
 ---
 
 [The Da Vinci Code][0]

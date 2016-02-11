@@ -1,23 +1,13 @@
 ---
-layout: post
 title: iPad is iBad petition
-categories: \[\]
 tags:
-- apple
-- DRM
-- iBad
-- iPad
-- petition
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - apple
+  - DRM
+  - iBad
+  - iPad
+  - petition
+description: iPad is iBad petition
+date: '2010-2-4'
 ---
 
 [http://www.defectivebydesign.org/ipad][0]

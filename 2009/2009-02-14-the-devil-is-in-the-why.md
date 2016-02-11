@@ -1,24 +1,12 @@
 ---
-layout: post
 title: The devil is in the why?
-categories: \[\]
 tags:
-- coding
-- design
-- programming
-- writing code
-published: true
-meta:
-\_edit\_last: '1'
-aktt\_notify\_twitter: 'no'
-\_aktt\_hash\_meta: ''
-dsq\_thread\_id: '11835879'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - coding
+  - design
+  - programming
+  - writing code
+description: The devil is in the why?
+date: '2009-2-14'
 ---
 
 Recently I got asked, what the best way to do a join between two large lists,  into another list was? I always tend to answer that question with: it depends. 

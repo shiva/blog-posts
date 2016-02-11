@@ -1,26 +1,13 @@
 ---
-layout: post
 title: How I handle 1000+ emails and 300+ blog posts a day
-categories: \[\]
 tags:
-- email
-- feeds
-- personal process
-- RSS
-- Tips & Tricks
-published: true
-meta:
-\_wp\_old\_slug: how-i-handle-the-1000-emails-and-read-around-400-500-blog-posts-a-day
-\_edit\_last: '1'
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-dsq\_thread\_id: '5831029'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - email
+  - feeds
+  - personal process
+  - RSS
+  - 'Tips & Tricks'
+description: How I handle 1000+ emails and 300+ blog posts a day
+date: '2008-10-15'
 ---
 
 Several people are shocked to hear that I read 1000+ emails and [several hundred blog posts a day][0]. Ofcourse, when I say that, all I mean is that, I process that much content. I read around 30-40% (That is really the signal-to-noise ratio of web content these days--and that is, if you are subscribed to high quality feeds)

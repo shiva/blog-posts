@@ -1,24 +1,13 @@
 ---
-layout: post
 title: OPML Editor as a wordpress editor
-categories: \[\]
 tags:
-- OPML
-- OPML Editor
-- review
-- Tools
-- Wordpress editor
-published: true
-meta:
-aktt\_notify\_twitter: 'yes'
-\_edit\_last: '1'
-dsq\_thread\_id: '79169440'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - OPML
+  - OPML Editor
+  - review
+  - Tools
+  - Wordpress editor
+description: OPML Editor as a wordpress editor
+date: '2010-3-24'
 ---
 
 This is a test post to see if [Dave Winer][0]'s [][1][OPML editor][1] works with a [][2][][2][self-hosted wordpress blog][2]. There is something geeky about seeing crappy fonts on a screen, that makes one want to use a tool more. 

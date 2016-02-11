@@ -1,23 +1,12 @@
 ---
-layout: post
-title: I'm getting an os upgrade for 10 bucks!
-categories: \[\]
+title: "I'm getting an os upgrade for 10 bucks!"
 tags:
-- Mac
-- Mac OSX
-- OS
-- Snow Leopard
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_aktt\_hash\_meta: ''
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Mac
+  - Mac OSX
+  - OS
+  - Snow Leopard
+description: "I'm getting an os upgrade for 10 bucks!"
+date: '2009-8-28'
 ---
 
 [![](/images/snow-leopard-shipment.jpg.scaled.500.jpg)][0]

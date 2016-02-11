@@ -1,17 +1,7 @@
 ---
-layout: post
 title: Twitter Updates for 2008-04-20
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_tweeted: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Twitter Updates for 2008-04-20
+date: '2008-4-20'
 ---
 
 * Textbooks for Tamilnadu state board are online (I think). [http://www.textbooksonline.tn.nic.in/][0]. Seriously cool! [\#][1]

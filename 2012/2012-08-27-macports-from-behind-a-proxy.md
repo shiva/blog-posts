@@ -1,18 +1,7 @@
 ---
-layout: post
 title: Macports from behind a proxy
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_edit\_last: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Macports from behind a proxy
+date: '2012-8-27'
 ---
 
 I've been using my MBP as the main computer at work for a couple of weeks now. It is not officially "supported", and I'm left to my own devices to figure out any issues that arise.

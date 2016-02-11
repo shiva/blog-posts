@@ -1,18 +1,7 @@
 ---
-layout: post
 title: 20 years is a long time .. lest we forget
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_edit\_last: '1'
-dsq\_thread\_id: '20581996'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: 20 years is a long time .. lest we forget
+date: '2009-6-5'
 ---
 
 This post is a little late, but that has never stopped me from doing it anyway. 

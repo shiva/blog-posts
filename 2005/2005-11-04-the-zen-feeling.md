@@ -1,17 +1,8 @@
 ---
-layout: post
-title: The zen feeling!
-categories: \[\]
-published: true
-meta:
+title: 'The zen feeling!'
 tags: creative mp3-player gadgets headphones sennheiser
-\_utw\_tags\_0: s:113:"a:2:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:1;O:8:"stdClass":1:{s:3:"tag";s:10:"Technology";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: 'The zen feeling!'
+date: '2005-11-4'
 ---
 
 Atlast!!! Finally!! I got to lay my hands on the Creative Zen Micro I have been drooling over all these days! One of Guru's friend's finally agreed to get it here.

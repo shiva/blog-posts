@@ -1,23 +1,14 @@
 ---
-layout: post
 title: 'Review: A Year in the Merde by Stephen Clarke'
-categories: \[\]
 tags:
-- a year in the merde
-- books
-- comedy
-- Reviews
-- stephen clarke
-- travel
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - a year in the merde
+  - books
+  - comedy
+  - Reviews
+  - stephen clarke
+  - travel
+description: 'Review: A Year in the Merde by Stephen Clarke'
+date: '2009-1-2'
 ---
 
 [![A Year in the Merde](/images/10765.jpg)][0] [A Year in the Merde][0] by [Stephen Clarke][1]

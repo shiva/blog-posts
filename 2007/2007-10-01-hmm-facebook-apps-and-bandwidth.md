@@ -1,7 +1,8 @@
 ---
-layout: post
 title: hmm.. facebook apps and bandwidth
-tags: facebook, web 2.0
+tags: 'facebook, web 2.0'
+description: hmm.. facebook apps and bandwidth
+date: '2007-10-1'
 ---
 
 [![](/images/2716607_583d962613.jpg)][0]

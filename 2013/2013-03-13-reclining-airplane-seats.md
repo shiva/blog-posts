@@ -1,22 +1,11 @@
 ---
-layout: post
 title: 'Reclining airplane seats : work of the Devil!'
-categories: \[\]
 tags:
-- airplane seat
-- first world problems
-- reclining seats
-published: true
-meta:
-\_edit\_last: '1'
-\_wpas\_done\_all: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - airplane seat
+  - first world problems
+  - reclining seats
+description: 'Reclining airplane seats : work of the Devil!'
+date: '2013-3-13'
 ---
 
 Reclining airplane seats!! I shake my fist at thee. This one feature on airplanes has caused me untold miseries. Ok! I exaggerate .. a little. I live Vancouver, which is one the other side of the planet with respect to my hometown. As a result, I spend at least 30 hours on an plane, once a year. To compound, my 6' 5" (196 cm) frame does not mix well with cramped spaces.

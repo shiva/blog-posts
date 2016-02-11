@@ -1,26 +1,14 @@
 ---
-layout: post
 title: You know it is time ..
-categories: \[\]
 tags:
-- Bowen Island
-- Dragon Boats
-- Photography
-- Picasa
-- Picasaweb
-- Vancouver
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-dsq\_thread\_id: '139783846'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Bowen Island
+  - Dragon Boats
+  - Photography
+  - Picasa
+  - Picasaweb
+  - Vancouver
+description: You know it is time ..
+date: '2010-9-9'
 ---
 
 to write a blog post, when someone calls you to tell you that they checked your blog, and there was nothing of interest. Ofcourse, being lazy, I just chose to put some pictures, which have been languishing in the netherworld of pictures on the internet -- Picasa.

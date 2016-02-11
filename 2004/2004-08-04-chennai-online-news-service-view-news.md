@@ -1,24 +1,7 @@
 ---
-layout: post
 title: Chennai Online News Service - View News
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/08/chennai-online-news-service-view-news.html
-blogger\_author: Shivanand Velmurugan
-\_edit\_last: '1'
-\_wpas\_skip\_2634709: '1'
-\_wpas\_skip\_2634712: '1'
-\_wpcom\_is\_markdown: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Chennai Online News Service - View News
+date: '2004-8-4'
 ---
 
 [Chennai Online News Service - View News][0]

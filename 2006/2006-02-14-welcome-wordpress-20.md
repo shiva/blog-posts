@@ -1,17 +1,7 @@
 ---
-layout: post
-title: I'm back
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:169:"a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:1;O:8:"stdClass":1:{s:3:"tag";s:13:"short\_updates";}i:2;O:8:"stdClass":1:{s:3:"tag";s:12:"Site\_updates";}}";
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "I'm back"
+description: "I'm back"
+date: '2006-2-14'
 ---
 
 I have been away far too long this time around. But, I finally find some time to do my bloggy thingy!

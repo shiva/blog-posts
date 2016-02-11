@@ -1,22 +1,11 @@
 ---
-layout: post
-title: '\[Jason\] The Case Against Apple--in Five Parts'
-categories: \[\]
+title: "\\[Jason\\] The Case Against Apple--in Five Parts"
 tags:
-- apple
-- Google Voice
-- Jason Calacanis
-published: true
-meta:
-\_edit\_last: '1'
-aktt\_notify\_twitter: 'no'
-\_aktt\_hash\_meta: ''
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - apple
+  - Google Voice
+  - Jason Calacanis
+description: "\\[Jason\\] The Case Against Apple--in Five Parts"
+date: '2009-8-8'
 ---
 
 Hi Jason,

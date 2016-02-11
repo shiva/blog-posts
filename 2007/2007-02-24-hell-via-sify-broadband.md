@@ -1,18 +1,7 @@
 ---
-layout: post
 title: Hell via Sify Broadband
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_utw\_tags\_0: s:173:"a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:18:"broadband-in-india";}i:1;O:8:"stdClass":1:{s:3:"tag";s:15:"Random-Thoughts";}i:2;O:8:"stdClass":1:{s:3:"tag";s:11:"rants.-sify";}}";
-dsq\_thread\_id: '2971196'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Hell via Sify Broadband
+date: '2007-2-24'
 ---
 
 [![](/images/sifymail_thumb8.jpg)][0]

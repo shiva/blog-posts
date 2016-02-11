@@ -1,20 +1,11 @@
 ---
-layout: post
-title: I'm on cloud number 0.9!
-categories: \[\]
+title: "I'm on cloud number 0.9!"
 tags:
-- RSSCloud
-- software
-- Tech
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - RSSCloud
+  - software
+  - Tech
+description: "I'm on cloud number 0.9!"
+date: '2009-9-8'
 ---
 
 well not really! I just turned on [RSSCloud][0] support on this blog's feed. RSSCloud allows the feedreader subscribing to you, to setup a callback address, which your blog will call whenever you publish something. If every blog does the same, it could account for several thousand, if not million CPU cycles due to lesser polling. It is the brain-child of [Dave Winer][1], the man who invented [RSS][2], the author of the ever-popular [scriptingnews][3] blog. (If you had started blog back in 1994, you could've got a domain as kewl as his!)

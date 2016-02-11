@@ -1,17 +1,7 @@
 ---
-layout: post
 title: Left me gaping at the void
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Left me gaping at the void
+date: '2009-7-29'
 ---
 
 Seen in the wild

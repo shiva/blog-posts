@@ -1,20 +1,7 @@
 ---
-layout: post
 title: The results of Correctness
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/08/results-of-correctness.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: The results of Correctness
+date: '2004-8-30'
 ---
 
 [Matthew Yglesias: June 20, 2004 - June 26, 2004 Archives][0]: "The Dialectic of Inaccuracy"

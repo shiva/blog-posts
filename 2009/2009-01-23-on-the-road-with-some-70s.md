@@ -1,16 +1,7 @@
 ---
-layout: post
 title: On the road with some 70s
-categories: \[\]
-tags: \[\]
-published: true
-meta: {}
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: On the road with some 70s
+date: '2009-1-23'
 ---
 
 Quintessential road trip songs. The 70s rule!

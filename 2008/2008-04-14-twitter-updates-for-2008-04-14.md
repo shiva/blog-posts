@@ -1,17 +1,7 @@
 ---
-layout: post
 title: Twitter Updates for 2008-04-14
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_tweeted: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+description: Twitter Updates for 2008-04-14
+date: '2008-4-14'
 ---
 
 * tumblr\> Twitter Updates for 2008-04-13 [http://tinyurl.com/59s35e][0] [\#][1]

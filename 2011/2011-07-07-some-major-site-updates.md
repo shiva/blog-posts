@@ -1,18 +1,7 @@
 ---
-layout: post
-title: Some major site updates!
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-\_edit\_last: '1'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: 'Some major site updates!'
+description: 'Some major site updates!'
+date: '2011-7-7'
 ---
 
 * New wordpress theme

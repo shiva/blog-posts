@@ -1,6 +1,7 @@
 ---
-layout: post
 title: A broken elbow
+description: A broken elbow
+date: '2007-1-16'
 ---
 
 On the 2nd of Jan, I fell off my bike and fractured my elbow. Been out of action since then. Thanks for all you guys, who kept me company.

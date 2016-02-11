@@ -1,21 +1,7 @@
 ---
-layout: post
-title: 'copyrights!! that''s the in-thing these days !! Wired 12.11: How I Learned
-to Love Larry'
-categories: \[\]
-tags: \[\]
-published: true
-meta:
-aktt\_notify\_twitter: 'no'
-blogger\_blog: shvelmur.blogspot.com
-blogger\_permalink: /2004/10/copyrights-thats-in-thing-these-days.html
-blogger\_author: Shivanand Velmurugan
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+title: "copyrights!! that's the in-thing these days !! Wired 12.11: How I Learned to Love Larry"
+description: "copyrights!! that's the in-thing these days !! Wired 12.11: How I Learned to Love Larry"
+date: '2004-10-28'
 ---
 
 [Wired 12.11: How I Learned to Love Larry][0]

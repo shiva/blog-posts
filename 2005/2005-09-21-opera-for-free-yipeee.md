@@ -1,20 +1,9 @@
 ---
-layout: post
-title: Opera for free! Yipeee!
-categories: \[\]
+title: 'Opera for free! Yipeee!'
 tags:
-- Tools
-published: true
-meta:
-\_utw\_tags\_0: s:146:"a:3:{i:0;O:8:"stdClass":1:{s:3:"tag";s:11:"Development";}i:1;O:8:"stdClass":1:{s:3:"tag";s:5:"Tools";}i:2;O:8:"stdClass":1:{s:3:"tag";s:3:"Web";}}";
-\_aktt\_hash\_meta: ''
-aktt\_notify\_twitter: 'no'
-author:
-login: admin
-email: shiv@shiv.me
-display\_name: Shiva
-first\_name: Shiva
-last\_name: Velmurugan
+  - Tools
+description: 'Opera for free! Yipeee!'
+date: '2005-9-21'
 ---
 
 There was once a wondeful browser called "Opera". The lucid interface, the smal memory footprint - it was simply browsing heaven.
