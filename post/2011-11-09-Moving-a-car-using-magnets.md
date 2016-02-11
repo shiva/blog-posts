@@ -1,7 +1,7 @@
 ---
-title: ''
+title: 'Moving a car using magnets'
 date: '2011-11-09'
-description: ''
+description: 'Moving a car using magnets'
 ---
 
 1\. Assuming an [average car weighs around 4000 pounds][0]
@@ -37,7 +37,7 @@ From the above, assuming a cross section of 0.5 sq m (A), current of 10 A (I), a
 
 N ~= 7.568 \* 10 ^ 3 ~= 7000 turns
 
-Now, Density of Copper is **8.92 gm/cm3\. We can guesstimate the weight by guesing the lenght of such a solenoid.**
+Now, Density of Copper is **8.92 gm/cm3\. We can guesstimate the weight by guessing the length of such a solenoid.**
 
 
 
