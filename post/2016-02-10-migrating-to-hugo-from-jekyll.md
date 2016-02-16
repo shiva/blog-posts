@@ -1,6 +1,5 @@
 ---
 title: Migrating from Jekyll to Hugo
-draft: true
 tags:
   - static site generator
   - hugo
@@ -10,7 +9,7 @@ tags:
   - tools
   - hacks
 date: '2016-02-10'
-title: Migrating from Jekyll to Hugo
+description: Migrating from Jekyll to Hugo
 ---
 
 
