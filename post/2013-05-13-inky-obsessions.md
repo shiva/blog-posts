@@ -20,7 +20,5 @@ Have I mentioned the long-standing obsession with stationery, especially, founta
 
 Here is the result of the latest rotation of inks and pens.
 
-\[caption id="attachment\_13780" align="alignnone" width="225"\][![Ink Rotation - May 12th](/images/Photo-2013-05-12-5-40-53-PM-e1368499228747-225x300.jpg)][0] Ink Rotation - May 12th\[/caption\]
+![Ink Rotation - May 12th](/images/Photo-2013-05-12-5-40-53-PM-e1368499228747-225x300.jpg)
 
-
-[0]: http://blog.shiv.me/wp-content/uploads/2013/05/Photo-2013-05-12-5-40-53-PM-e1368499228747.jpg

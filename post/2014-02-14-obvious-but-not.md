@@ -1,18 +1,15 @@
 ---
 title: 'Somethings should be obvious, but are not, obviously'
 tags:
-  - code
-  - dev
   - invewrapper
   - pew
   - pip
-  - "pkg\\_resources.DistributionNotFound"
   - programming
   - python
   - setuptools
   - virtualenv
 date: '2014-02-14'
-description: 'Somethings should be obvious, but are not, obviously'
+description: "Somethings should be obvious, but are not, obviously"
 ---
 
 _Update: Apparently, I had accidentally hit a minor bug in pew. This has now been [fixed][0]._
@@ -23,11 +20,13 @@ I am currently on a bit of [MongoDB][1] binge, and I was setting up a dev enviro
 
 I followed the [instructions to install pew][6] (which is quite straight-forward). All one should need is
 
+``` bash
     pip install pew
+```
     
-
 However, when I tried the same, the install worked, but I couldn't run pew. It couldn't find all the libraries it needed to load (virtualenv, in this case)
 
+``` bash
     shiva@crunchbang-2:~$ sudo pip install pew
     Downloading/unpacking pew
     Downloading pew-0.1.9.tar.gz
@@ -47,13 +46,12 @@ However, when I tried the same, the install worked, but I couldn't run pew. It c
     File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 584, in resolve
     raise DistributionNotFound(req)
     pkg_resources.DistributionNotFound: virtualenv
-    
-    
+```
 
 After trying several things, including looking a lot of code in pew, the fix was quite simple.
-
 The version of setup-tools that comes default with python2.7 and crunchbang seems flawed.
 
+``` bash
     shiva@crunchbang-2:~$ sudo pip install -U setuptools
     Downloading/unpacking setuptools from https://pypi.python.org/packages/3.4/s/setuptools/setuptools-2.2-py2.py3-none-any.whl#md5=3b7d84f496aed8c07b91efba4aa197a4
     Downloading setuptools-2.2-py2.py3-none-any.whl (540kB): 540kB downloaded
@@ -71,9 +69,7 @@ The version of setup-tools that comes default with python2.7 and crunchbang seem
     Installing setuptools, pip...done.
     Launching subshell in virtual environment. Type 'exit' or 'Ctrl+D' to return.
     /home/shiva/.local/share/virtualenvs/test/bin:/home/shiva/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
-    
-
-
+```
 
 [0]: https://github.com/berdario/invewrapper/issues/21
 [1]: http://www.mongodb.org/
@@ -82,3 +78,4 @@ The version of setup-tools that comes default with python2.7 and crunchbang seem
 [4]: https://github.com/berdario/invewrapper
 [5]: http://www.pip-installer.org/en/latest/
 [6]: https://github.com/berdario/invewrapper#installation
+
