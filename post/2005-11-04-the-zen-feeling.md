@@ -1,6 +1,6 @@
 ---
 title: 'The zen feeling!'
-tags: creative mp3-player gadgets headphones sennheiser
+tags: creative,mp3-player,gadgets,headphones,sennheiser
 date: '2005-11-04'
 description: 'The zen feeling!'
 ---

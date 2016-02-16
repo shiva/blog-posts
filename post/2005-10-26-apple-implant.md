@@ -1,6 +1,6 @@
 ---
 title: Apple iMplant
-tags: apple weird-tech news gadgets
+tags: apple,weird-tech,news,gadgets
 date: '2005-10-26'
 description: Apple iMplant
 ---

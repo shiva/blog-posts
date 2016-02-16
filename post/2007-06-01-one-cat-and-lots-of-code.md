@@ -1,6 +1,5 @@
 ---
 title: One cat and lots of code
-tags: coding
 date: '2007-06-01'
 description: One cat and lots of code
 ---

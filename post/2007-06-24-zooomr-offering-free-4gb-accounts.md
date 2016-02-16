@@ -1,6 +1,5 @@
 ---
 title: 'Zooomr offering free 4GB accounts!'
-tags: Tools
 date: '2007-06-24'
 description: 'Zooomr offering free 4GB accounts!'
 ---
