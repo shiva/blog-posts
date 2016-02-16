@@ -1,6 +1,13 @@
 ---
 title: 'Issue with Twitbin, Jing the next-gen screen capture'
-tags: 'Jing, screencast, Tools, Twitbin, Twitter, twitter clients'
+tags:
+  - Jing
+  - screencast
+  - Tools
+  - Twitbin
+  - Twitter
+  - twitter
+  - clients
 date: '2007-10-02'
 description: 'Issue with Twitbin, Jing the next-gen screen capture'
 ---

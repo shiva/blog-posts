@@ -1,6 +1,11 @@
 ---
 title: 'News?! Why buy'
-tags: 'random thoughts, news is dead'
+tags:
+  - random
+  - thoughts
+  - news
+  - is
+  - dead
 date: '2007-03-29'
 description: 'News?! Why buy'
 ---

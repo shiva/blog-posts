@@ -1,6 +1,8 @@
 ---
 title: 'Tips: Presentation'
-tags: 'presentation, tips-n-tricks'
+tags:
+  - presentation
+  - tips-n-tricks
 date: '2007-01-31'
 description: 'Tips: Presentation'
 ---

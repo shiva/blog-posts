@@ -1,6 +1,9 @@
 ---
 title: hmm.. facebook apps and bandwidth
-tags: 'facebook, web 2.0'
+tags:
+  - facebook
+  - web
+  - '2.0'
 date: '2007-10-01'
 description: hmm.. facebook apps and bandwidth
 ---

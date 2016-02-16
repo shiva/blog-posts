@@ -1,6 +1,9 @@
 ---
 title: Got myself a new Laptop
-tags: 'laptop, hp, hardware'
+tags:
+  - laptop
+  - hp
+  - hardware
 date: '2007-01-29'
 description: Got myself a new Laptop
 ---

@@ -1,6 +1,12 @@
 ---
 title: EX-SideRSS
-tags: 'coding, Development, EXSideRSS, SideRSS, wordpress plugins'
+tags:
+  - coding
+  - Development
+  - EXSideRSS
+  - SideRSS
+  - wordpress
+  - plugins
 date: '2007-10-01'
 description: EX-SideRSS
 ---

@@ -1,6 +1,9 @@
 ---
 title: 'Unix: how to check system configuration on solaris'
-tags: 'coding, solaris, unix'
+tags:
+  - coding
+  - solaris
+  - unix
 date: '2007-09-08'
 description: 'Unix: how to check system configuration on solaris'
 ---

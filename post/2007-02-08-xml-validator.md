@@ -1,6 +1,11 @@
 ---
 title: XML Validator
-tags: 'XML, XML Tools, XML Validator'
+tags:
+  - XML
+  - XML
+  - Tools
+  - XML
+  - Validator
 date: '2007-02-08'
 description: XML Validator
 ---

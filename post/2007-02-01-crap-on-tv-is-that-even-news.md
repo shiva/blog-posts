@@ -1,6 +1,12 @@
 ---
 title: 'Crap on TV - Is that even news?!'
-tags: 'crap on tv, ankit wadia, security'
+tags:
+  - crap
+  - 'on'
+  - tv
+  - ankit
+  - wadia
+  - security
 date: '2007-02-01'
 description: 'Crap on TV - Is that even news?!'
 ---

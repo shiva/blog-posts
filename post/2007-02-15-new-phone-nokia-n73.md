@@ -1,6 +1,10 @@
 ---
 title: New phone - Nokia N73
-tags: 'nokia, N73, nokia N73'
+tags:
+  - nokia
+  - N73
+  - nokia
+  - N73
 date: '2007-02-15'
 description: New phone - Nokia N73
 ---

@@ -1,6 +1,13 @@
 ---
 title: 'MS Vs Apple: Which is more secure?'
-tags: 'security, windows, vista, opensuse, linux, ubuntu, freebsd'
+tags:
+  - security
+  - windows
+  - vista
+  - opensuse
+  - linux
+  - ubuntu
+  - freebsd
 date: '2007-03-17'
 description: 'MS Vs Apple: Which is more secure?'
 ---

@@ -1,6 +1,12 @@
 ---
 title: Common Access Portal
-tags: 'tools, design, wordpress plugins, development, ideas'
+tags:
+  - tools
+  - design
+  - wordpress
+  - plugins
+  - development
+  - ideas
 date: '2007-01-20'
 description: Common Access Portal
 ---

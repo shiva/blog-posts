@@ -1,6 +1,10 @@
 ---
 title: Loving my Canon 40D
-tags: 'canon 40d, DSLR, zooomr'
+tags:
+  - canon
+  - 40d
+  - DSLR
+  - zooomr
 date: '2007-10-20'
 description: Loving my Canon 40D
 ---

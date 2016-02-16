@@ -1,6 +1,11 @@
 ---
 title: 'Linux, preinstalled on PCs - It about time'
-tags: 'Ubuntu, Dell, Linux, Random Thoughts'
+tags:
+  - Ubuntu
+  - Dell
+  - Linux
+  - Random
+  - Thoughts
 date: '2007-04-24'
 description: 'Linux, preinstalled on PCs - It about time'
 ---

@@ -1,6 +1,8 @@
 ---
 title: Filmi funda
-tags: 'movies, humor'
+tags:
+  - movies
+  - humor
 date: '2007-02-16'
 description: Filmi funda
 ---

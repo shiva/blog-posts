@@ -1,7 +1,7 @@
 ---
-title: 'Moving a car using magnets'
+title: Moving a car using magnets
 date: '2011-11-09'
-description: 'Moving a car using magnets'
+description: Moving a car using magnets
 ---
 
 1\. Assuming an [average car weighs around 4000 pounds][0]

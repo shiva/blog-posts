@@ -1,6 +1,8 @@
 ---
 title: "Goldilock's at my place"
-tags: 'thief, rants'
+tags:
+  - thief
+  - rants
 date: '2007-02-11'
 description: "Goldilock's at my place"
 ---

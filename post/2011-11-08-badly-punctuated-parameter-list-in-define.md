@@ -1,5 +1,5 @@
 ---
-title: "Badly punctuated parameter list in #define"
+title: 'Badly punctuated parameter list in #define'
 tags:
   - "\\#define"
   - badly punctuated parameter list
@@ -10,8 +10,8 @@ tags:
   - gcc
   - programming
 date: '2011-11-08'
-description: "Badly punctuated parameter list in #define"
-url: "badly-punctuated-parameter-list"
+description: 'Badly punctuated parameter list in #define'
+url: badly-punctuated-parameter-list
 ---
 
 Sometimes working with an old c compiler brings up painful, yet fun-filled days of making it speak the same language as you, and sometimes you just go "\*$&%\*$\#&% you piece of sh\*\* compiler"

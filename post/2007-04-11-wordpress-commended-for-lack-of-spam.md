@@ -1,6 +1,8 @@
 ---
 title: Wordpress commended for lack of spam
-tags: 'wordpress, akismet'
+tags:
+  - wordpress
+  - akismet
 date: '2007-04-11'
 description: Wordpress commended for lack of spam
 ---

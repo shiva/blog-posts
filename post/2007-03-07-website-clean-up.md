@@ -1,6 +1,16 @@
 ---
 title: Website clean up
-tags: 'ideas, tools, wordpress, WPexAPI, wordpress extended RPC, Novell, ODF, OpenXML'
+tags:
+  - ideas
+  - tools
+  - wordpress
+  - WPexAPI
+  - wordpress
+  - extended
+  - RPC
+  - Novell
+  - ODF
+  - OpenXML
 date: '2007-03-07'
 description: Website clean up
 ---

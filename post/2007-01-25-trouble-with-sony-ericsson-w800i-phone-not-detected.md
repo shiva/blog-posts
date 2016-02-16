@@ -1,6 +1,18 @@
 ---
 title: Trouble with Sony Ericsson W800i - Phone not detected.
-tags: 'SE W800i, Sony Ericsson W800i, mobile phone pc connectivity, tips n tricks'
+tags:
+  - SE
+  - W800i
+  - Sony
+  - Ericsson
+  - W800i
+  - mobile
+  - phone
+  - pc
+  - connectivity
+  - tips
+  - 'n'
+  - tricks
 date: '2007-01-25'
 description: Trouble with Sony Ericsson W800i - Phone not detected.
 ---
