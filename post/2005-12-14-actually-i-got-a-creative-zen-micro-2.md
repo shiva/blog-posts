@@ -1,6 +1,8 @@
 ---
 title: Actually I got a Creative Zen Micro instead
-tags: zen-micro, mp3-players
+tags:
+  - zen-micro
+  - mp3-players
 date: '2005-12-14'
 description: Actually I got a Creative Zen Micro instead
 ---

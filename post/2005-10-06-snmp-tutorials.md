@@ -1,6 +1,10 @@
 ---
 title: SNMP tutorials
-tags: SNMP,books,tutorials,networking
+tags:
+  - SNMP
+  - books
+  - tutorials
+  - networking
 date: '2005-10-06'
 description: SNMP tutorials
 ---

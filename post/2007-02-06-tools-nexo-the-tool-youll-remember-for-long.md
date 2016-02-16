@@ -1,6 +1,8 @@
 ---
 title: "Nexo - The tool you'll remember for a while"
-tags: tools,nexo
+tags:
+  - tools
+  - nexo
 date: '2007-02-06'
 description: "Nexo - The tool you'll remember for a while"
 ---

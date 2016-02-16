@@ -9,7 +9,7 @@ tags:
   - setuptools
   - virtualenv
 date: '2014-02-14'
-description: "Somethings should be obvious, but are not, obviously"
+description: 'Somethings should be obvious, but are not, obviously'
 ---
 
 _Update: Apparently, I had accidentally hit a minor bug in pew. This has now been [fixed][0]._

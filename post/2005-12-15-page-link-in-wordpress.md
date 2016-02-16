@@ -1,6 +1,9 @@
 ---
 title: Page link in wordpress
-tags: wordpress,falbum,k2
+tags:
+  - wordpress
+  - falbum
+  - k2
 date: '2005-12-15'
 description: Page link in wordpress
 ---
