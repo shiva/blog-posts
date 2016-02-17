@@ -10,7 +10,7 @@ tags:
   - pens
 date: '2014-04-23'
 description: Ink rotation - April 2014
-url: ink-rotation-april-2014
+slug: ink-rotation-april-2014
 ---
 I haven't been very good with rotating the inks in the last year. Having accumulated more than my share of inks, it is time to have fewer pens inked and rotate colors.
 

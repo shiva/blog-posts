@@ -8,6 +8,7 @@ tags:
   - goals
 date: '2016-01-31'
 description: A month flies by
+slug: jan-goal-update
 ---
 It has not been a great start. It, however, has been a busy one.
 
