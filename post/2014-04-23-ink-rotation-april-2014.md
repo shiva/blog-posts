@@ -20,4 +20,4 @@ I still couldn't resist inking 9 pens! There are 3 pens I'm excited about -- 2 p
 
 ![20140423-085350.jpg](/images/20140423-085350.jpg)
 
-[1]: http://tinaferan.com"
+[1]: http://tinaferan.com
