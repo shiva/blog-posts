@@ -32,7 +32,19 @@ As any self-respecting programmer is wont to do, instead of focussing on write m
  - Should have a few choices of good themes
  - Good community support and/or documents
 
+Scouring the corners of the internet, I narrowed down on two - [Hexo][1] and [Hugo][2]. 
 
+## Why Hugo?
+ - much faster to re-generate compared to jekyll
+ - opinionated => very little dependencies
+ - very active community
+ - written in go lang. This is great for me, since I am switching to Go as a primary language for my hacking needs. 
+ - Lots of issues => opportunity for me to contribute in a largish project in go!
+
+## The choice is made. Now to move the herd!
+
+
+## Notes
  - Re-generation is a pain as the number of posts grow. I have 300+ posts since 2004, and re-generating the site was taking over a minute
  - no serve based auto-generation
  - too many plugins to do basic things 
@@ -68,10 +80,11 @@ As any self-respecting programmer is wont to do, instead of focussing on write m
  - <http://tjheeta.github.io/2016/01/31/moving-from-jekyll-to-hugo/>
 
 
-
-[1]: https://gohugo.io/tutorials/migrate-from-jekyll/
-[2]: https://gohugo.io/commands/hugo_import_jekyll/
-[3]: http://nathanleclaire.com/blog/2014/12/22/migrating-to-hugo-from-octopress/
-[4]: http://fredrikloch.me/post/moving_jekyll_hugo/
+[1]: https://hexo.io/
+[2]: https://gohugo.io/
+[3]: https://gohugo.io/tutorials/migrate-from-jekyll/
+[4]: https://gohugo.io/commands/hugo_import_jekyll/
+[5]: http://nathanleclaire.com/blog/2014/12/22/migrating-to-hugo-from-octopress/
+[6]: http://fredrikloch.me/post/moving_jekyll_hugo/
 
 [^slow] : Slow is relative. I have about 300+ posts, and rendering them into HTML using jekyll, takes a few minutes. 
