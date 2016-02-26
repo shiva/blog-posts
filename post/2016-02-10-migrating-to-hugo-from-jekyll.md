@@ -12,12 +12,27 @@ date: '2016-02-10'
 description: Migrating from Jekyll to Hugo
 ---
 
+I set myself a goal to write more this year - in fact, I attempted to do so once every week. This required me to look at my blog, which led to the inevitable: small changes in what it looked like, led to general dis-satisfcation with the current solution I have to publish my blog, which quickly ballooned into a whole host of activities.
 
-- Dissatisfaction with status quo
- - I am developer, I like to write code more than I like to write documents
- - more importantly, I like to re-write until it 'feels' right. 
+Let me step back a bit. 
 
-- Jekyll is really Hyde
+## Jekyll is really Hyde
+
+I host my blog on github, using a static site generator - Jekyll. It is written in ruby, has some cool features. Overall, it is a decent solution, but I was never satisfied with options it provided. I have hesistated to hack at it, since ruby isn't my language-du-jour, and most of the changes have been quite minimal. It is also extremely slow[^slow].
+
+As any self-respecting programmer is wont to do, instead of focussing on write more, and meeting my goal, I delved right into designing the site and fixing the proverbial "bike-shed" -- in this case, it is time for a new static site generator. The choice is purely based on criteria that of personal importance:
+ - Must be *fast* -- I mean blazing.
+ - Must be in one of the languages I currently hack in - go, nim, c, c++, javascript, python, rust, erlang
+ - Should have good defaults -- shouldn't need plugins to perform basic features
+    - syntax highlighting
+    - responsive images
+    - theming
+    - permalinks
+    - good markdown support (extended)
+ - Should have a few choices of good themes
+ - Good community support and/or documents
+
+
  - Re-generation is a pain as the number of posts grow. I have 300+ posts since 2004, and re-generating the site was taking over a minute
  - no serve based auto-generation
  - too many plugins to do basic things 
@@ -58,3 +73,5 @@ description: Migrating from Jekyll to Hugo
 [2]: https://gohugo.io/commands/hugo_import_jekyll/
 [3]: http://nathanleclaire.com/blog/2014/12/22/migrating-to-hugo-from-octopress/
 [4]: http://fredrikloch.me/post/moving_jekyll_hugo/
+
+[^slow] : Slow is relative. I have about 300+ posts, and rendering them into HTML using jekyll, takes a few minutes. 
