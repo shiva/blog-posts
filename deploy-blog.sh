@@ -14,17 +14,22 @@ if [ "$TRAVIS_PULL_REQUEST" != "false" -o "$TRAVIS_BRANCH" != "$CONTENT_BRANCH" 
     exit 0
 fi
 
-# Clone blog repo
+echo "Clone $BLOG_REPO ..."
 git clone $BLOG_REPO blog
 cd blog
 git checkout $BLOG_BRANCH
+git submodule init
+git submodule update themes/lanyon
+git submodule update public
+git submodule update content
 
 git config user.name "Travis CI"
 git config user.email "travis@shiv.me"
 
-# update to latest posts
+echo "Update to latest posts ..."
 cd content # descend
-git pull
+git fetch
+git checkout all_md
 LAST_COMMIT_MSG=`git log -1 --pretty=format:%s`
 
 cd ..   # go to blog-repo. If there are no changes then just bail.
@@ -33,12 +38,12 @@ if [ -z `git diff --exit-code` ]; then
     exit 0
 fi
 
-# something changed; commit changes to BLOG REPO
+echo "Something changed; commit changes to $BLOG_REPO ..."
 git add .
 git commit -m "sync for: ${LAST_COMMIT_MSG}"
 git push $BLOG_REPO_WITH_TOKEN $BLOG_BRANCH
 
-# re-generate gh-pages
+echo "Re-generate blog ..."
 hugo -t lanyon
 
 cd public   # go to github-repo. If there are no changes then just bail.
@@ -47,17 +52,17 @@ if [ -z `git diff --exit-code` ]; then
     exit 0
 fi
 
-# Commit the "changes", i.e. the new version.
+echo "Commit the changes to blog ..."
 GITHUB_PUBLISH_REPO=`git config --get remote.origin.url`
 GITHUB_PUBLISH_REPO_WITH_TOKEN=${GITHUB_PUBLISH_REPO/https:\/\/github.com\//https://${GH_TOKEN}@github.com/}
 git add .
 git commit -m "publish for : ${LAST_COMMIT_MSG}"
 git push $GITHUB_PUBLISH_REPO_WITH_TOKEN $GITHUB_PUBLISH_BRANCH
 
-# return to blog repo and commit new publish head
+echo "Return to blog repo and commit new publish head ..."
 cd ..
 git add .
 git commit -m "publish for: ${LAST_COMMIT_MSG}"
 git push $BLOG_REPO_WITH_TOKEN $BLOG_BRANCH
 
-
+echo "Done."
