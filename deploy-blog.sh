@@ -53,6 +53,8 @@ if [ -z `git diff --exit-code` ]; then
 fi
 
 echo "Commit the changes to blog ..."
+git config user.name "Travis CI"
+git config user.email "travis@shiv.me"
 GITHUB_PUBLISH_REPO=`git config --get remote.origin.url`
 GITHUB_PUBLISH_REPO_WITH_TOKEN=${GITHUB_PUBLISH_REPO/https:\/\/github.com\//https://${GH_TOKEN}@github.com/}
 git add .
