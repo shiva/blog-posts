@@ -19,9 +19,9 @@ Thanks to my top followers
 2. [Ray Lian][3]
 3. [Dave Kell][4]
 
-
 [0]: http://vizify.com/
 [1]: https://twitter.com/tinaferan
 [2]: https://www.vizify.com/shivanand/twitter-video
 [3]: https://twitter.com/ray_lian
 [4]: https://twitter.com/covivant
+
