@@ -31,7 +31,7 @@ git checkout all_md
 LAST_COMMIT_MSG=`git log -1 --pretty=format:%s`
 
 cd ..   # go to blog-repo. If there are no changes then just bail.
-if [ -z `git diff --exit-code` ]; then
+if git diff-index --quiet HEAD --; then
     echo "No changes to the spec on this push; exiting."
     exit 0
 fi
