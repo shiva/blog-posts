@@ -19,8 +19,6 @@ git clone $BLOG_REPO blog
 cd blog
 git checkout $BLOG_BRANCH
 git submodule init
-git submodule update themes/lanyon
-git submodule update public
 git submodule update content
 
 git config user.name "Travis CI"
