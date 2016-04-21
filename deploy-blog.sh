@@ -40,31 +40,7 @@ fi
 
 echo "Something changed; commit changes to $BLOG_REPO ..."
 git add .
-git commit -m "sync for: ${LAST_COMMIT_MSG}"
-git push $BLOG_REPO_WITH_TOKEN $BLOG_BRANCH
-
-echo "Re-generate blog ..."
-hugo -t lanyon
-
-cd public   # go to github-repo. If there are no changes then just bail.
-if [ -z `git diff --exit-code` ]; then
-    echo "No changes to the spec on this push; exiting."
-    exit 0
-fi
-
-echo "Commit the changes to blog ..."
-git config user.name "Travis CI"
-git config user.email "travis@shiv.me"
-GITHUB_PUBLISH_REPO=`git config --get remote.origin.url`
-GITHUB_PUBLISH_REPO_WITH_TOKEN=${GITHUB_PUBLISH_REPO/https:\/\/github.com\//https://${GH_TOKEN}@github.com/}
-git add .
-git commit -m "publish for : ${LAST_COMMIT_MSG}"
-git push $GITHUB_PUBLISH_REPO_WITH_TOKEN $GITHUB_PUBLISH_BRANCH
-
-echo "Return to blog repo and commit new publish head ..."
-cd ..
-git add .
-git commit -m "publish for: ${LAST_COMMIT_MSG}"
+git commit -m "sync:${LAST_COMMIT_MSG}"
 git push $BLOG_REPO_WITH_TOKEN $BLOG_BRANCH
 
 echo "Done."
