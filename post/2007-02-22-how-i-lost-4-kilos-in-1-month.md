@@ -18,6 +18,6 @@ One of my good friends, James (who wants to remain anonymous), asked me how I lo
 2. Try eating with a cast on your arm
 3. Play need for speed (NFS) with two fingers
 
-Well, there is it. Everything mentioned here, happened, and results are garrentied for those who are brave enough to attempt it!
+Well, there is it. Everything mentioned here, happened, and results are guaranteed for those who are brave enough to attempt it!
 
 \[tags\]random thoughts\[/tags\]
