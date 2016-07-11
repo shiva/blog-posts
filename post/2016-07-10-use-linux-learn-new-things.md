@@ -9,6 +9,7 @@ tags:
   - How To
 date: '2016-07-10'
 description: Use Linux. It encourages learning new things, and new ways to do old things
+slug: use-linux-learn-new-things
 ---
 
 After 12+ years, I built a [workstation from scratch][0]. Hardware has come such a long way, but that is a post unto itself. Having always worked with Ubuntu and other debian variants it was time to venture into a more lean distro. I picked [Arch Linux][4], on the recommendation of several colleagues. It's been fun. [Pacman][1] and [Yaourt][2] are great package managers, and the [rolling release][3] model ensures access to the bleeding edge all the time.
