@@ -19,6 +19,7 @@ Working in linux always makes you learn something new. Today, I found out a simp
 ``` bash
 # qdbus org.kde.ksmserver /KSMServer logout 0 0 0
 ```
+
 [0]: https://ca.pcpartpicker.com/b/j6Cypg
 [1]: https://wiki.archlinux.org/index.php/pacman
 [2]: https://archlinux.fr/yaourt-en
