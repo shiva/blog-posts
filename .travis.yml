@@ -1,4 +1,11 @@
-script: bash ./deploy-blog.sh
+language: go
+go:
+    - tip
+before_script:
+    - go get -u -v github.com/spf13/hugo
+script: 
+    - bash ./deploy-blog.sh
+
 env:
   global:
     secure: IWvbRy4RL4/GUBVpoaabbgoKX/OQfecobj4SN8iEXUWEURUscMXbu9ejf1dwMz/rkImjFenU2Z1T41jMlJhnmCpi6dJ+38eyafEkPzomILjRj1+KZZmczvA6Ve8nzadkNa9sP/girGL/UaNgVLTizFGBtH8gEyaoSw+ZuMjbLw3fjdFwR02WsF2BiOUxJZckSYxAbbR9KbwlZffR6SYOayL0sk6nUfRQd72aN1Qoilynp/2AFcGGMXe8Iju34gRVM+5ASvoS8V8tAQjm4HP0FiKLM733IObOqd9Uyv4KpiqhKUKXJxZkQZNtI7LRU8G9BOL6dblHXMOQqfT/ILO6PLQpvd/jgN+x7iJWPJ5svkNI5MrjdxXR2kCTrfy/iFFBTrKgOwQ+boNZeaD1I9RdTzVcbh/Da0yulr4hTDDH+il7rmNeBAIRWQnIMQWWFXJbcQKpCcib0tq9Z8uE/29BSAKpBdjm6dTbXrZdFPCwRvrMDR+tLdmBCT9sCRv58qiHp8q9x2WVQ4ofWrep3Jli3tqbFAxCuWgzLMln3CbBk/8maZOqsRBmXfufp9wlXY4pMQfTOSGCGuc8Nzzc7+V1+enPGKZKtUHp9t9Cuj92SSsDkYHfu/b7DR2/rNI/zBuFE2pajnEJi7oXOXxUplXQ4W7yPz/qRNJy8wx3pG3J+Gk=
