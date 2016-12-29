@@ -27,9 +27,6 @@ Throw is the fuzzy find capabilities of the most awesome [Ctrl+p plugin][1], and
 
 Another frequently used command is remove-whitespace. I like to strip trailing whitespace, since it is quite ugly, off-putting when viewing diffs between two versions of a file, or when reading git-diffs and patches. It is a lot more powerful when combined with the ability to list all files that were changed in the last commit. The following command, fixes trailing white-spaces in all of the files that were changes in the last commit.
 
-```
-for f in `git show --name-only --pretty=""`; do echo $f; remove-whitespace $f;  done
-```
-
+<script src="https://gist.github.com/shiva/7f5ab9dbc7ed5bea59a4ce03aa2c9fb8.js"></script>
 
 [1]: https://github.com/kien/ctrlp.vim
