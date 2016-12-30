@@ -17,7 +17,9 @@ description: frequently used bash aliases that save time for a developer
 
 ### Searching for symbols
 
-The product that I work on, has over 22 million lines of source -- most of it a nightmare. I use vim as my editor of choice [^1]. Both cscope and ctags (integrated into vim), allow me to quickly move between files and lookup definitions of symbols, and help in understand the challenge at hand. Throw is the fuzzy find capabilities of the most awesome [Ctrl+p plugin][1], and vim becomes the best 'IDE' out there!
+The product that I work on, has over 22 million lines of source -- most of it a nightmare. I use vim as my editor of choice [^1]. Both cscope and ctags (integrated into vim), allow me to quickly move between files and lookup definitions of symbols, and help in understanding the challenge-du-jour. 
+
+Throw in fuzzy find capabilities of the most awesome [Ctrl+p plugin][1], and vim becomes the best 'IDE' out there!
 
 However, large code bases result in very large indexes. A fully indexed ctags file for the product I work is several gigabytes. At this scale, searching for a symbols slows vim down substantially. It is vital to isolate and index a portion of the source -- the part that I am interested in on a given day.
 
