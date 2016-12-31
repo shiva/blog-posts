@@ -15,5 +15,3 @@ We had a real great time... ofcourse there is the usual, TT, volleybal etc, but 
 If you are as lucky as we were, you can hear music from a divine voice.. You can contact me for that... maybe I can cajole Dinesh (ODC's own SPB!) into make a trip with you and sing for you... ;) just kidding !!
 
 Dinesh you've got one helluva voice man!!  
-
-![](/images/7854873-109630827451178238?l=shvelmur.blogspot.com)

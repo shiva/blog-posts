@@ -13,5 +13,3 @@ Last week, Priyanka and me, we celebrated our marriage's first anniversary! I dr
 On the way, I got to meet a coupla guys, who were fascinated with my helmet!
 
 Had a great time the last coupla weeks. Hoping the good run continues!
-
-![](/images/7854873-109534741414566981?l=shvelmur.blogspot.com)

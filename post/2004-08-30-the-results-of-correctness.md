@@ -16,7 +16,4 @@ Wham!!! The next thing I knew was, I was standing there, blood oozing from my le
 
 well, wonder when, people on the roads be accused for their error in driving, rather than based on the size/cost of their vehicles!  
 
-![](/images/7854873-109385429023032623?l=shvelmur.blogspot.com)
-
-
 [0]: http://www.matthewyglesias.com/archives/week_2004_06_20.html#003606

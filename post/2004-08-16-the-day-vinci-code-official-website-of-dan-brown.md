@@ -14,7 +14,5 @@ A paperback that makes you think! Now that's a new one.
 
 Btw, if you like the DVC, you might also want to take a peek at "_The unauthorised guide to the DVC_" by **Dan Burstein**
 
-![](/images/7854873-109266087952853071?l=shvelmur.blogspot.com)
-
 
 [0]: http://www.danbrown.com/novels/davinci_code/faqs.html

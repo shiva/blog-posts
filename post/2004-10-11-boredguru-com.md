@@ -10,7 +10,4 @@ Neat interface and no "signup with us if you want to use" thingy, gives good tri
 
 [BoredGuru.com : Home][0]
 
-![](/images/7854873-109751623235880595?l=shvelmur.blogspot.com)
-
-
 [0]: http://www.boredguru.com/

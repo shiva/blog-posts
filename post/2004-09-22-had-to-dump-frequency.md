@@ -16,7 +16,4 @@ A very nice quote on the website -
   
 _"I have discovered photography. Now I can kill myself. I have nothing else to learn"_ -- **Pablo Picasso**
 
-![](/images/7854873-109586365148141465?l=shvelmur.blogspot.com)
-
-
 [0]: http://www.photo.net

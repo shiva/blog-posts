@@ -14,8 +14,6 @@ Don't you think so?
 
 If you are interested, here is [George W. Bush's blog][1]
 
-![](/images/7854873-109282967326101097?l=shvelmur.blogspot.com)
-
 
 [0]: http://www.theonion.com/news/index.php?issue=4031
 [1]: http://prezgeorgew.typepad.com/
