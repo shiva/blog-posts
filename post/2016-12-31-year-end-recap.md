@@ -35,10 +35,10 @@ date = "2016-12-31T20:32:53-08:00"
 
    I have learnt quite a bit through the process, and perhaps will write more about deploying node js apps in production.
 
-   There is quite a lot of potential in make a product that simplifies authentication and authorization. All existing solution really get in the way of the user. We desperately need a universal interface for identity -- perhaps hardware that can make oAuth more ammenable for login.
+   There is potential for a product that simplifies authentication and authorization. All [existing][5] [solutions][6] that I have tried this year still get in the way of the user. We desperately need a universal interface for identity -- perhaps hardware that can make oAuth more ammenable for login.
 
-   - [Spellcaster][5] - find that perfect MTG card.
-   - [Wishlists][6] - maintain a list of wishlists . Was especially useful for Secret Santa this year
+   - [Spellcaster][7] - find that perfect MTG card.
+   - [Wishlists][8] - maintain a list of wishlists . Was especially useful for Secret Santa this year
 
 ## Blog once a week: Failing miserably.
 	This is going back on the list for next year. I have barely been online. Most of my posts
@@ -48,5 +48,7 @@ date = "2016-12-31T20:32:53-08:00"
 [2]: https://www.goodreads.com/book/show/13072034-sustainable-materials---with-both-eyes-open 
 [3]: https://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century
 [4]: https://www.goodreads.com/book/show/8082269-domain-specific-languages
-[5]: http://blog.shiv.me/spellcaster/
-[6]: http://shiv.me/wishlists/
+[5]: https://auth0.com/
+[6]: https://stormpath.com/
+[7]: http://blog.shiv.me/spellcaster/
+[8]: http://shiv.me/wishlists/
