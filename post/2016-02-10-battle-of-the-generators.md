@@ -1,5 +1,5 @@
 ---
-title: Battle of the static site generators - part 1
+title: Battle of the static site generators
 tags:
   - static site generator
   - hexo
@@ -50,8 +50,6 @@ Both Hugo and Hexo are pretty good. They are fast enough for my use, and are imp
 Hugo edged out Hexo: It has a few features that look promising and is a bit more fun to hack. It is written in go and this make it ideal. I am switching to Go as a primary language for my hacking needs. A lot of issues, and about 3000 forks is a good opportunity to contribute to a larg-ish project in go!
 
 The choice is made. Now to move the herd. I have the daunting task of migrating 300+ posts that were originally posted on different blog engines of the past: blogger, wordpress, and octopress and finally jekyll. 
-
-In subsequent posts, I will write about a small tool I have built to help with fixing YAML frontmatter after converting posts from html to markdown. 
 
 [^1]: Slow is relative. I have about 300+ posts, and rendering them into HTML using jekyll, takes a few minutes. 
 

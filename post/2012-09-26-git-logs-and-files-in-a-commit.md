@@ -1,5 +1,5 @@
 ---
-title: 'Git: beautiful git logs and listing files in a commit'
+title: 'Beautiful git logs and listing files in a commit'
 tags:
   - alias
   - files in a commit
@@ -18,14 +18,14 @@ For instance, the standard git log, it pretty much useless in any large project,
 
 The following is from the latest [linux.git][0]  
 
-{{< gist shiva 3791502 file-git-log-output-for-linux >}}
+{{% gist shiva 3791502 "file-git-log-output-for-linux" %}}
 
 Fortunately, git log has options one can use, that make the output look like this:  
 
-{{< gist shiva 3791502 file-git-lg-output-for-linux >}}
+{{% gist shiva 3791502 "file-git-lg-output-for-linux" %}}
 
 Another useful command is git show, with the --name-only option. It displays the list of files in a particular commit.  
 
-{{< gist shiva 3791502 file-git-show-name-only >}}
+{{% gist shiva 3791502 "file-git-show-name-only" %}}
 
 [0]: https://github.com/torvalds/linux "linux by Linus"
