@@ -6,9 +6,6 @@ tags = [
   "recap",
   "goals"
 ]
-categories = [
-  "goals",
-]
 description = "2016 year-end recap"
 date = "2016-12-31T20:32:53-08:00"
 +++
@@ -58,3 +55,6 @@ date = "2016-12-31T20:32:53-08:00"
 [7]: http://blog.shiv.me/spellcaster/
 [8]: http://shiv.me/wishlists/
 [9]: https://www.instagram.com/shivanand/
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMTgwOTk2ODldfQ==
+-->
