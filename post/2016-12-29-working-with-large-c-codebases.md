@@ -4,17 +4,15 @@ categories = [
 “programming“
 ]
 tags = [
-  - bash
-  - aliases
-  - cscope
-  - ctags
-  - remove whitespace
-  - strip whitespace
-  - git
+   “bash”,
+  “aliases”
+  “cscope
+  “ctags
+  
 ]
 date = “2016-12-29”
 slug = “working-with-large-c-codebases“
-descriptionfrequently used bash aliases that save time for a developer
+description = “Time saving bash aliases for a C developer”
 +++
 
 ### Searching for symbols
@@ -41,5 +39,5 @@ The following aliases help strip trailing whitespace given a file and keep commi
 
 [^1]: Don't even think of using eclipse or another IDE. A code-base this size, is simply too large for anything except simple text-based tools
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MzYxNDM1Nl19
+eyJoaXN0b3J5IjpbMTc1OTc2Nzk1OF19
 -->
