@@ -5,10 +5,11 @@ categories = [
 ]
 tags = [
    “bash”,
-  “aliases”
-  “cscope
-  “ctags
-  
+  “aliases”,
+  “cscope“,
+  “ctags“,
+  ”git”,
+  ”vim”
 ]
 date = “2016-12-29”
 slug = “working-with-large-c-codebases“
@@ -39,5 +40,5 @@ The following aliases help strip trailing whitespace given a file and keep commi
 
 [^1]: Don't even think of using eclipse or another IDE. A code-base this size, is simply too large for anything except simple text-based tools
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1OTc2Nzk1OF19
+eyJoaXN0b3J5IjpbMTg4MjUyNTE5OF19
 -->
