@@ -1,19 +1,19 @@
 +++
-title = “Working with large C codebases”## 
+title = "Working with large C codebases"
 categories = [
-“programming”
+"programming"
 ]
 tags = [
-   “bash”,
-  “aliases”,
-  “cscope”,
-  “ctags“,
-  ”git”,
-  ”vim”
+  "bash",
+  "aliases",
+  "cscope",
+  "ctags",
+  "git",
+  "vim"
 ]
-date = “2016-12-29”
-slug = “working-with-large-c-codebases“
-description = “Time saving bash aliases for a C developer”
+date = "2016-12-29"
+slug = "working-with-large-c-codebases"
+description = "Time saving bash aliases for a C developer"
 +++
 
 ### Searching for symbols
