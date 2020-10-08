@@ -1,5 +1,5 @@
 +++
-title = “Working with large C codebases”
+title = “Working with large C codebases”## 
 categories = [
 “programming”
 ]
@@ -40,5 +40,5 @@ The following aliases help strip trailing whitespace given a file and keep commi
 
 [^1]: Don't even think of using eclipse or another IDE. A code-base this size, is simply too large for anything except simple text-based tools
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3NTk1NDM5LDE4ODI1MjUxOThdfQ==
+eyJoaXN0b3J5IjpbMTU2NDY4OTQ4MSwxODgyNTI1MTk4XX0=
 -->
