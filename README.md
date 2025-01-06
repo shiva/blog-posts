@@ -1,7 +1,6 @@
-# blog-posts
-
 # [DEPRECATED]
 
+## blog-posts
 [![Build Status](https://travis-ci.org/shiva/blog-posts.svg?branch=all_md)](https://travis-ci.org/shiva/blog-posts)
 
 This repo is setup to auto-publish to http://blog.shiv.me
